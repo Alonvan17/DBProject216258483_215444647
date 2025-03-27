@@ -36,3 +36,10 @@
 
 ✔ גישה נוחה למידע תפעולי של חיל הים.
 
+###  ERD (Entity-Relationship Diagram)    
+
+![ERD Diagram](Stage1/ERDAndDSTFiles/ERD.png)  
+
+
+###  DSD (Data Structure Diagram)   
+![DSD Diagram](Stage1/ERDAndDSTFiles/DSD.png)  
