@@ -42,4 +42,4 @@
 
 
 ###  DSD (Data Structure Diagram)   
-![DSD Diagram](Stage1/ERDAndDSDFiles/DSD.png)  
+![DSD Diagram](Stage1/ERDAndDSDFiles/DSD.jpg)  
