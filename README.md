@@ -38,8 +38,8 @@
 
 ###  ERD (Entity-Relationship Diagram)    
 
-![ERD Diagram](Stage1/ERDAndDSTFiles/ERD.png)  
+![ERD Diagram](Stage1/ERDAndDSDFiles/ERD.png)  
 
 
 ###  DSD (Data Structure Diagram)   
-![DSD Diagram](Stage1/ERDAndDSTFiles/DSD.png)  
+![DSD Diagram](Stage1/ERDAndDSDFiles/DSD.png)  
