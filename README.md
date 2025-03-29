@@ -56,7 +56,7 @@
 
 - **סקריפט יצירת טבלאות:** 
 
-✍🏻 **[`create_tables.sql`](Phase1/scripts/NurserySchoolCreateTable.sql)**  
+✍🏻 **[`create_tables.sql`](Stage1/scripts/createTable.sql)**  
 
 
 
