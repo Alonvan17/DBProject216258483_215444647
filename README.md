@@ -58,7 +58,17 @@
 
 ✍🏻 **[`create_tables.sql`](Stage1/scripts/createTables.sql)**  
 
+- **סקריפט הכנסה לטבלאות:**
 
+✍🏻 **[`insert_tables.sql`](Stage1/scripts/insertTables.sql)**  
+ 
+- **סקריפט מחיקת טבלאות:** 
+
+✍🏻 **[`drop_tables.sql`](Stage1/scripts/dropTables.sql)**  
+
+- **סקריפט בחירת כל המידע מהטבלאות:**  
+
+✍🏻 **[`selectAll_tables.sql`](Stage1/scripts/selectAll.sql)**  
 
 
 
