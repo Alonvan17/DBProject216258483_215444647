@@ -52,5 +52,13 @@
 ###  DSD (Data Structure Diagram)   
 ![DSD Diagram](Stage1/ERDAndDSDFiles/DSD.jpg)  
 
-###  SQL Scripts  
+###  סקריפטים ב - SQL:
+
+- **סקריפט יצירת טבלאות:** 
+
+✍🏻 **[`create_tables.sql`](Phase1/scripts/NurserySchoolCreateTable.sql)**  
+
+
+
+
 
