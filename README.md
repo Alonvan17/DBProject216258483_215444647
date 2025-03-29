@@ -8,7 +8,9 @@
   - [הקדמה](#הקדמה)
   - [דיאגמרת ERD](#erd-entity-relationship-diagram)
   - [דיאגרמת DSD](#dsd-data-structure-diagram)  
-  - [סקריפטים בSQL](#סקריפטים)  
+  - [סקריפטים בSQL](#סקריפטים)
+  - [הכנסת מידע לטבלאות](#הכנסת-מידע-לטבלאות)
+
 
 
 
@@ -71,5 +73,7 @@
 
 ✍🏻 **[`selectAll_tables.sql`](Stage1/scripts/selectAll.sql)**  
 
+
+###  הכנסת מידע לטבלאות:
 
 
