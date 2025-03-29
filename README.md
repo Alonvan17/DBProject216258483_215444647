@@ -8,6 +8,7 @@
   - [הקדמה](#הקדמה)
   - [דיאגמרת ERD](#erd-entity-relationship-diagram)
   - [דיאגרמת DSD](#dsd-data-structure-diagram)  
+  - [סקריפטים בSQL](#סקריפטים)  
 
 
 
@@ -52,7 +53,7 @@
 ###  DSD (Data Structure Diagram)   
 ![DSD Diagram](Stage1/ERDAndDSDFiles/DSD.jpg)  
 
-###  סקריפטים ב - SQL:
+###  סקריפטים:
 
 - **סקריפט יצירת טבלאות:** 
 
