@@ -78,7 +78,10 @@
 
 ###  הכנסת מידע לטבלאות:
 
-####  כלי ראשון: using [mockaro](https://www.mockaroo.com/) to create csv file
+####  כלי ראשון: יצירת סקריפט בפייתון ✍🏻 **[`insert.py`](Stage1/Programing/insert.py)**  
+
+
+####  כלי שני: using [mockaro](https://www.mockaroo.com/) to create csv file
 
 
 ### גיבוי
