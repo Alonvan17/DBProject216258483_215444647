@@ -78,6 +78,8 @@
 
 ###  הכנסת מידע לטבלאות:
 
+####  כלי ראשון: using [mockaro](https://www.mockaroo.com/) to create csv file
+
 
 ### גיבוי
 
