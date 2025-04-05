@@ -81,8 +81,9 @@
 ####  כלי ראשון: יצירת סקריפט בפייתון ✍🏻 **[`insert.py`](Stage1/Programing/insert.py)**  
 
 
-####  כלי שני: שימוש באתר [mockaro](https://www.mockaroo.com/) על מנת ליצור קובץ CSV, תקיית כל הקבצים: ✍🏻 **[`selectAll.sql`](Stage1/scripts/selectAll.sql)**  
+####  כלי שני: שימוש באתר [mockaro](https://www.mockaroo.com/) על מנת ליצור קובץ CSV, תקיית כל הקבצים:  **[`mockarooFiles`](Stage1/mockarooFiles)**  
 
+  
 
 ![image](https://github.com/user-attachments/assets/f960841f-9ce0-4618-bfed-8e986c389ad8)
 
