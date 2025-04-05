@@ -79,6 +79,14 @@
 ###  הכנסת מידע לטבלאות:
 
 ####  כלי ראשון: יצירת סקריפט בפייתון ✍🏻 **[`insert.py`](Stage1/Programing/insert.py)**  
+![image](https://github.com/user-attachments/assets/d2d95a7f-1783-45e1-88da-b78c17c32db0)
+
+![image](https://github.com/user-attachments/assets/f0a60419-a374-4ea9-b119-75d078dd4460)
+
+![image](https://github.com/user-attachments/assets/9fd5c070-bd76-4f6f-9d72-36d22a0cbe13)
+
+![image](https://github.com/user-attachments/assets/97fbd7b7-a6a1-4528-8474-3f67f9ea6223)
+
 
 
 ####  כלי שני: שימוש באתר [mockaro](https://www.mockaroo.com/) על מנת ליצור קובץ CSV, תקיית כל הקבצים:  **[`mockarooFiles`](Stage1/mockarooFiles)**  
