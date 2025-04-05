@@ -61,19 +61,19 @@
 
 - **סקריפט יצירת טבלאות:** 
 
-✍🏻 **[`create_tables.sql`](Stage1/scripts/createTables.sql)**  
+✍🏻 **[`createTables.sql`](Stage1/scripts/createTables.sql)**  
 
 - **סקריפט הכנסה לטבלאות:**
 
-✍🏻 **[`insert_tables.sql`](Stage1/scripts/insertTables.sql)**  
+✍🏻 **[`insertTables.sql`](Stage1/scripts/insertTables.sql)**  
  
 - **סקריפט מחיקת טבלאות:** 
 
-✍🏻 **[`drop_tables.sql`](Stage1/scripts/dropTables.sql)**  
+✍🏻 **[`dropTables.sql`](Stage1/scripts/dropTables.sql)**  
 
 - **סקריפט בחירת כל המידע מהטבלאות:**  
 
-✍🏻 **[`selectAll_tables.sql`](Stage1/scripts/selectAll.sql)**  
+✍🏻 **[`selectAll.sql`](Stage1/scripts/selectAll.sql)**  
 
 
 ###  הכנסת מידע לטבלאות:
