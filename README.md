@@ -81,7 +81,9 @@
 ####  כלי ראשון: יצירת סקריפט בפייתון ✍🏻 **[`insert.py`](Stage1/Programing/insert.py)**  
 
 
-####  כלי שני: using [mockaro](https://www.mockaroo.com/) to create csv file
+####  כלי שני: שימוש באתר [mockaro](https://www.mockaroo.com/) על מנת ליצור קובץ CSV
+
+
 
 
 ####  כלי שלישי: using [generatedata](https://generatedata.com/generator) to create json file
