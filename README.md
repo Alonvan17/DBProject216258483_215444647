@@ -82,11 +82,14 @@
 
 
 ####  כלי שני: שימוש באתר [mockaro](https://www.mockaroo.com/) על מנת ליצור קובץ CSV, תקיית כל הקבצים:  **[`mockarooFiles`](Stage1/mockarooFiles)**  
+הנה דוגמא ליצירת הקבצים:
+עבור Submarine:
 
-  
+![image](https://github.com/user-attachments/assets/19cd2a58-a6a9-43b7-a0a6-00f0dfc4728e)
 
-![image](https://github.com/user-attachments/assets/f960841f-9ce0-4618-bfed-8e986c389ad8)
+![image](https://github.com/user-attachments/assets/340ec029-8704-4e78-b625-9b51ae449c85)
 
+ככה נעשה עבור כל הטבלאות
 
 
 ####  כלי שלישי: using [generatedata](https://generatedata.com/generator) to create json file
