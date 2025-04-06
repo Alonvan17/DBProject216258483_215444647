@@ -78,7 +78,18 @@
 
 ###  הכנסת מידע לטבלאות:
 
-####  כלי ראשון: יצירת סקריפט בפייתון ✍🏻 **[`insert.py`](Stage1/Programing/insert.py)**  
+####  כלי ראשון: שימוש באתר [mockaro](https://www.mockaroo.com/) על מנת ליצור קובץ CSV, תקיית כל הקבצים:  **[`mockarooFiles`](Stage1/mockarooFiles)**  
+דוגמא ליצירת הקבצים עבור Submarine:
+
+![image](https://github.com/user-attachments/assets/19cd2a58-a6a9-43b7-a0a6-00f0dfc4728e)
+
+![image](https://github.com/user-attachments/assets/340ec029-8704-4e78-b625-9b51ae449c85)
+
+ככה נעשה עבור כל הטבלאות
+
+
+####  כלי שני: יצירת סקריפט בפייתון ✍🏻 **[`insert.py`](Stage1/Programing/insert.py)**  
+
 ![image](https://github.com/user-attachments/assets/d2d95a7f-1783-45e1-88da-b78c17c32db0)
 
 ![image](https://github.com/user-attachments/assets/f0a60419-a374-4ea9-b119-75d078dd4460)
@@ -89,21 +100,23 @@
 
 
 
-####  כלי שני: שימוש באתר [mockaro](https://www.mockaroo.com/) על מנת ליצור קובץ CSV, תקיית כל הקבצים:  **[`mockarooFiles`](Stage1/mockarooFiles)**  
-הנה דוגמא ליצירת הקבצים:
-עבור Submarine:
 
-![image](https://github.com/user-attachments/assets/19cd2a58-a6a9-43b7-a0a6-00f0dfc4728e)
+####  כלי שלישי: שימוש באתר [generatedata](https://generatedata.com/generator) על מנת ליצור קובץ SQL, תקיית כל הקבצים: **[`generatedataFiles`](Stage1/generatedataFiles )**  
+דוגמא ליצירת הקבצים עבור Sea_vessel:
 
-![image](https://github.com/user-attachments/assets/340ec029-8704-4e78-b625-9b51ae449c85)
+<img width="959" alt="sea_vessel" src="https://github.com/user-attachments/assets/8384002c-f151-41e6-84dd-5356f0ca30ee" />
 
-ככה נעשה עבור כל הטבלאות
+![image](https://github.com/user-attachments/assets/876d4f0c-4133-4a8d-9054-a4ed0f8aa941)
 
-
-####  כלי שלישי: using [generatedata](https://generatedata.com/generator) to create json file
+![image](https://github.com/user-attachments/assets/2f47e4b1-1230-4c7a-9ca3-c92679f7dc11)
 
 
 ### גיבוי
 
 קבצי גיבוי נשמרים עם התאריך והשעה של הגיבוי: [לתיקיית הגיבויים](Stage1/Backup)
+ניכנס ל Tools -> Backup וניצור קובץ גיבוי עבור המבנה נתונים שלנו.
 
+![image](https://github.com/user-attachments/assets/d06b82b9-370c-4b5c-8861-a621c13339ad)
+
+לאחר מכן נבצע Rstore על מנת לראות שהגיבוי עובד:
+![image](https://github.com/user-attachments/assets/926e4af5-654e-420c-b4b8-86a150049768)
