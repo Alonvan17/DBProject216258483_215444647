@@ -116,7 +116,7 @@ def main():
     for i in range(1001,5001):
         name = random.choice(male_names)
         rank = random.choice(ranks)
-        crew = random.randint(401,801)
+        crew = random.randint(401,800)
         f.write(f"INSERT INTO Soldier (s_ID,name,rank, c_ID) VALUES ({i},\'"+name+"\',\'"+rank+f"\',{crew});\n")
 
 
