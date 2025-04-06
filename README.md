@@ -104,7 +104,7 @@
 ####  כלי שלישי: שימוש באתר [generatedata](https://generatedata.com/generator) על מנת ליצור קובץ SQL, תקיית כל הקבצים: **[`generatedataFiles`](Stage1/generatedataFiles )**  
 דוגמא ליצירת הקבצים עבור Sea_vessel:
 
-<img width="959" alt="sea_vessel" src="https://github.com/user-attachments/assets/8384002c-f151-41e6-84dd-5356f0ca30ee" />
+![image](https://github.com/user-attachments/assets/c25b64a2-7295-4e3e-851b-d13a9bb0adcc)
 
 ![image](https://github.com/user-attachments/assets/876d4f0c-4133-4a8d-9054-a4ed0f8aa941)
 
@@ -113,10 +113,14 @@
 
 ### גיבוי
 
-קבצי גיבוי נשמרים עם התאריך והשעה של הגיבוי: [לתיקיית הגיבויים](Stage1/Backup)
-ניכנס ל Tools -> Backup וניצור קובץ גיבוי עבור המבנה נתונים שלנו.
+קבצי גיבוי נשמרים עם התאריך של הגיבוי: [לתיקיית הגיבויים](Stage1/Backup)
+- ניכנס ל Tools -> Backup וניצור קובץ גיבוי עבור המבנה נתונים שלנו.
 
 ![image](https://github.com/user-attachments/assets/d06b82b9-370c-4b5c-8861-a621c13339ad)
 
-לאחר מכן נבצע Rstore על מנת לראות שהגיבוי עובד:
+![image](https://github.com/user-attachments/assets/9177f5dd-ac51-435b-b024-5cf3732d1287)
+
+
+- לאחר מכן נבצע Rstore על מנת לראות שהגיבוי עובד:
+
 ![image](https://github.com/user-attachments/assets/926e4af5-654e-420c-b4b8-86a150049768)
