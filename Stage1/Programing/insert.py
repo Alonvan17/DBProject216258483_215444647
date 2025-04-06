@@ -136,7 +136,7 @@ def main():
         capac = random.randint(80,121)
         firstDate = "to_date(\'" + random.choice(random_dates) + "\',\'yyyy-mm-dd\')"
         secondDate = "to_date(\'" + random.choice(random_dates) + "\',\'yyyy-mm-dd\')"
-        base = random.randint(101,201)
+        base = random.randint(101,200)
         f.write(f"INSERT INTO Sea_Vessel (Sea_ID,launcher_amount,nickname,capacity,test_date,c_id,lease_expiration_date,base_id) "
                 f"VALUES ({i},{launcher},\'"+female+f"\',{capac},"+firstDate+f",{i},"+secondDate+f",{base});\n")
 
