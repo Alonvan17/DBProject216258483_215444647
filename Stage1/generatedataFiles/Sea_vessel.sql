@@ -1,0 +1,480 @@
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (801,22,'Ross',1047,'Jan 13, 2025',801,'Jan 30, 2024',319),
+  (802,25,'Billy',349,'Jan 19, 2026',802,'Oct 31, 2024',386),
+  (803,17,'Emma',862,'Jan 6, 2025',803,'Jul 16, 2025',329),
+  (804,15,'Josh',653,'Jan 24, 2026',804,'Aug 16, 2024',242),
+  (805,28,'Noah',588,'Dec 31, 2024',805,'Aug 9, 2024',264),
+  (806,27,'Josh',102,'Mar 25, 2024',806,'Sep 14, 2025',382),
+  (807,18,'Jeffery',584,'Oct 28, 2025',807,'Dec 1, 2024',254),
+  (808,25,'Jeffery',319,'Aug 3, 2025',808,'Jan 5, 2024',367),
+  (809,30,'Scarlett',181,'Oct 28, 2025',809,'May 5, 2024',211),
+  (810,22,'Donald',792,'Aug 13, 2025',810,'Sep 12, 2024',265);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (811,27,'Malcolm',730,'Jan 6, 2025',811,'Feb 16, 2024',203),
+  (812,22,'Gabriel',411,'Jun 25, 2024',812,'Mar 1, 2025',206),
+  (813,17,'Harry',827,'Oct 8, 2024',813,'Mar 17, 2024',371),
+  (814,15,'Vivian',351,'Apr 17, 2024',814,'Oct 23, 2024',349),
+  (815,15,'David',433,'Jun 1, 2024',815,'Oct 30, 2024',394),
+  (816,10,'Billy',381,'Mar 24, 2025',816,'Dec 11, 2025',316),
+  (817,14,'Zachary',126,'May 13, 2024',817,'Jul 9, 2024',223),
+  (818,20,'Aaron',954,'Aug 9, 2025',818,'May 19, 2024',302),
+  (819,30,'Malcolm',674,'Jan 16, 2024',819,'Dec 13, 2025',346),
+  (820,18,'Scarlett',743,'Jan 6, 2025',820,'Jan 27, 2026',272);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (821,12,'Billy',1196,'Jan 28, 2025',821,'Feb 19, 2024',280),
+  (822,28,'Floyd',533,'Dec 13, 2024',822,'Jan 1, 2026',239),
+  (823,23,'Aaron',1148,'Jan 13, 2025',823,'Oct 15, 2024',274),
+  (824,24,'Adam',263,'Jun 5, 2024',824,'Oct 5, 2024',346),
+  (825,10,'Christian',504,'Jul 16, 2025',825,'Mar 16, 2025',399),
+  (826,15,'Ellis',750,'Nov 10, 2025',826,'Feb 21, 2025',268),
+  (827,22,'Isaiah',629,'May 25, 2024',827,'Mar 9, 2026',352),
+  (828,14,'Connor',559,'Sep 30, 2025',828,'Mar 16, 2025',234),
+  (829,10,'Lydia',1082,'Nov 1, 2024',829,'May 30, 2025',216),
+  (830,24,'Jeffery',201,'Nov 13, 2025',830,'Jan 27, 2026',391);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (831,17,'Isaiah',467,'Aug 22, 2025',831,'Aug 11, 2024',366),
+  (832,17,'Noah',843,'Jan 25, 2025',832,'Sep 11, 2024',349),
+  (833,12,'Connor',880,'Nov 16, 2025',833,'Aug 13, 2024',209),
+  (834,8,'David',1149,'Nov 20, 2024',834,'Feb 25, 2025',333),
+  (835,29,'Andy',964,'Aug 1, 2024',835,'Jun 28, 2024',268),
+  (836,13,'Floyd',319,'Mar 22, 2025',836,'Jan 27, 2024',400),
+  (837,27,'Andy',792,'Dec 5, 2025',837,'May 28, 2025',396),
+  (838,12,'Vivian',912,'Dec 22, 2024',838,'Jan 16, 2024',365),
+  (839,10,'Gabriel',983,'Sep 28, 2024',839,'Mar 3, 2025',302),
+  (840,23,'Emma',833,'Jul 16, 2024',840,'Aug 25, 2025',316);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (841,17,'Mitchell',262,'Jul 21, 2024',841,'Jan 27, 2025',310),
+  (842,28,'Harry',977,'Aug 18, 2024',842,'Jul 3, 2024',208),
+  (843,12,'Lydia',593,'Mar 19, 2024',843,'Sep 21, 2024',248),
+  (844,22,'Will',920,'Jan 3, 2026',844,'Dec 31, 2024',342),
+  (845,29,'Gabriel',231,'Mar 2, 2025',845,'Jan 28, 2026',375),
+  (846,22,'Scarlett',891,'Feb 5, 2024',846,'Aug 28, 2025',294),
+  (847,11,'Ross',609,'Mar 22, 2024',847,'Jun 29, 2024',303),
+  (848,15,'Lydia',1161,'Oct 15, 2025',848,'Oct 3, 2024',362),
+  (849,25,'Isaiah',1187,'Nov 13, 2024',849,'Aug 24, 2024',314),
+  (850,13,'Edgar',787,'Jan 17, 2026',850,'Dec 24, 2025',205);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (851,21,'Donald',613,'Mar 11, 2026',851,'May 10, 2024',396),
+  (852,23,'Zachary',384,'Mar 15, 2026',852,'Jan 13, 2025',244),
+  (853,23,'Floyd',110,'Dec 16, 2024',853,'Nov 6, 2025',389),
+  (854,24,'Connor',944,'Jan 24, 2026',854,'Aug 15, 2024',204),
+  (855,12,'Isaiah',446,'May 10, 2024',855,'Dec 15, 2024',374),
+  (856,18,'Quinn',1031,'Feb 6, 2025',856,'May 3, 2025',321),
+  (857,24,'Floyd',904,'Dec 8, 2025',857,'Jan 8, 2026',257),
+  (858,8,'Will',709,'Oct 21, 2025',858,'Jul 25, 2024',336),
+  (859,27,'Quinn',1180,'May 1, 2024',859,'Feb 6, 2026',318),
+  (860,9,'Samuel',1124,'Jun 22, 2025',860,'Sep 24, 2024',357);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (861,27,'Samuel',715,'Jan 11, 2026',861,'Oct 12, 2025',280),
+  (862,14,'Trevor',438,'Dec 23, 2025',862,'Jul 18, 2024',347),
+  (863,28,'Ellis',1068,'Jan 24, 2024',863,'Aug 8, 2025',327),
+  (864,9,'Noah',1003,'Jan 9, 2026',864,'Oct 18, 2025',293),
+  (865,23,'Gabriel',622,'Dec 3, 2025',865,'Apr 28, 2024',299),
+  (866,15,'Floyd',218,'Apr 22, 2024',866,'Jan 19, 2025',399),
+  (867,28,'Ellis',969,'Sep 5, 2025',867,'Jul 10, 2024',277),
+  (868,23,'Samuel',915,'Dec 29, 2024',868,'Jun 3, 2025',318),
+  (869,30,'Edgar',280,'Aug 31, 2024',869,'Jun 25, 2025',210),
+  (870,12,'Josh',716,'Oct 16, 2025',870,'Feb 9, 2026',347);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (871,25,'Samuel',179,'Jun 7, 2025',871,'Jul 11, 2025',224),
+  (872,16,'Scarlett',591,'Nov 6, 2025',872,'Jul 8, 2025',313),
+  (873,13,'Scarlett',180,'Jan 5, 2025',873,'Jan 15, 2025',333),
+  (874,27,'Harry',756,'Feb 11, 2025',874,'Jun 29, 2024',347),
+  (875,18,'Scarlett',1042,'Jul 28, 2025',875,'Mar 22, 2025',353),
+  (876,11,'Adam',967,'Oct 7, 2024',876,'Jan 15, 2026',221),
+  (877,29,'Edgar',430,'Jan 6, 2025',877,'Mar 27, 2024',339),
+  (878,18,'David',1179,'Nov 26, 2024',878,'Mar 25, 2026',289),
+  (879,24,'Quinn',1129,'May 6, 2024',879,'Nov 13, 2024',225),
+  (880,10,'Emma',734,'Dec 26, 2025',880,'Oct 20, 2025',343);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (881,15,'Vivian',916,'Feb 21, 2024',881,'Jun 17, 2025',310),
+  (882,18,'Edgar',1118,'Sep 13, 2025',882,'Apr 9, 2025',366),
+  (883,10,'Billy',520,'Mar 8, 2024',883,'May 30, 2024',353),
+  (884,26,'Connor',1091,'Jul 8, 2025',884,'Oct 19, 2024',204),
+  (885,22,'Quinn',543,'Feb 18, 2024',885,'Aug 29, 2024',300),
+  (886,20,'Emma',527,'Aug 14, 2024',886,'May 3, 2025',230),
+  (887,15,'Andy',917,'Feb 14, 2025',887,'Jan 22, 2024',214),
+  (888,16,'Gabriel',425,'Sep 19, 2024',888,'Feb 13, 2026',262),
+  (889,19,'Gabriel',672,'Jul 9, 2025',889,'Sep 6, 2025',323),
+  (890,29,'Aaron',562,'Aug 9, 2025',890,'Aug 1, 2025',398);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (891,18,'Ross',722,'Jan 10, 2026',891,'Apr 23, 2025',246),
+  (892,13,'Lydia',443,'Apr 1, 2025',892,'Apr 13, 2025',376),
+  (893,23,'Christian',1038,'Jun 24, 2025',893,'Apr 29, 2025',282),
+  (894,12,'Quinn',644,'Aug 20, 2025',894,'Oct 14, 2024',292),
+  (895,26,'Floyd',364,'Nov 8, 2025',895,'Sep 9, 2024',260),
+  (896,21,'Connor',275,'Jun 19, 2024',896,'Apr 21, 2024',331),
+  (897,21,'Jeffery',1147,'Mar 1, 2026',897,'Jan 21, 2025',372),
+  (898,17,'Edgar',849,'Jan 18, 2025',898,'May 2, 2025',382),
+  (899,12,'Donald',434,'Apr 29, 2025',899,'Dec 11, 2024',374),
+  (900,23,'Jeffery',561,'Dec 15, 2025',900,'May 10, 2025',271);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (901,8,'Andy',1091,'Mar 22, 2024',901,'Aug 26, 2025',214),
+  (902,25,'Harper',95,'Nov 2, 2025',902,'Feb 8, 2025',256),
+  (903,24,'Gabriel',196,'Apr 17, 2024',903,'Sep 2, 2024',245),
+  (904,18,'Ellis',919,'Jan 25, 2025',904,'Feb 9, 2024',288),
+  (905,22,'Donald',425,'Mar 23, 2024',905,'May 1, 2024',271),
+  (906,16,'Ellis',206,'Jun 23, 2025',906,'Apr 23, 2025',305),
+  (907,24,'David',913,'Jun 23, 2025',907,'Mar 22, 2026',371),
+  (908,24,'Jeffery',1164,'May 5, 2024',908,'Oct 9, 2025',227),
+  (909,23,'Christian',522,'May 13, 2024',909,'Aug 14, 2025',294),
+  (910,20,'Edgar',617,'May 21, 2024',910,'Aug 23, 2025',344);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (911,19,'Edgar',298,'Nov 22, 2024',911,'Mar 30, 2025',296),
+  (912,27,'Luis',434,'Nov 23, 2024',912,'Feb 6, 2025',310),
+  (913,21,'Andy',803,'Feb 15, 2025',913,'Mar 27, 2024',236),
+  (914,15,'Adam',564,'Apr 7, 2025',914,'Jul 18, 2024',382),
+  (915,18,'Quinn',1000,'Dec 25, 2024',915,'May 31, 2024',353),
+  (916,13,'Noah',381,'Jan 15, 2026',916,'Jun 11, 2025',286),
+  (917,21,'Lydia',312,'Feb 27, 2026',917,'Sep 3, 2025',371),
+  (918,10,'Noah',432,'May 26, 2024',918,'Feb 15, 2025',313),
+  (919,15,'Floyd',138,'Mar 2, 2026',919,'Oct 21, 2025',381),
+  (920,13,'Bryan',721,'Mar 4, 2024',920,'Mar 4, 2025',367);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (921,20,'Andy',620,'Sep 24, 2024',921,'Sep 11, 2024',256),
+  (922,18,'Luis',256,'Jan 28, 2026',922,'Aug 11, 2025',398),
+  (923,24,'Emma',167,'Jul 13, 2025',923,'May 31, 2024',309),
+  (924,14,'Edgar',245,'Feb 16, 2026',924,'Apr 13, 2024',324),
+  (925,15,'Gabriel',528,'May 21, 2024',925,'Oct 28, 2024',224),
+  (926,23,'Noah',878,'Jun 10, 2024',926,'Oct 15, 2025',231),
+  (927,16,'Quinn',267,'Dec 2, 2025',927,'Dec 19, 2024',280),
+  (928,11,'Connor',776,'May 6, 2024',928,'Apr 6, 2025',376),
+  (929,14,'Christian',585,'Dec 2, 2025',929,'Mar 1, 2026',242),
+  (930,15,'Bryan',1038,'Mar 1, 2024',930,'Mar 2, 2026',343);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (931,20,'Andy',638,'Mar 23, 2024',931,'Aug 22, 2024',260),
+  (932,14,'Andy',864,'Oct 11, 2025',932,'Mar 15, 2024',256),
+  (933,13,'Will',1021,'Jul 24, 2024',933,'Mar 2, 2025',352),
+  (934,26,'Floyd',229,'Mar 15, 2024',934,'Mar 24, 2026',305),
+  (935,12,'Aaron',1155,'Mar 17, 2026',935,'Apr 5, 2025',263),
+  (936,20,'Harper',627,'May 11, 2024',936,'Sep 7, 2025',329),
+  (937,9,'Josh',1186,'Mar 29, 2025',937,'Aug 20, 2025',369),
+  (938,26,'Ellis',761,'Jun 25, 2024',938,'Sep 11, 2024',222),
+  (939,10,'Malcolm',605,'Jun 7, 2025',939,'Jan 17, 2024',375),
+  (940,23,'Adam',533,'Feb 12, 2026',940,'Jun 6, 2024',380);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (941,17,'Emma',750,'Mar 7, 2026',941,'Nov 15, 2025',353),
+  (942,28,'Emma',399,'Oct 4, 2024',942,'Mar 4, 2025',224),
+  (943,23,'Billy',932,'Sep 19, 2024',943,'Mar 15, 2024',214),
+  (944,19,'Samuel',928,'Jul 7, 2024',944,'May 1, 2025',381),
+  (945,15,'Zachary',217,'Jan 26, 2026',945,'Nov 3, 2024',272),
+  (946,18,'Aaron',1009,'Jul 28, 2025',946,'Mar 9, 2026',253),
+  (947,21,'Billy',1199,'Jan 27, 2026',947,'Mar 17, 2024',272),
+  (948,21,'Andy',556,'Aug 4, 2025',948,'Aug 29, 2024',305),
+  (949,17,'Jeffery',505,'Dec 24, 2024',949,'Oct 5, 2024',399),
+  (950,9,'Harry',915,'Jan 15, 2026',950,'May 31, 2024',254);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (951,15,'Samuel',532,'Jan 9, 2026',951,'Jun 29, 2024',278),
+  (952,21,'Vivian',1015,'Jan 4, 2025',952,'Feb 7, 2026',238),
+  (953,18,'Harry',1182,'Nov 14, 2024',953,'Jun 7, 2025',238),
+  (954,24,'Aaron',506,'Mar 19, 2024',954,'Nov 21, 2025',294),
+  (955,10,'Ross',261,'Nov 2, 2024',955,'Oct 19, 2025',302),
+  (956,8,'David',860,'Mar 16, 2025',956,'Jan 31, 2025',285),
+  (957,15,'Ellis',767,'Jul 25, 2024',957,'Aug 2, 2024',329),
+  (958,9,'Noah',1169,'Jan 30, 2026',958,'Dec 6, 2025',379),
+  (959,21,'Vivian',577,'Mar 14, 2025',959,'May 29, 2024',285),
+  (960,14,'Harry',282,'Jan 12, 2024',960,'Apr 25, 2024',289);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (961,14,'Gabriel',184,'Aug 5, 2025',961,'Dec 14, 2024',379),
+  (962,29,'Aaron',507,'Feb 14, 2024',962,'Oct 21, 2025',360),
+  (963,20,'Harper',941,'May 31, 2024',963,'Dec 3, 2025',367),
+  (964,19,'Josh',588,'Jan 12, 2025',964,'Mar 15, 2025',345),
+  (965,24,'Noah',924,'Nov 20, 2024',965,'Jun 30, 2025',311),
+  (966,9,'Will',881,'Oct 6, 2024',966,'Jan 26, 2024',335),
+  (967,23,'Connor',961,'Mar 20, 2024',967,'May 7, 2024',280),
+  (968,23,'Scarlett',727,'Feb 23, 2025',968,'Feb 7, 2025',335),
+  (969,23,'Noah',335,'Oct 25, 2025',969,'Nov 15, 2025',211),
+  (970,21,'David',636,'Mar 7, 2024',970,'Oct 25, 2025',302);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (971,14,'Samuel',419,'Sep 16, 2024',971,'Dec 9, 2024',309),
+  (972,9,'Samuel',861,'Nov 19, 2025',972,'Apr 1, 2025',281),
+  (973,20,'David',805,'Nov 1, 2024',973,'Sep 17, 2025',297),
+  (974,10,'Quinn',396,'Jul 12, 2024',974,'May 19, 2025',293),
+  (975,18,'Scarlett',844,'Oct 8, 2025',975,'May 23, 2024',304),
+  (976,15,'Noah',702,'Oct 16, 2024',976,'Jul 9, 2025',358),
+  (977,14,'Malcolm',866,'Aug 26, 2024',977,'Jul 2, 2025',393),
+  (978,17,'Connor',416,'Aug 2, 2024',978,'Jan 20, 2026',398),
+  (979,19,'Harry',456,'Apr 13, 2024',979,'Jan 15, 2026',229),
+  (980,11,'Emma',424,'Dec 7, 2024',980,'Jan 20, 2025',323);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (981,27,'Andy',601,'Aug 25, 2024',981,'Mar 25, 2024',252),
+  (982,9,'Josh',235,'May 26, 2024',982,'Jan 9, 2025',346),
+  (983,25,'Billy',591,'Sep 22, 2024',983,'Oct 8, 2024',265),
+  (984,11,'Malcolm',266,'Dec 19, 2025',984,'Aug 18, 2025',293),
+  (985,27,'Ellis',720,'Sep 4, 2024',985,'Jul 18, 2024',313),
+  (986,18,'Malcolm',417,'Apr 22, 2024',986,'Nov 19, 2024',306),
+  (987,24,'Josh',1010,'Aug 1, 2024',987,'Sep 24, 2024',294),
+  (988,12,'Zachary',1012,'Feb 13, 2026',988,'Mar 6, 2025',387),
+  (989,16,'Mitchell',542,'Mar 16, 2024',989,'Sep 9, 2025',299),
+  (990,10,'Will',616,'Sep 27, 2025',990,'Aug 15, 2025',246);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (991,11,'Jeffery',322,'Nov 13, 2024',991,'Nov 21, 2025',229),
+  (992,18,'Ellis',1045,'Apr 13, 2024',992,'Feb 27, 2025',225),
+  (993,15,'Christian',173,'Mar 11, 2026',993,'Jan 30, 2024',308),
+  (994,11,'Adam',775,'Jul 31, 2025',994,'Jan 16, 2026',354),
+  (995,27,'Ellis',723,'Mar 30, 2025',995,'Mar 25, 2026',236),
+  (996,9,'Emma',377,'Jun 28, 2025',996,'May 26, 2024',224),
+  (997,27,'Andy',872,'Jun 25, 2025',997,'Jan 25, 2024',382),
+  (998,29,'Will',344,'Apr 30, 2024',998,'Jan 9, 2024',394),
+  (999,23,'Noah',383,'Aug 21, 2025',999,'Dec 13, 2024',374),
+  (1000,23,'Christian',755,'Jan 6, 2026',1000,'Nov 1, 2025',379);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1001,26,'Floyd',1021,'Jul 9, 2024',1001,'Dec 23, 2025',295),
+  (1002,16,'Emma',774,'Sep 12, 2025',1002,'Apr 5, 2025',320),
+  (1003,8,'Mitchell',952,'Jan 2, 2025',1003,'Jan 1, 2026',306),
+  (1004,17,'Noah',647,'Jun 27, 2025',1004,'Mar 19, 2025',250),
+  (1005,18,'Isaiah',373,'Sep 7, 2024',1005,'Feb 15, 2024',328),
+  (1006,27,'Floyd',1161,'Jul 22, 2025',1006,'Dec 2, 2025',245),
+  (1007,17,'Lydia',420,'Dec 15, 2024',1007,'May 17, 2024',338),
+  (1008,28,'Vivian',1119,'Jan 3, 2026',1008,'Jan 21, 2024',322),
+  (1009,24,'Bryan',529,'Oct 3, 2024',1009,'Feb 6, 2025',276),
+  (1010,23,'Gabriel',320,'Jul 24, 2024',1010,'Aug 31, 2025',298);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1011,16,'Adam',298,'May 4, 2025',1011,'Mar 19, 2024',359),
+  (1012,24,'Will',875,'Jul 17, 2024',1012,'Feb 17, 2024',265),
+  (1013,28,'Bryan',502,'May 21, 2024',1013,'May 29, 2024',286),
+  (1014,10,'Gabriel',152,'May 14, 2025',1014,'Apr 30, 2024',354),
+  (1015,14,'Isaiah',490,'Nov 25, 2025',1015,'Aug 25, 2024',311),
+  (1016,10,'Josh',588,'Nov 16, 2024',1016,'Apr 21, 2025',215),
+  (1017,28,'Scarlett',108,'Oct 29, 2024',1017,'Jul 28, 2024',355),
+  (1018,20,'Lydia',568,'Mar 7, 2024',1018,'Mar 7, 2026',336),
+  (1019,20,'Bryan',142,'May 23, 2024',1019,'Feb 16, 2024',312),
+  (1020,29,'Vivian',1143,'Feb 14, 2024',1020,'Mar 17, 2026',323);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1021,26,'Adam',836,'Nov 28, 2025',1021,'Aug 17, 2025',208),
+  (1022,17,'Noah',897,'Apr 30, 2024',1022,'Jun 11, 2025',400),
+  (1023,26,'Will',450,'Feb 12, 2026',1023,'Sep 5, 2024',322),
+  (1024,17,'Trevor',420,'Jan 18, 2026',1024,'Sep 13, 2024',257),
+  (1025,22,'Donald',210,'Dec 25, 2025',1025,'Apr 10, 2025',267),
+  (1026,13,'Luis',621,'Jan 22, 2025',1026,'Jul 17, 2024',388),
+  (1027,19,'Isaiah',1093,'Jun 12, 2025',1027,'Nov 12, 2025',279),
+  (1028,29,'David',915,'Sep 14, 2024',1028,'Jan 12, 2026',314),
+  (1029,13,'Quinn',969,'Jul 20, 2024',1029,'Feb 5, 2025',289),
+  (1030,8,'Quinn',935,'Mar 31, 2024',1030,'May 2, 2025',254);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1031,20,'Ross',1048,'Oct 3, 2025',1031,'Jan 22, 2024',297),
+  (1032,12,'Harper',367,'Jan 13, 2026',1032,'Feb 9, 2026',334),
+  (1033,29,'Scarlett',531,'Mar 21, 2024',1033,'Oct 15, 2025',327),
+  (1034,29,'Donald',273,'Jan 19, 2025',1034,'Mar 20, 2025',290),
+  (1035,29,'Mitchell',657,'Mar 17, 2024',1035,'May 22, 2025',248),
+  (1036,9,'Vivian',140,'Jun 1, 2024',1036,'Oct 20, 2024',324),
+  (1037,29,'Ross',939,'Sep 12, 2025',1037,'Mar 27, 2025',314),
+  (1038,22,'Ellis',492,'Oct 16, 2025',1038,'Jan 21, 2026',325),
+  (1039,25,'Billy',730,'Jun 13, 2025',1039,'Feb 21, 2026',337),
+  (1040,24,'Jeffery',1045,'Mar 11, 2025',1040,'Jan 28, 2025',379);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1041,9,'Zachary',746,'Feb 13, 2025',1041,'May 8, 2025',356),
+  (1042,29,'Ellis',1122,'Oct 8, 2025',1042,'Apr 1, 2025',384),
+  (1043,30,'Zachary',594,'May 15, 2025',1043,'Jul 28, 2024',297),
+  (1044,12,'Ross',948,'Nov 12, 2024',1044,'Mar 12, 2024',235),
+  (1045,11,'Josh',507,'Mar 14, 2026',1045,'Apr 25, 2024',275),
+  (1046,17,'Billy',849,'Mar 26, 2025',1046,'Jan 23, 2025',223),
+  (1047,17,'Donald',401,'Dec 23, 2024',1047,'Mar 31, 2026',269),
+  (1048,11,'Quinn',686,'Jun 2, 2025',1048,'Jun 16, 2024',233),
+  (1049,17,'Ross',595,'Jan 15, 2024',1049,'Nov 29, 2025',333),
+  (1050,15,'Adam',628,'Feb 4, 2024',1050,'Jan 28, 2024',212);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1051,14,'Aaron',112,'Nov 19, 2024',1051,'Mar 8, 2026',288),
+  (1052,24,'David',704,'Jun 2, 2025',1052,'Jul 13, 2025',238),
+  (1053,8,'Edgar',779,'Dec 1, 2025',1053,'Apr 11, 2025',265),
+  (1054,16,'Harper',85,'Sep 12, 2025',1054,'Jun 24, 2025',339),
+  (1055,12,'Edgar',733,'May 19, 2025',1055,'Jul 5, 2025',255),
+  (1056,13,'Gabriel',949,'Aug 22, 2024',1056,'Apr 18, 2024',204),
+  (1057,27,'Noah',341,'Aug 7, 2025',1057,'Mar 25, 2026',343),
+  (1058,16,'Gabriel',1194,'Nov 16, 2025',1058,'Mar 24, 2025',221),
+  (1059,28,'Quinn',993,'Nov 29, 2024',1059,'Apr 30, 2025',382),
+  (1060,10,'Donald',261,'Mar 19, 2026',1060,'Aug 16, 2024',338);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1061,11,'Quinn',182,'Feb 21, 2024',1061,'Mar 10, 2024',334),
+  (1062,17,'Noah',335,'Dec 15, 2024',1062,'Oct 3, 2024',228),
+  (1063,16,'Will',632,'Feb 23, 2024',1063,'Apr 26, 2025',202),
+  (1064,25,'Emma',924,'Apr 1, 2026',1064,'Mar 20, 2024',209),
+  (1065,21,'Floyd',876,'May 24, 2025',1065,'Dec 22, 2024',314),
+  (1066,12,'Andy',728,'Jun 28, 2025',1066,'Oct 12, 2024',223),
+  (1067,9,'Scarlett',355,'Jul 29, 2025',1067,'Aug 9, 2025',374),
+  (1068,20,'Lydia',264,'May 21, 2025',1068,'Jun 18, 2024',374),
+  (1069,27,'Emma',828,'Apr 15, 2024',1069,'May 31, 2025',252),
+  (1070,24,'Malcolm',766,'Oct 28, 2025',1070,'May 7, 2025',328);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1071,24,'Quinn',86,'Oct 1, 2025',1071,'Aug 25, 2024',296),
+  (1072,28,'Ross',492,'Jul 19, 2024',1072,'Oct 16, 2025',260),
+  (1073,12,'Jeffery',551,'Sep 28, 2024',1073,'Nov 9, 2024',301),
+  (1074,14,'Scarlett',293,'Jan 2, 2026',1074,'Feb 24, 2025',372),
+  (1075,17,'Scarlett',415,'Apr 5, 2024',1075,'Jun 16, 2024',239),
+  (1076,15,'Andy',687,'Mar 11, 2025',1076,'Apr 3, 2024',332),
+  (1077,23,'Trevor',155,'May 24, 2025',1077,'Jul 2, 2024',383),
+  (1078,30,'Bryan',845,'Nov 8, 2025',1078,'Jun 1, 2025',299),
+  (1079,18,'Isaiah',665,'Nov 5, 2025',1079,'Dec 14, 2024',289),
+  (1080,22,'Lydia',748,'Feb 25, 2025',1080,'Sep 13, 2024',390);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1081,10,'Noah',374,'Jan 17, 2025',1081,'Aug 15, 2025',277),
+  (1082,10,'Jeffery',595,'Nov 13, 2025',1082,'Jun 2, 2025',319),
+  (1083,28,'Andy',909,'Apr 22, 2025',1083,'Feb 9, 2026',264),
+  (1084,21,'Malcolm',380,'Apr 4, 2024',1084,'Jan 26, 2026',395),
+  (1085,25,'Jeffery',1106,'May 13, 2025',1085,'May 19, 2025',352),
+  (1086,9,'Vivian',1167,'Apr 27, 2024',1086,'Jan 9, 2026',308),
+  (1087,24,'Gabriel',848,'Jul 12, 2025',1087,'May 14, 2024',383),
+  (1088,19,'Jeffery',955,'Oct 29, 2024',1088,'Aug 10, 2025',296),
+  (1089,29,'Ross',89,'Dec 6, 2024',1089,'Nov 16, 2024',326),
+  (1090,14,'Jeffery',1158,'Nov 19, 2025',1090,'Dec 10, 2024',350);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1091,17,'Zachary',1113,'Oct 27, 2024',1091,'Mar 28, 2025',324),
+  (1092,28,'Josh',352,'Jan 6, 2024',1092,'Nov 9, 2024',270),
+  (1093,19,'Scarlett',252,'Sep 2, 2025',1093,'Jul 11, 2025',340),
+  (1094,16,'Harper',678,'Dec 3, 2024',1094,'Jul 12, 2024',288),
+  (1095,23,'Trevor',425,'May 14, 2025',1095,'Apr 1, 2026',335),
+  (1096,22,'Donald',1055,'Jun 25, 2025',1096,'Jul 2, 2025',400),
+  (1097,29,'Noah',484,'Mar 25, 2025',1097,'Feb 3, 2025',322),
+  (1098,21,'Zachary',396,'Jan 11, 2026',1098,'Apr 13, 2025',224),
+  (1099,10,'Gabriel',826,'Nov 16, 2024',1099,'May 19, 2025',215),
+  (1100,18,'Mitchell',807,'Mar 14, 2026',1100,'Nov 13, 2024',222);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1101,22,'Christian',565,'Sep 6, 2024',1101,'Feb 29, 2024',351),
+  (1102,19,'Billy',328,'Jul 10, 2024',1102,'Nov 10, 2025',267),
+  (1103,13,'Ross',986,'Mar 27, 2026',1103,'Mar 19, 2025',309),
+  (1104,16,'Ross',624,'Jul 27, 2024',1104,'Jun 7, 2024',388),
+  (1105,12,'Billy',1052,'Nov 22, 2024',1105,'Jul 20, 2024',255),
+  (1106,29,'Malcolm',405,'Nov 15, 2024',1106,'Aug 26, 2024',373),
+  (1107,25,'Ellis',1124,'Jul 3, 2025',1107,'Jun 16, 2025',331),
+  (1108,13,'Gabriel',1089,'Feb 10, 2026',1108,'Jan 31, 2025',278),
+  (1109,28,'Isaiah',831,'Jan 11, 2026',1109,'Jul 17, 2025',274),
+  (1110,27,'Malcolm',1027,'Dec 19, 2025',1110,'Feb 10, 2026',235);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1111,22,'Josh',210,'Dec 1, 2025',1111,'Jan 10, 2026',383),
+  (1112,17,'Andy',299,'May 14, 2025',1112,'Aug 29, 2024',233),
+  (1113,12,'Lydia',552,'Jul 29, 2025',1113,'Jul 13, 2025',318),
+  (1114,27,'Emma',384,'Oct 2, 2025',1114,'Apr 1, 2025',292),
+  (1115,25,'Connor',277,'Apr 10, 2024',1115,'Feb 19, 2026',288),
+  (1116,9,'Billy',862,'Feb 16, 2026',1116,'Sep 6, 2025',324),
+  (1117,24,'Donald',224,'Feb 21, 2026',1117,'Feb 8, 2025',305),
+  (1118,10,'Emma',524,'Mar 30, 2026',1118,'Apr 13, 2025',361),
+  (1119,21,'Zachary',192,'Feb 13, 2026',1119,'Mar 20, 2025',318),
+  (1120,13,'Harry',467,'Jun 14, 2025',1120,'Jul 2, 2024',345);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1121,19,'Andy',371,'Nov 5, 2024',1121,'Jan 18, 2024',272),
+  (1122,22,'Luis',1064,'Apr 9, 2024',1122,'May 9, 2024',250),
+  (1123,26,'Will',536,'Jan 10, 2024',1123,'Mar 3, 2025',256),
+  (1124,11,'Isaiah',417,'Mar 27, 2024',1124,'Mar 18, 2025',380),
+  (1125,12,'Billy',1003,'Feb 19, 2025',1125,'Oct 24, 2025',336),
+  (1126,21,'Bryan',311,'Jan 4, 2026',1126,'Nov 21, 2025',274),
+  (1127,27,'Will',702,'May 6, 2025',1127,'Jun 27, 2025',339),
+  (1128,19,'Josh',273,'Apr 3, 2024',1128,'Nov 20, 2025',362),
+  (1129,10,'Gabriel',973,'Jun 5, 2025',1129,'Feb 5, 2024',367),
+  (1130,20,'Harry',424,'Dec 6, 2025',1130,'Feb 16, 2025',303);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1131,22,'Scarlett',277,'Jan 26, 2024',1131,'Jun 20, 2025',327),
+  (1132,16,'Josh',142,'Aug 31, 2024',1132,'Mar 25, 2026',389),
+  (1133,26,'Trevor',1133,'Aug 15, 2025',1133,'Dec 14, 2024',349),
+  (1134,15,'Andy',105,'Jul 14, 2025',1134,'Jul 21, 2025',367),
+  (1135,8,'Adam',174,'Mar 6, 2026',1135,'Mar 20, 2026',293),
+  (1136,18,'Trevor',133,'Nov 17, 2024',1136,'Nov 22, 2025',236),
+  (1137,11,'Lydia',572,'Jan 20, 2024',1137,'Mar 11, 2024',325),
+  (1138,12,'Billy',512,'Aug 12, 2025',1138,'Feb 28, 2024',254),
+  (1139,13,'Mitchell',865,'Feb 20, 2026',1139,'Mar 28, 2024',288),
+  (1140,13,'Zachary',953,'Nov 23, 2024',1140,'Aug 9, 2024',374);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1141,26,'Christian',148,'Jun 5, 2024',1141,'Feb 13, 2026',250),
+  (1142,23,'Gabriel',362,'Apr 13, 2025',1142,'Mar 13, 2026',374),
+  (1143,30,'Ross',1005,'Jan 17, 2026',1143,'Sep 27, 2025',259),
+  (1144,26,'Andy',345,'Jan 7, 2024',1144,'Mar 12, 2024',393),
+  (1145,28,'Malcolm',208,'Aug 5, 2025',1145,'Dec 18, 2025',257),
+  (1146,11,'Mitchell',717,'Jan 18, 2024',1146,'Mar 27, 2024',253),
+  (1147,16,'Bryan',1132,'Jan 26, 2026',1147,'Jul 14, 2024',281),
+  (1148,16,'Ellis',1076,'Jul 16, 2024',1148,'Nov 24, 2025',259),
+  (1149,17,'Isaiah',617,'Sep 10, 2025',1149,'Aug 5, 2024',237),
+  (1150,20,'Aaron',778,'Oct 16, 2024',1150,'Sep 9, 2024',283);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1151,22,'Scarlett',506,'Mar 28, 2026',1151,'Oct 24, 2024',375),
+  (1152,15,'Mitchell',766,'Jun 3, 2025',1152,'May 7, 2024',277),
+  (1153,21,'Connor',866,'Nov 27, 2024',1153,'Aug 12, 2024',250),
+  (1154,11,'Scarlett',421,'Aug 5, 2025',1154,'Jul 19, 2025',317),
+  (1155,13,'Scarlett',536,'Feb 21, 2026',1155,'Feb 22, 2024',371),
+  (1156,30,'Andy',661,'Jan 28, 2025',1156,'Apr 11, 2024',258),
+  (1157,16,'Luis',92,'Aug 28, 2025',1157,'Oct 24, 2024',375),
+  (1158,15,'Will',616,'Feb 27, 2026',1158,'Feb 17, 2025',381),
+  (1159,15,'Andy',426,'Mar 26, 2024',1159,'Jun 2, 2025',229),
+  (1160,9,'Ross',1049,'Mar 24, 2025',1160,'Nov 20, 2025',361);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1161,17,'Andy',1109,'Feb 13, 2026',1161,'Nov 8, 2025',367),
+  (1162,10,'Josh',629,'Mar 6, 2024',1162,'Aug 30, 2024',329),
+  (1163,19,'Harper',280,'Nov 4, 2024',1163,'Mar 2, 2025',206),
+  (1164,17,'Christian',528,'Aug 26, 2025',1164,'Aug 2, 2025',204),
+  (1165,9,'David',556,'Feb 17, 2024',1165,'Mar 27, 2025',246),
+  (1166,23,'Samuel',1001,'Apr 27, 2025',1166,'Dec 12, 2024',357),
+  (1167,19,'Jeffery',742,'Mar 15, 2026',1167,'Mar 5, 2026',227),
+  (1168,11,'Samuel',861,'Mar 9, 2026',1168,'Nov 19, 2024',207),
+  (1169,9,'Ellis',681,'Mar 28, 2026',1169,'Jul 29, 2024',398),
+  (1170,13,'Harper',627,'Aug 21, 2025',1170,'Nov 19, 2025',301);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1171,25,'Christian',1188,'Feb 21, 2025',1171,'Jan 10, 2026',245),
+  (1172,24,'Ellis',551,'Jul 22, 2024',1172,'Apr 15, 2024',389),
+  (1173,24,'David',461,'Apr 7, 2024',1173,'Nov 14, 2025',256),
+  (1174,27,'Harper',1008,'Mar 13, 2025',1174,'Aug 2, 2024',380),
+  (1175,14,'Scarlett',837,'Dec 22, 2024',1175,'Nov 3, 2025',206),
+  (1176,21,'Zachary',1086,'Feb 9, 2026',1176,'Jun 11, 2025',224),
+  (1177,25,'Andy',225,'Mar 13, 2025',1177,'Mar 27, 2024',215),
+  (1178,22,'Ross',199,'Jul 3, 2025',1178,'May 1, 2025',251),
+  (1179,18,'Quinn',517,'Oct 29, 2025',1179,'Oct 28, 2025',285),
+  (1180,27,'Ellis',546,'Jul 14, 2025',1180,'Mar 31, 2025',324);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1181,26,'Vivian',1195,'Oct 2, 2025',1181,'Dec 30, 2024',395),
+  (1182,29,'Bryan',424,'Dec 17, 2025',1182,'Feb 14, 2026',376),
+  (1183,9,'Isaiah',253,'Oct 2, 2025',1183,'Dec 18, 2025',309),
+  (1184,17,'Luis',819,'Jun 9, 2025',1184,'Sep 20, 2024',381),
+  (1185,17,'Harper',257,'Feb 16, 2024',1185,'May 3, 2024',331),
+  (1186,29,'Gabriel',732,'Feb 12, 2026',1186,'Jun 3, 2025',331),
+  (1187,18,'Emma',1186,'Apr 30, 2025',1187,'Jan 29, 2024',343),
+  (1188,22,'Vivian',548,'Jan 11, 2026',1188,'May 21, 2024',296),
+  (1189,26,'Scarlett',557,'Jan 12, 2026',1189,'Mar 22, 2025',206),
+  (1190,21,'Adam',1013,'Feb 27, 2026',1190,'Oct 14, 2024',383);
+INSERT INTO Sea_vessel (sea_ID,launcher_amount,nickname ,capacity,test_date,c_ID,lease_expiration_date,base_ID)
+VALUES
+  (1191,22,'Trevor',1121,'Feb 29, 2024',1191,'Apr 16, 2025',340),
+  (1192,8,'Ellis',659,'Oct 23, 2024',1192,'Jul 20, 2024',221),
+  (1193,22,'Vivian',1171,'Mar 28, 2026',1193,'Oct 28, 2024',275),
+  (1194,19,'Lydia',718,'Jun 13, 2024',1194,'Sep 26, 2025',318),
+  (1195,15,'Quinn',1004,'Jul 2, 2025',1195,'Jan 14, 2026',259),
+  (1196,19,'Isaiah',112,'Jul 22, 2024',1196,'Nov 19, 2024',265),
+  (1197,30,'Harry',1139,'Mar 1, 2025',1197,'Dec 14, 2024',346),
+  (1198,25,'Mitchell',960,'Mar 28, 2025',1198,'Feb 8, 2025',232),
+  (1199,17,'Adam',522,'Feb 26, 2026',1199,'Jun 23, 2024',365),
+  (1200,24,'Scarlett',696,'May 21, 2025',1200,'Dec 5, 2025',337);

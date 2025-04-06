@@ -1,0 +1,4800 @@
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5001,'Floyd','admiral',1179),
+  (5002,'Jimmy','captain',977),
+  (5003,'Tim','admiral',852),
+  (5004,'Jackson','admiral',861),
+  (5005,'Frederick','captain',1154),
+  (5006,'Aaron','sailor',826),
+  (5007,'Donald','captain',918),
+  (5008,'Dan','sailor',969),
+  (5009,'Nelson','admiral',1143),
+  (5010,'Philip','sailor',904);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5011,'Floyd','captain',830),
+  (5012,'Penelope','admiral',1098),
+  (5013,'Warren','sailor',899),
+  (5014,'Anthony','sailor',996),
+  (5015,'Carlos','sailor',1111),
+  (5016,'Adam','admiral',885),
+  (5017,'Bill','admiral',905),
+  (5018,'Albert','admiral',1172),
+  (5019,'Leslie','captain',1062),
+  (5020,'William','sailor',963);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5021,'Maya','captain',970),
+  (5022,'Bobby','sailor',802),
+  (5023,'Bradley','captain',1155),
+  (5024,'Shawn','admiral',1105),
+  (5025,'Jackson','admiral',930),
+  (5026,'Parker','sailor',961),
+  (5027,'Garry','admiral',1192),
+  (5028,'Vernon','captain',941),
+  (5029,'Edgar','captain',961),
+  (5030,'Barry','captain',1163);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5031,'Caleb','sailor',843),
+  (5032,'Alfred','admiral',1053),
+  (5033,'Oscar','captain',803),
+  (5034,'Zoe','captain',994),
+  (5035,'Garry','admiral',840),
+  (5036,'Caleb','admiral',1054),
+  (5037,'Malcolm','admiral',830),
+  (5038,'Bradley','admiral',1066),
+  (5039,'Malcolm','sailor',1086),
+  (5040,'Asher','admiral',1197);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5041,'Darren','sailor',837),
+  (5042,'Fred','captain',1029),
+  (5043,'Bradley','admiral',1133),
+  (5044,'Marc','captain',946),
+  (5045,'Omar','admiral',1181),
+  (5046,'Spencer','admiral',962),
+  (5047,'Arthur','captain',1200),
+  (5048,'Bryan','admiral',1047),
+  (5049,'Garrett','captain',875),
+  (5050,'Herbert','admiral',825);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5051,'Ralph','admiral',1034),
+  (5052,'Xavier','admiral',1005),
+  (5053,'Austin','captain',1016),
+  (5054,'Stanley','captain',950),
+  (5055,'Barry','captain',834),
+  (5056,'Albert','sailor',1083),
+  (5057,'Roy','admiral',886),
+  (5058,'Isaac','admiral',884),
+  (5059,'Anna','sailor',1155),
+  (5060,'Jeff','admiral',1195);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5061,'Felix','captain',924),
+  (5062,'Bob','captain',979),
+  (5063,'Arthur','sailor',961),
+  (5064,'Pedro','sailor',1034),
+  (5065,'Manuel','admiral',917),
+  (5066,'Brian','admiral',815),
+  (5067,'Douglas','sailor',1022),
+  (5068,'Caroline','captain',900),
+  (5069,'Albert','admiral',1184),
+  (5070,'Bryan','captain',1124);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5071,'Anthony','admiral',1145),
+  (5072,'Corey','sailor',1087),
+  (5073,'Adam','admiral',984),
+  (5074,'Luke','captain',803),
+  (5075,'Tyler','captain',807),
+  (5076,'Violet','admiral',1083),
+  (5077,'Benjamin','admiral',1031),
+  (5078,'Herbert','sailor',813),
+  (5079,'Andy','sailor',884),
+  (5080,'Ted','captain',1087);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5081,'Isaac','captain',899),
+  (5082,'Malcolm','admiral',1135),
+  (5083,'Xavier','sailor',1189),
+  (5084,'Adrian','sailor',1139),
+  (5085,'Nick','admiral',1058),
+  (5086,'Alex','sailor',992),
+  (5087,'Genesis','admiral',926),
+  (5088,'Fred','captain',1181),
+  (5089,'Bill','admiral',915),
+  (5090,'Andrew','sailor',811);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5091,'Lily','admiral',830),
+  (5092,'Lydia','sailor',1140),
+  (5093,'Levi','sailor',1151),
+  (5094,'Alfred','admiral',967),
+  (5095,'Olivia','captain',1124),
+  (5096,'Carter','sailor',1106),
+  (5097,'Marc','captain',1154),
+  (5098,'Garrett','sailor',1151),
+  (5099,'Asher','captain',855),
+  (5100,'Dave','captain',823);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5101,'Alice','sailor',1107),
+  (5102,'Calvin','captain',895),
+  (5103,'Calvin','admiral',1043),
+  (5104,'Piper','captain',1186),
+  (5105,'Naomi','sailor',995),
+  (5106,'Fred','captain',820),
+  (5107,'Kevin','sailor',1128),
+  (5108,'Leon','captain',1046),
+  (5109,'Corey','captain',924),
+  (5110,'Brad','sailor',1030);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5111,'Bruce','captain',1051),
+  (5112,'Dean','sailor',1190),
+  (5113,'Billy','sailor',1065),
+  (5114,'Bob','captain',960),
+  (5115,'Zach','sailor',1198),
+  (5116,'Penelope','captain',1158),
+  (5117,'Craig','admiral',994),
+  (5118,'Frank','captain',1080),
+  (5119,'Adrian','sailor',832),
+  (5120,'Nick','sailor',1172);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5121,'Alex','captain',1190),
+  (5122,'Kevin','captain',976),
+  (5123,'Omar','captain',967),
+  (5124,'Edgar','admiral',1131),
+  (5125,'Nathaniel','admiral',1103),
+  (5126,'Clinton','captain',804),
+  (5127,'Cody','admiral',1148),
+  (5128,'Calvin','captain',930),
+  (5129,'Maxwell','captain',1011),
+  (5130,'Alfred','captain',1146);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5131,'Philip','admiral',845),
+  (5132,'Kyle','admiral',825),
+  (5133,'Edmund','captain',893),
+  (5134,'Anthony','captain',925),
+  (5135,'Bradley','admiral',882),
+  (5136,'Alice','captain',1117),
+  (5137,'Penelope','captain',1180),
+  (5138,'Charlie','sailor',856),
+  (5139,'Garry','admiral',1074),
+  (5140,'Naomi','captain',1113);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5141,'Ben','sailor',928),
+  (5142,'Blake','captain',835),
+  (5143,'Alice','captain',1160),
+  (5144,'Gabriel','captain',1128),
+  (5145,'Felix','captain',1110),
+  (5146,'Floyd','admiral',1157),
+  (5147,'Piper','sailor',1069),
+  (5148,'Bobby','captain',1033),
+  (5149,'Oscar','sailor',1170),
+  (5150,'Zoe','admiral',998);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5151,'Caleb','admiral',1061),
+  (5152,'Bill','admiral',824),
+  (5153,'Jose','sailor',1004),
+  (5154,'Adrian','captain',1037),
+  (5155,'Carl','captain',886),
+  (5156,'Cameron','captain',837),
+  (5157,'Lily','admiral',864),
+  (5158,'Dennis','sailor',846),
+  (5159,'Kyle','captain',1101),
+  (5160,'Colin','admiral',1003);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5161,'Brendan','admiral',846),
+  (5162,'Isaac','admiral',1102),
+  (5163,'Malcolm','sailor',816),
+  (5164,'Calvin','captain',937),
+  (5165,'Brad','admiral',1122),
+  (5166,'Trevor','admiral',976),
+  (5167,'Cory','sailor',1020),
+  (5168,'Carlos','admiral',1013),
+  (5169,'Bryan','sailor',996),
+  (5170,'Corey','admiral',809);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5171,'Levi','admiral',1127),
+  (5172,'Clarence','sailor',873),
+  (5173,'Carl','captain',1144),
+  (5174,'David','admiral',851),
+  (5175,'Zoe','sailor',861),
+  (5176,'Trevor','sailor',1036),
+  (5177,'Michael','captain',805),
+  (5178,'Manuel','sailor',984),
+  (5179,'Brian','sailor',1027),
+  (5180,'Blake','captain',813);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5181,'Warren','admiral',956),
+  (5182,'David','admiral',1075),
+  (5183,'Cody','admiral',865),
+  (5184,'Naomi','sailor',920),
+  (5185,'Spencer','captain',1015),
+  (5186,'Zach','captain',1038),
+  (5187,'Caleb','admiral',897),
+  (5188,'Carl','admiral',1117),
+  (5189,'Leon','admiral',1017),
+  (5190,'Maya','captain',1064);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5191,'Adrian','sailor',964),
+  (5192,'Ted','captain',1059),
+  (5193,'Aaron','sailor',869),
+  (5194,'Jose','captain',840),
+  (5195,'Cameron','sailor',946),
+  (5196,'Bob','captain',1097),
+  (5197,'Clarence','sailor',1110),
+  (5198,'Felix','sailor',821),
+  (5199,'Dan','captain',926),
+  (5200,'Oscar','sailor',824);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5201,'Brad','captain',1027),
+  (5202,'Bradley','captain',844),
+  (5203,'Olivia','admiral',1037),
+  (5204,'Zachary','admiral',981),
+  (5205,'Greg','captain',1178),
+  (5206,'Julia','admiral',1062),
+  (5207,'Fred','sailor',1044),
+  (5208,'Jimmy','sailor',943),
+  (5209,'Brandon','sailor',862),
+  (5210,'Carl','captain',833);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5211,'Shawn','admiral',1031),
+  (5212,'Charlie','admiral',1100),
+  (5213,'Anthony','admiral',904),
+  (5214,'David','admiral',826),
+  (5215,'Isaac','sailor',1157),
+  (5216,'Emma','admiral',1080),
+  (5217,'Elias','sailor',1187),
+  (5218,'Fred','admiral',886),
+  (5219,'Jackson','captain',828),
+  (5220,'Dan','captain',1061);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5221,'Dave','captain',1171),
+  (5222,'Bobby','sailor',808),
+  (5223,'Michael','admiral',934),
+  (5224,'Aidan','captain',1109),
+  (5225,'Tyler','sailor',1125),
+  (5226,'Floyd','captain',840),
+  (5227,'Bruce','sailor',878),
+  (5228,'Dennis','admiral',971),
+  (5229,'Aaron','sailor',1162),
+  (5230,'Ted','sailor',1158);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5231,'Ben','sailor',1050),
+  (5232,'Asher','admiral',1181),
+  (5233,'Shawn','admiral',1095),
+  (5234,'Malcolm','sailor',808),
+  (5235,'Bradley','admiral',1106),
+  (5236,'Jackson','admiral',1047),
+  (5237,'Jackson','captain',1126),
+  (5238,'Alice','sailor',862),
+  (5239,'Caleb','admiral',901),
+  (5240,'Felix','captain',1033);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5241,'Dean','sailor',988),
+  (5242,'Brian','captain',920),
+  (5243,'Shawn','sailor',1006),
+  (5244,'Dustin','admiral',1025),
+  (5245,'Eva','captain',960),
+  (5246,'Jimmy','admiral',883),
+  (5247,'Darren','sailor',1137),
+  (5248,'Ben','captain',1191),
+  (5249,'Victor','captain',902),
+  (5250,'Roy','sailor',1188);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5251,'Tim','admiral',1143),
+  (5252,'Nathaniel','captain',1110),
+  (5253,'Edgar','sailor',1170),
+  (5254,'Bill','admiral',1182),
+  (5255,'Ben','sailor',1090),
+  (5256,'Bill','captain',1114),
+  (5257,'Derek','captain',1025),
+  (5258,'Austin','sailor',1021),
+  (5259,'Bob','admiral',1007),
+  (5260,'Spencer','admiral',1079);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5261,'Billy','sailor',1154),
+  (5262,'William','sailor',1074),
+  (5263,'Elias','admiral',1057),
+  (5264,'Nathan','captain',1146),
+  (5265,'Emma','sailor',879),
+  (5266,'Spencer','sailor',1120),
+  (5267,'Philip','admiral',915),
+  (5268,'Blake','captain',822),
+  (5269,'Charlie','admiral',843),
+  (5270,'Garry','admiral',903);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5271,'Clyde','captain',1081),
+  (5272,'Ben','captain',884),
+  (5273,'Cory','captain',1117),
+  (5274,'Garrett','captain',1111),
+  (5275,'Aidan','admiral',1146),
+  (5276,'Malcolm','sailor',1102),
+  (5277,'Daniel','captain',1043),
+  (5278,'Marc','captain',1081),
+  (5279,'Howard','sailor',854),
+  (5280,'Anna','admiral',872);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5281,'Bruce','captain',1112),
+  (5282,'Frederick','admiral',832),
+  (5283,'Ben','sailor',805),
+  (5284,'Jeff','sailor',1085),
+  (5285,'Clinton','captain',1128),
+  (5286,'Dan','captain',1113),
+  (5287,'Dean','admiral',997),
+  (5288,'Arthur','sailor',915),
+  (5289,'Patrick','captain',1073),
+  (5290,'Tim','sailor',1087);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5291,'Nathaniel','admiral',924),
+  (5292,'Andrew','sailor',847),
+  (5293,'Floyd','captain',993),
+  (5294,'Ivan','sailor',1134),
+  (5295,'Fred','sailor',815),
+  (5296,'Christopher','captain',1174),
+  (5297,'Benjamin','captain',862),
+  (5298,'Billy','sailor',1071),
+  (5299,'Bryan','captain',912),
+  (5300,'Clark','admiral',1077);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5301,'Caroline','sailor',1034),
+  (5302,'Clinton','sailor',838),
+  (5303,'Chris','captain',913),
+  (5304,'Kevin','captain',840),
+  (5305,'Arthur','sailor',1123),
+  (5306,'Howard','captain',1121),
+  (5307,'Corey','sailor',943),
+  (5308,'Craig','admiral',834),
+  (5309,'Ivan','admiral',1027),
+  (5310,'Blake','captain',844);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5311,'Olivia','sailor',910),
+  (5312,'Ralph','admiral',848),
+  (5313,'Nick','captain',1025),
+  (5314,'Felix','captain',837),
+  (5315,'Douglas','admiral',950),
+  (5316,'Trevor','admiral',866),
+  (5317,'Marc','captain',840),
+  (5318,'Olivia','captain',1002),
+  (5319,'Spencer','admiral',851),
+  (5320,'Bradley','admiral',875);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5321,'Oscar','admiral',1048),
+  (5322,'Edgar','admiral',962),
+  (5323,'Fred','captain',1051),
+  (5324,'Jeff','sailor',1118),
+  (5325,'Dennis','captain',1094),
+  (5326,'Penelope','captain',802),
+  (5327,'Dale','admiral',926),
+  (5328,'Marc','admiral',1146),
+  (5329,'Derek','admiral',900),
+  (5330,'Leon','admiral',812);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5331,'Luke','captain',1074),
+  (5332,'Alex','sailor',1143),
+  (5333,'Xavier','sailor',1119),
+  (5334,'Albert','admiral',1196),
+  (5335,'Nelson','admiral',998),
+  (5336,'Gabriel','captain',872),
+  (5337,'Colin','sailor',811),
+  (5338,'Alan','captain',939),
+  (5339,'Maya','captain',1040),
+  (5340,'Herman','admiral',1064);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5341,'Roy','admiral',1133),
+  (5342,'Luke','admiral',1194),
+  (5343,'Andrew','sailor',916),
+  (5344,'Cory','sailor',1189),
+  (5345,'Oscar','sailor',873),
+  (5346,'Austin','admiral',834),
+  (5347,'Corey','captain',1005),
+  (5348,'Dean','captain',1040),
+  (5349,'Pedro','admiral',1052),
+  (5350,'Dan','admiral',1092);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5351,'Herbert','captain',818),
+  (5352,'Alexander','admiral',897),
+  (5353,'Brendan','captain',860),
+  (5354,'Julia','captain',900),
+  (5355,'Dave','captain',1026),
+  (5356,'Floyd','sailor',864),
+  (5357,'Brian','sailor',1021),
+  (5358,'Bryan','admiral',846),
+  (5359,'Michael','admiral',960),
+  (5360,'Oscar','admiral',955);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5361,'Donald','sailor',1092),
+  (5362,'Greg','captain',967),
+  (5363,'Genesis','admiral',817),
+  (5364,'Nick','sailor',1171),
+  (5365,'Violet','captain',1130),
+  (5366,'Brendan','sailor',1129),
+  (5367,'Ted','captain',944),
+  (5368,'Genesis','captain',812),
+  (5369,'Clarence','admiral',943),
+  (5370,'Ernest','sailor',979);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5371,'Jose','admiral',1173),
+  (5372,'Ken','captain',1115),
+  (5373,'William','sailor',970),
+  (5374,'Piper','sailor',1082),
+  (5375,'Vernon','sailor',1098),
+  (5376,'Penelope','sailor',953),
+  (5377,'Eva','admiral',1068),
+  (5378,'Omar','admiral',828),
+  (5379,'Zachary','sailor',1075),
+  (5380,'Nelson','sailor',895);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5381,'Lily','sailor',888),
+  (5382,'Jackson','admiral',1047),
+  (5383,'Naomi','captain',997),
+  (5384,'Eva','captain',1185),
+  (5385,'Oscar','admiral',1007),
+  (5386,'Julia','sailor',968),
+  (5387,'Clarence','sailor',1062),
+  (5388,'Anthony','admiral',977),
+  (5389,'Nathan','captain',1125),
+  (5390,'Omar','sailor',1080);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5391,'Manuel','admiral',1058),
+  (5392,'William','sailor',985),
+  (5393,'Bernard','captain',1118),
+  (5394,'Gabriel','captain',829),
+  (5395,'Douglas','sailor',1153),
+  (5396,'Isaac','captain',1017),
+  (5397,'Connor','admiral',907),
+  (5398,'Herman','sailor',845),
+  (5399,'Carlos','captain',847),
+  (5400,'Ken','admiral',848);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5401,'Patrick','sailor',847),
+  (5402,'Ernest','admiral',917),
+  (5403,'Daniel','admiral',1061),
+  (5404,'Asher','admiral',1095),
+  (5405,'Arthur','captain',1177),
+  (5406,'David','admiral',913),
+  (5407,'Bradley','sailor',933),
+  (5408,'Clyde','sailor',1108),
+  (5409,'Manuel','admiral',992),
+  (5410,'Carl','captain',1190);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5411,'Dean','admiral',970),
+  (5412,'Marc','captain',976),
+  (5413,'Benjamin','captain',969),
+  (5414,'Elias','admiral',1119),
+  (5415,'Genesis','sailor',902),
+  (5416,'Carl','admiral',988),
+  (5417,'Dean','admiral',1159),
+  (5418,'Nathaniel','admiral',1198),
+  (5419,'Arthur','admiral',1023),
+  (5420,'Clark','admiral',1027);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5421,'Colin','captain',875),
+  (5422,'Max','sailor',901),
+  (5423,'Leon','sailor',955),
+  (5424,'Nathan','sailor',999),
+  (5425,'Max','admiral',1111),
+  (5426,'Ernest','sailor',895),
+  (5427,'Isaac','sailor',836),
+  (5428,'Zach','admiral',904),
+  (5429,'Edmund','captain',1027),
+  (5430,'Austin','sailor',876);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5431,'Bruce','sailor',1155),
+  (5432,'Tyler','captain',1025),
+  (5433,'Clark','sailor',964),
+  (5434,'Anna','captain',853),
+  (5435,'Ivan','captain',994),
+  (5436,'Vernon','sailor',1183),
+  (5437,'Naomi','captain',901),
+  (5438,'Warren','captain',906),
+  (5439,'Dave','admiral',1003),
+  (5440,'Cody','admiral',820);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5441,'Benjamin','admiral',967),
+  (5442,'Greg','captain',1003),
+  (5443,'Stanley','admiral',1199),
+  (5444,'Maxwell','captain',1014),
+  (5445,'Clarence','sailor',872),
+  (5446,'Violet','sailor',1186),
+  (5447,'Bernard','captain',1091),
+  (5448,'Shawn','captain',866),
+  (5449,'Bryan','captain',999),
+  (5450,'Alice','sailor',945);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5451,'Ted','captain',1151),
+  (5452,'Patrick','captain',848),
+  (5453,'Philip','admiral',936),
+  (5454,'Carlos','admiral',953),
+  (5455,'Barry','captain',872),
+  (5456,'Darren','captain',1027),
+  (5457,'Jimmy','sailor',1147),
+  (5458,'Dale','admiral',1014),
+  (5459,'Fred','captain',1076),
+  (5460,'Alex','admiral',1062);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5461,'Bill','admiral',1063),
+  (5462,'Brendan','admiral',985),
+  (5463,'Gabriel','captain',1029),
+  (5464,'Alexander','sailor',1188),
+  (5465,'Bobby','sailor',1046),
+  (5466,'Brian','captain',941),
+  (5467,'Carlos','sailor',840),
+  (5468,'Victor','admiral',1138),
+  (5469,'Curtis','admiral',922),
+  (5470,'Carl','admiral',914);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5471,'Darren','admiral',854),
+  (5472,'Albert','admiral',1118),
+  (5473,'Spencer','captain',1076),
+  (5474,'Violet','captain',1182),
+  (5475,'Adam','captain',868),
+  (5476,'Vernon','admiral',1081),
+  (5477,'Andrew','sailor',866),
+  (5478,'Lily','admiral',948),
+  (5479,'Edgar','admiral',1176),
+  (5480,'Leslie','captain',862);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5481,'Kyle','captain',939),
+  (5482,'Herbert','admiral',897),
+  (5483,'Alice','captain',909),
+  (5484,'Daniel','captain',876),
+  (5485,'Clayton','admiral',898),
+  (5486,'Levi','captain',1071),
+  (5487,'Shawn','admiral',1099),
+  (5488,'Bryan','admiral',996),
+  (5489,'Aidan','sailor',816),
+  (5490,'Omar','admiral',864);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5491,'Edmund','sailor',1000),
+  (5492,'Lily','admiral',1182),
+  (5493,'Marc','captain',927),
+  (5494,'Brad','captain',851),
+  (5495,'Charlie','sailor',995),
+  (5496,'Billy','sailor',853),
+  (5497,'Parker','sailor',825),
+  (5498,'Trevor','admiral',878),
+  (5499,'Clarence','sailor',1038),
+  (5500,'Ted','sailor',1136);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5501,'William','admiral',1092),
+  (5502,'Bruce','sailor',1177),
+  (5503,'Penelope','captain',1046),
+  (5504,'Anthony','admiral',1005),
+  (5505,'Garrett','captain',972),
+  (5506,'Edmund','admiral',1010),
+  (5507,'Dale','sailor',929),
+  (5508,'Vernon','admiral',860),
+  (5509,'Dave','captain',830),
+  (5510,'Victor','sailor',1110);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5511,'Oscar','sailor',1158),
+  (5512,'Michael','sailor',826),
+  (5513,'Lily','captain',1153),
+  (5514,'Dennis','sailor',1144),
+  (5515,'Piper','sailor',873),
+  (5516,'Eva','admiral',956),
+  (5517,'Bernard','captain',891),
+  (5518,'Trevor','admiral',1153),
+  (5519,'Kyle','admiral',872),
+  (5520,'Colin','sailor',898);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5521,'Felix','captain',1106),
+  (5522,'Stanley','captain',903),
+  (5523,'Austin','sailor',867),
+  (5524,'Bob','captain',858),
+  (5525,'Maxwell','sailor',901),
+  (5526,'Alex','admiral',1105),
+  (5527,'Olivia','admiral',944),
+  (5528,'Connor','captain',831),
+  (5529,'Xavier','admiral',914),
+  (5530,'Violet','captain',1069);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5531,'Donald','captain',957),
+  (5532,'Garrett','admiral',1008),
+  (5533,'Asher','captain',1140),
+  (5534,'Brendan','sailor',1178),
+  (5535,'Jimmy','sailor',947),
+  (5536,'Nathan','admiral',1004),
+  (5537,'Clifford','sailor',1088),
+  (5538,'Ernest','sailor',1134),
+  (5539,'Dean','admiral',851),
+  (5540,'Emma','captain',1178);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5541,'Andy','admiral',907),
+  (5542,'Maya','admiral',922),
+  (5543,'Shawn','sailor',970),
+  (5544,'Barry','admiral',1006),
+  (5545,'Maya','captain',919),
+  (5546,'Cory','captain',950),
+  (5547,'Edgar','admiral',881),
+  (5548,'Olivia','sailor',979),
+  (5549,'Andy','captain',1188),
+  (5550,'David','captain',1126);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5551,'Adam','captain',1093),
+  (5552,'Andy','admiral',1091),
+  (5553,'Herman','admiral',1030),
+  (5554,'Tim','admiral',924),
+  (5555,'Carter','admiral',813),
+  (5556,'Roy','admiral',920),
+  (5557,'Malcolm','sailor',961),
+  (5558,'Ted','admiral',898),
+  (5559,'Billy','captain',947),
+  (5560,'Edgar','captain',1066);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5561,'Nathan','admiral',808),
+  (5562,'Olivia','admiral',935),
+  (5563,'Edwin','captain',852),
+  (5564,'Penelope','admiral',1044),
+  (5565,'Chris','captain',859),
+  (5566,'Aaron','sailor',1117),
+  (5567,'Alfred','sailor',1134),
+  (5568,'Eva','captain',964),
+  (5569,'Eva','captain',1006),
+  (5570,'Parker','sailor',896);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5571,'Carter','captain',969),
+  (5572,'Bernard','captain',1039),
+  (5573,'Bradley','admiral',1048),
+  (5574,'Maya','admiral',1141),
+  (5575,'Ken','captain',942),
+  (5576,'Bobby','admiral',1090),
+  (5577,'Ken','admiral',927),
+  (5578,'Alex','sailor',929),
+  (5579,'Lily','sailor',1067),
+  (5580,'Nathan','captain',926);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5581,'Trevor','sailor',1174),
+  (5582,'Violet','admiral',905),
+  (5583,'Alice','captain',857),
+  (5584,'Cody','sailor',1038),
+  (5585,'Kyle','sailor',1162),
+  (5586,'Craig','sailor',1119),
+  (5587,'Bryan','sailor',1195),
+  (5588,'Michael','captain',938),
+  (5589,'Bill','admiral',1177),
+  (5590,'Arthur','captain',1092);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5591,'Dustin','sailor',1158),
+  (5592,'Ralph','captain',1140),
+  (5593,'Austin','captain',897),
+  (5594,'Piper','captain',802),
+  (5595,'Ken','sailor',1083),
+  (5596,'Jeff','sailor',1103),
+  (5597,'Colin','sailor',1006),
+  (5598,'Bob','captain',917),
+  (5599,'Alan','sailor',1065),
+  (5600,'Max','captain',1194);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5601,'Manuel','sailor',822),
+  (5602,'Clinton','captain',1169),
+  (5603,'Clark','captain',817),
+  (5604,'Nathaniel','sailor',927),
+  (5605,'Penelope','admiral',945),
+  (5606,'Edwin','sailor',1119),
+  (5607,'Garry','captain',828),
+  (5608,'Leon','admiral',1193),
+  (5609,'Penelope','sailor',1181),
+  (5610,'Victor','sailor',943);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5611,'Dave','sailor',814),
+  (5612,'Andy','sailor',857),
+  (5613,'Billy','admiral',842),
+  (5614,'Gabriel','admiral',1044),
+  (5615,'David','captain',832),
+  (5616,'Roy','admiral',854),
+  (5617,'Austin','sailor',879),
+  (5618,'Piper','captain',1123),
+  (5619,'Douglas','captain',1004),
+  (5620,'Ben','captain',991);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5621,'Zach','captain',866),
+  (5622,'Nick','captain',1051),
+  (5623,'Dale','captain',1133),
+  (5624,'Parker','admiral',1072),
+  (5625,'Carl','sailor',810),
+  (5626,'Corey','captain',817),
+  (5627,'Bruce','sailor',965),
+  (5628,'Naomi','sailor',939),
+  (5629,'Olivia','captain',1068),
+  (5630,'Ralph','captain',1158);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5631,'Edgar','captain',911),
+  (5632,'Fred','admiral',854),
+  (5633,'Nathan','captain',1166),
+  (5634,'Leon','captain',1074),
+  (5635,'Zach','admiral',994),
+  (5636,'Leslie','captain',1175),
+  (5637,'Kevin','admiral',1128),
+  (5638,'Trevor','sailor',1126),
+  (5639,'Derek','admiral',1046),
+  (5640,'Herbert','captain',1059);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5641,'Isaac','admiral',875),
+  (5642,'Lily','captain',1185),
+  (5643,'Bryan','admiral',1191),
+  (5644,'Darren','admiral',1145),
+  (5645,'Dennis','sailor',1197),
+  (5646,'Chris','sailor',1175),
+  (5647,'Corey','captain',1200),
+  (5648,'Colin','admiral',816),
+  (5649,'Lydia','sailor',988),
+  (5650,'Alan','admiral',1130);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5651,'Ted','sailor',1027),
+  (5652,'Tim','sailor',900),
+  (5653,'Charlie','sailor',964),
+  (5654,'Violet','admiral',1040),
+  (5655,'Craig','admiral',937),
+  (5656,'Philip','admiral',942),
+  (5657,'Aidan','admiral',868),
+  (5658,'Corey','admiral',1071),
+  (5659,'Herman','captain',873),
+  (5660,'Asher','captain',1189);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5661,'Patrick','admiral',951),
+  (5662,'Billy','admiral',823),
+  (5663,'Dennis','captain',1031),
+  (5664,'Jackson','admiral',1000),
+  (5665,'Billy','admiral',1071),
+  (5666,'Christopher','admiral',977),
+  (5667,'Nick','admiral',995),
+  (5668,'Christopher','sailor',834),
+  (5669,'Pedro','admiral',863),
+  (5670,'Philip','admiral',1158);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5671,'Douglas','captain',996),
+  (5672,'Nathan','captain',869),
+  (5673,'Jeff','admiral',812),
+  (5674,'Nathaniel','captain',982),
+  (5675,'Donald','captain',1193),
+  (5676,'Nelson','captain',1015),
+  (5677,'Alex','sailor',1162),
+  (5678,'Leon','admiral',974),
+  (5679,'Andy','sailor',954),
+  (5680,'Frederick','admiral',1046);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5681,'Arthur','captain',1090),
+  (5682,'Dustin','admiral',956),
+  (5683,'Brian','captain',1194),
+  (5684,'Howard','captain',889),
+  (5685,'Craig','admiral',1073),
+  (5686,'Christopher','captain',1091),
+  (5687,'Caroline','sailor',1019),
+  (5688,'Nick','captain',1088),
+  (5689,'Garrett','sailor',1137),
+  (5690,'Elias','admiral',819);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5691,'Garrett','admiral',1056),
+  (5692,'Zoe','admiral',855),
+  (5693,'Victor','captain',1188),
+  (5694,'Nathaniel','admiral',837),
+  (5695,'Gabriel','sailor',947),
+  (5696,'Alice','admiral',955),
+  (5697,'Carter','sailor',805),
+  (5698,'Herman','sailor',1081),
+  (5699,'Colin','captain',1043),
+  (5700,'Lydia','admiral',836);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5701,'Zoe','sailor',995),
+  (5702,'Bobby','sailor',1147),
+  (5703,'Dave','admiral',923),
+  (5704,'Warren','admiral',978),
+  (5705,'Zach','sailor',816),
+  (5706,'Max','admiral',848),
+  (5707,'Clark','captain',1154),
+  (5708,'Donald','sailor',827),
+  (5709,'Asher','captain',1049),
+  (5710,'Piper','sailor',1172);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5711,'Barry','sailor',1151),
+  (5712,'Dale','admiral',905),
+  (5713,'Charlie','captain',964),
+  (5714,'Benjamin','sailor',1151),
+  (5715,'Brad','sailor',918),
+  (5716,'Arthur','sailor',1068),
+  (5717,'Dave','sailor',1042),
+  (5718,'Clayton','admiral',953),
+  (5719,'Felix','admiral',1039),
+  (5720,'Nathaniel','admiral',918);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5721,'Pedro','admiral',829),
+  (5722,'Nelson','sailor',884),
+  (5723,'Colin','admiral',817),
+  (5724,'Brian','sailor',899),
+  (5725,'Herman','sailor',1003),
+  (5726,'Gabriel','captain',917),
+  (5727,'Emma','captain',910),
+  (5728,'Charlie','captain',1100),
+  (5729,'Oscar','captain',923),
+  (5730,'Kevin','captain',864);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5731,'Cameron','admiral',830),
+  (5732,'Andy','captain',1014),
+  (5733,'Clark','admiral',1017),
+  (5734,'Andy','admiral',1139),
+  (5735,'Kyle','sailor',1123),
+  (5736,'Brian','admiral',1021),
+  (5737,'Ralph','sailor',1139),
+  (5738,'Frank','sailor',850),
+  (5739,'Kyle','admiral',1058),
+  (5740,'Calvin','sailor',1064);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5741,'Genesis','sailor',846),
+  (5742,'Dean','sailor',880),
+  (5743,'Brian','admiral',906),
+  (5744,'Ben','sailor',946),
+  (5745,'Bruce','sailor',1106),
+  (5746,'Manuel','sailor',1097),
+  (5747,'Adam','sailor',807),
+  (5748,'Marc','captain',1135),
+  (5749,'Christian','sailor',1181),
+  (5750,'Naomi','sailor',912);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5751,'Bill','captain',1093),
+  (5752,'Maya','admiral',863),
+  (5753,'Michael','sailor',1080),
+  (5754,'Eva','captain',1112),
+  (5755,'Adrian','sailor',1195),
+  (5756,'Anthony','admiral',935),
+  (5757,'Carlos','captain',926),
+  (5758,'Zachary','admiral',1183),
+  (5759,'Bryan','captain',886),
+  (5760,'Andrew','admiral',1166);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5761,'Frank','admiral',824),
+  (5762,'Maya','captain',838),
+  (5763,'Dan','admiral',888),
+  (5764,'Garry','admiral',1022),
+  (5765,'Isaac','captain',997),
+  (5766,'Daniel','captain',961),
+  (5767,'Cory','captain',960),
+  (5768,'Brian','admiral',1026),
+  (5769,'Violet','admiral',1014),
+  (5770,'Corey','admiral',829);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5771,'Clarence','admiral',990),
+  (5772,'Bernard','admiral',947),
+  (5773,'Alfred','admiral',1152),
+  (5774,'Cory','captain',1199),
+  (5775,'Cameron','captain',820),
+  (5776,'Zach','captain',936),
+  (5777,'Jeff','sailor',960),
+  (5778,'Herbert','captain',987),
+  (5779,'Oscar','admiral',978),
+  (5780,'Daniel','captain',1135);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5781,'Carter','captain',876),
+  (5782,'Brendan','captain',1055),
+  (5783,'Bill','admiral',826),
+  (5784,'Andy','sailor',1000),
+  (5785,'Zach','captain',966),
+  (5786,'Ken','admiral',1183),
+  (5787,'Julia','captain',1175),
+  (5788,'Edgar','sailor',1193),
+  (5789,'Violet','admiral',1010),
+  (5790,'Patrick','sailor',1139);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5791,'Carlos','admiral',824),
+  (5792,'Tyler','admiral',923),
+  (5793,'Craig','captain',1036),
+  (5794,'Julia','sailor',974),
+  (5795,'Blake','sailor',1036),
+  (5796,'Arthur','admiral',1071),
+  (5797,'Darren','admiral',850),
+  (5798,'Dean','sailor',1162),
+  (5799,'Emma','captain',1070),
+  (5800,'Max','sailor',841);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5801,'Chris','captain',823),
+  (5802,'Donald','captain',941),
+  (5803,'Philip','admiral',1089),
+  (5804,'Darren','captain',856),
+  (5805,'Garrett','admiral',941),
+  (5806,'Herbert','captain',823),
+  (5807,'Donald','admiral',1106),
+  (5808,'Douglas','admiral',829),
+  (5809,'Edmund','sailor',1027),
+  (5810,'Warren','captain',823);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5811,'Blake','admiral',1033),
+  (5812,'Austin','captain',1145),
+  (5813,'Spencer','captain',1111),
+  (5814,'Tyler','sailor',1097),
+  (5815,'Leon','captain',1023),
+  (5816,'Isaac','admiral',1192),
+  (5817,'Adrian','admiral',884),
+  (5818,'Craig','admiral',876),
+  (5819,'Darren','admiral',968),
+  (5820,'Darren','captain',901);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5821,'Corey','admiral',1110),
+  (5822,'Nelson','captain',1175),
+  (5823,'Pedro','captain',1044),
+  (5824,'Blake','captain',1007),
+  (5825,'Brendan','admiral',909),
+  (5826,'Dean','admiral',1097),
+  (5827,'Asher','captain',1053),
+  (5828,'Alfred','captain',835),
+  (5829,'Dale','admiral',1183),
+  (5830,'Douglas','captain',993);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5831,'Frank','sailor',1149),
+  (5832,'Penelope','sailor',927),
+  (5833,'Anthony','admiral',1009),
+  (5834,'Vernon','admiral',848),
+  (5835,'Anna','admiral',1147),
+  (5836,'Frederick','sailor',884),
+  (5837,'David','admiral',1008),
+  (5838,'Elias','admiral',999),
+  (5839,'Trevor','sailor',871),
+  (5840,'Darren','sailor',1076);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5841,'Trevor','sailor',1009),
+  (5842,'Isaac','sailor',805),
+  (5843,'Aidan','sailor',869),
+  (5844,'Alan','sailor',1093),
+  (5845,'Greg','sailor',1157),
+  (5846,'Dennis','admiral',1170),
+  (5847,'Ted','admiral',805),
+  (5848,'Bryan','sailor',958),
+  (5849,'Jose','admiral',849),
+  (5850,'Cory','captain',946);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5851,'Dale','captain',839),
+  (5852,'Genesis','captain',1160),
+  (5853,'Andy','sailor',988),
+  (5854,'Corey','captain',947),
+  (5855,'Lydia','admiral',904),
+  (5856,'Alice','sailor',1144),
+  (5857,'Zach','admiral',944),
+  (5858,'Manuel','sailor',1168),
+  (5859,'Vernon','captain',1153),
+  (5860,'Victor','sailor',1168);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5861,'Arthur','sailor',803),
+  (5862,'Dan','sailor',1184),
+  (5863,'Bradley','admiral',940),
+  (5864,'Cameron','captain',930),
+  (5865,'Eva','captain',944),
+  (5866,'Donald','admiral',998),
+  (5867,'Spencer','captain',867),
+  (5868,'Floyd','captain',1086),
+  (5869,'Craig','captain',1103),
+  (5870,'Clifford','captain',930);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5871,'Greg','captain',1165),
+  (5872,'Albert','captain',848),
+  (5873,'Floyd','sailor',1152),
+  (5874,'Garry','admiral',1018),
+  (5875,'Frank','admiral',1151),
+  (5876,'Max','captain',1144),
+  (5877,'Elias','captain',931),
+  (5878,'Edgar','sailor',935),
+  (5879,'Stanley','sailor',995),
+  (5880,'Philip','sailor',1138);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5881,'Albert','sailor',1060),
+  (5882,'Christian','admiral',1197),
+  (5883,'Nelson','admiral',1145),
+  (5884,'Spencer','admiral',835),
+  (5885,'Curtis','captain',1100),
+  (5886,'Frank','sailor',1180),
+  (5887,'Ben','captain',984),
+  (5888,'Elias','captain',972),
+  (5889,'Dave','sailor',1008),
+  (5890,'Julia','sailor',1105);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5891,'Carlos','admiral',999),
+  (5892,'Andrew','admiral',901),
+  (5893,'Lily','captain',923),
+  (5894,'Isaac','sailor',939),
+  (5895,'Chris','captain',821),
+  (5896,'Colin','admiral',899),
+  (5897,'Clyde','captain',1168),
+  (5898,'Nathaniel','admiral',999),
+  (5899,'Julia','admiral',1047),
+  (5900,'Alfred','captain',895);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5901,'Max','admiral',835),
+  (5902,'Brad','admiral',983),
+  (5903,'Frank','admiral',1015),
+  (5904,'Elias','captain',1067),
+  (5905,'Garrett','admiral',805),
+  (5906,'Howard','admiral',1144),
+  (5907,'Carlos','sailor',1161),
+  (5908,'Colin','captain',816),
+  (5909,'Bobby','captain',969),
+  (5910,'Ken','admiral',1152);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5911,'Manuel','admiral',976),
+  (5912,'Leslie','sailor',1195),
+  (5913,'Anna','sailor',1152),
+  (5914,'Garry','admiral',1139),
+  (5915,'Herbert','captain',1174),
+  (5916,'Warren','sailor',1046),
+  (5917,'Bryan','captain',1015),
+  (5918,'Clarence','admiral',1152),
+  (5919,'Aidan','sailor',986),
+  (5920,'Aidan','sailor',1076);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5921,'Mila','admiral',955),
+  (5922,'Olivia','sailor',881),
+  (5923,'Christopher','captain',930),
+  (5924,'Brian','admiral',978),
+  (5925,'Kyle','sailor',894),
+  (5926,'Billy','sailor',991),
+  (5927,'Vernon','sailor',874),
+  (5928,'Curtis','captain',1196),
+  (5929,'Alan','sailor',942),
+  (5930,'Darren','sailor',1003);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5931,'Chris','admiral',1036),
+  (5932,'Violet','captain',1119),
+  (5933,'Benjamin','sailor',1095),
+  (5934,'Levi','admiral',1154),
+  (5935,'Felix','sailor',1060),
+  (5936,'Mila','admiral',1107),
+  (5937,'Genesis','sailor',1046),
+  (5938,'Stanley','sailor',888),
+  (5939,'Philip','captain',1199),
+  (5940,'Julia','captain',821);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5941,'Christian','admiral',883),
+  (5942,'Ken','sailor',1090),
+  (5943,'Adam','sailor',1013),
+  (5944,'Olivia','captain',842),
+  (5945,'Julia','admiral',993),
+  (5946,'Roy','sailor',824),
+  (5947,'Bruce','captain',864),
+  (5948,'Spencer','captain',912),
+  (5949,'Mila','sailor',969),
+  (5950,'Stanley','admiral',815);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5951,'Cory','admiral',909),
+  (5952,'Cory','admiral',829),
+  (5953,'William','admiral',812),
+  (5954,'Jose','captain',1139),
+  (5955,'William','captain',1123),
+  (5956,'Ivan','sailor',980),
+  (5957,'Marc','sailor',1137),
+  (5958,'Andrew','captain',1058),
+  (5959,'Charlie','admiral',974),
+  (5960,'Connor','sailor',806);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5961,'Floyd','sailor',958),
+  (5962,'Kevin','captain',1169),
+  (5963,'Frank','admiral',961),
+  (5964,'Adrian','captain',879),
+  (5965,'Bryan','captain',1182),
+  (5966,'Douglas','sailor',1127),
+  (5967,'Anthony','admiral',807),
+  (5968,'William','sailor',1104),
+  (5969,'Omar','captain',839),
+  (5970,'Gabriel','captain',1159);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5971,'Bryan','admiral',1090),
+  (5972,'William','admiral',978),
+  (5973,'Maya','captain',1015),
+  (5974,'Edmund','captain',938),
+  (5975,'Andrew','captain',1062),
+  (5976,'Malcolm','captain',904),
+  (5977,'Piper','admiral',920),
+  (5978,'Jimmy','sailor',927),
+  (5979,'Trevor','admiral',1032),
+  (5980,'Calvin','admiral',1141);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5981,'Elias','sailor',837),
+  (5982,'Carter','admiral',1116),
+  (5983,'Donald','sailor',1084),
+  (5984,'Dave','sailor',1044),
+  (5985,'Michael','sailor',1174),
+  (5986,'Donald','sailor',1194),
+  (5987,'Curtis','captain',815),
+  (5988,'Elias','admiral',1188),
+  (5989,'Kevin','captain',1151),
+  (5990,'Chris','admiral',873);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (5991,'Aidan','admiral',1047),
+  (5992,'Victor','admiral',934),
+  (5993,'Omar','captain',1110),
+  (5994,'Mila','admiral',818),
+  (5995,'Andy','captain',1199),
+  (5996,'Tyler','captain',872),
+  (5997,'Alexander','sailor',1105),
+  (5998,'Lily','sailor',902),
+  (5999,'Victor','captain',826),
+  (6000,'Ben','admiral',866);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6001,'Ben','captain',960),
+  (6002,'Carlos','sailor',820),
+  (6003,'Alex','captain',878),
+  (6004,'Malcolm','admiral',806),
+  (6005,'Bob','sailor',1033),
+  (6006,'Howard','captain',846),
+  (6007,'Brendan','captain',901),
+  (6008,'Dustin','sailor',1138),
+  (6009,'Tim','captain',970),
+  (6010,'Tim','captain',1191);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6011,'Dustin','sailor',832),
+  (6012,'Herbert','captain',1128),
+  (6013,'Manuel','captain',1033),
+  (6014,'Roy','captain',964),
+  (6015,'Emma','captain',901),
+  (6016,'Clayton','captain',810),
+  (6017,'Billy','admiral',1107),
+  (6018,'Elias','sailor',1191),
+  (6019,'Alfred','sailor',1125),
+  (6020,'Corey','admiral',1016);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6021,'Clarence','captain',938),
+  (6022,'Stanley','captain',1189),
+  (6023,'Floyd','captain',1106),
+  (6024,'Dan','admiral',821),
+  (6025,'Adrian','admiral',1197),
+  (6026,'Oscar','captain',1051),
+  (6027,'Brad','sailor',833),
+  (6028,'Edmund','captain',824),
+  (6029,'Genesis','admiral',1173),
+  (6030,'Ivan','sailor',949);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6031,'Kevin','sailor',896),
+  (6032,'Victor','sailor',1120),
+  (6033,'Curtis','sailor',881),
+  (6034,'Albert','captain',947),
+  (6035,'Dennis','captain',953),
+  (6036,'Jeff','sailor',912),
+  (6037,'Bruce','admiral',993),
+  (6038,'Austin','sailor',1011),
+  (6039,'Penelope','sailor',1037),
+  (6040,'Garry','sailor',956);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6041,'Kevin','sailor',1051),
+  (6042,'Andrew','admiral',1199),
+  (6043,'Alice','sailor',921),
+  (6044,'Penelope','captain',1193),
+  (6045,'Lydia','admiral',1127),
+  (6046,'Bob','sailor',968),
+  (6047,'Garry','admiral',1003),
+  (6048,'Alexander','sailor',1079),
+  (6049,'Fred','captain',861),
+  (6050,'Douglas','sailor',843);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6051,'Herbert','admiral',836),
+  (6052,'Leslie','captain',916),
+  (6053,'Genesis','sailor',887),
+  (6054,'Lily','captain',1130),
+  (6055,'Dale','admiral',823),
+  (6056,'Benjamin','captain',870),
+  (6057,'Olivia','admiral',907),
+  (6058,'Andy','sailor',1123),
+  (6059,'Manuel','sailor',1114),
+  (6060,'Brandon','admiral',868);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6061,'William','sailor',890),
+  (6062,'Jimmy','captain',930),
+  (6063,'Garrett','admiral',1012),
+  (6064,'Shawn','admiral',861),
+  (6065,'Malcolm','captain',1053),
+  (6066,'Bradley','captain',1119),
+  (6067,'Alfred','captain',915),
+  (6068,'Dennis','admiral',1147),
+  (6069,'Luke','admiral',1139),
+  (6070,'Andrew','sailor',1107);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6071,'Zachary','admiral',830),
+  (6072,'Edwin','sailor',1121),
+  (6073,'David','captain',873),
+  (6074,'Parker','captain',1158),
+  (6075,'Stanley','captain',1157),
+  (6076,'Brian','admiral',1138),
+  (6077,'Nathan','sailor',1148),
+  (6078,'Bill','captain',886),
+  (6079,'Andrew','admiral',922),
+  (6080,'Isaac','sailor',876);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6081,'Caleb','sailor',945),
+  (6082,'Brendan','captain',1025),
+  (6083,'Bobby','sailor',913),
+  (6084,'Aidan','admiral',1191),
+  (6085,'Herman','captain',832),
+  (6086,'Lily','sailor',1067),
+  (6087,'Douglas','admiral',1031),
+  (6088,'Aidan','sailor',1017),
+  (6089,'Donald','admiral',971),
+  (6090,'Clifford','admiral',931);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6091,'Zachary','captain',1072),
+  (6092,'Edgar','admiral',887),
+  (6093,'Charlie','captain',1165),
+  (6094,'Herbert','sailor',942),
+  (6095,'Oscar','admiral',1045),
+  (6096,'Daniel','admiral',820),
+  (6097,'Caroline','captain',874),
+  (6098,'Victor','admiral',1107),
+  (6099,'Howard','admiral',836),
+  (6100,'Garry','captain',805);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6101,'Bruce','sailor',1021),
+  (6102,'Greg','sailor',883),
+  (6103,'Andrew','admiral',847),
+  (6104,'Eva','captain',901),
+  (6105,'Ernest','sailor',876),
+  (6106,'Emma','captain',1067),
+  (6107,'Daniel','admiral',933),
+  (6108,'Nathan','captain',1024),
+  (6109,'Maya','captain',1045),
+  (6110,'Naomi','sailor',916);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6111,'Vernon','sailor',1135),
+  (6112,'Bob','sailor',851),
+  (6113,'Jose','sailor',1146),
+  (6114,'Blake','sailor',920),
+  (6115,'Bill','sailor',1177),
+  (6116,'Carl','admiral',822),
+  (6117,'Clarence','admiral',1158),
+  (6118,'William','admiral',1145),
+  (6119,'Olivia','captain',992),
+  (6120,'Mila','sailor',1144);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6121,'Ralph','admiral',1165),
+  (6122,'Carlos','sailor',864),
+  (6123,'Victor','sailor',1103),
+  (6124,'Charlie','admiral',852),
+  (6125,'Leslie','admiral',1130),
+  (6126,'Zoe','admiral',1166),
+  (6127,'Maxwell','admiral',1139),
+  (6128,'Donald','admiral',962),
+  (6129,'Levi','captain',892),
+  (6130,'Bernard','captain',887);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6131,'Stanley','admiral',1139),
+  (6132,'Nick','admiral',969),
+  (6133,'Alex','admiral',998),
+  (6134,'Adam','captain',996),
+  (6135,'Frank','admiral',892),
+  (6136,'Caroline','sailor',1159),
+  (6137,'Ken','sailor',1015),
+  (6138,'Olivia','captain',1152),
+  (6139,'Carlos','captain',915),
+  (6140,'Vernon','admiral',1126);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6141,'Jeff','admiral',813),
+  (6142,'Colin','admiral',1019),
+  (6143,'Penelope','captain',1193),
+  (6144,'Bill','sailor',1089),
+  (6145,'Nathaniel','sailor',847),
+  (6146,'Edgar','admiral',967),
+  (6147,'Nathan','sailor',1063),
+  (6148,'Elias','captain',898),
+  (6149,'Penelope','sailor',866),
+  (6150,'Mila','sailor',1102);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6151,'Fred','admiral',950),
+  (6152,'Cory','admiral',919),
+  (6153,'Levi','sailor',879),
+  (6154,'Emma','sailor',925),
+  (6155,'Arthur','sailor',848),
+  (6156,'Curtis','captain',1138),
+  (6157,'Greg','sailor',803),
+  (6158,'Philip','sailor',974),
+  (6159,'Benjamin','sailor',1082),
+  (6160,'Donald','captain',1014);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6161,'Floyd','captain',1192),
+  (6162,'Craig','sailor',884),
+  (6163,'Herman','captain',883),
+  (6164,'Andy','captain',862),
+  (6165,'Clayton','sailor',1002),
+  (6166,'Ken','sailor',838),
+  (6167,'Barry','captain',917),
+  (6168,'Jimmy','captain',843),
+  (6169,'Herbert','captain',1011),
+  (6170,'Barry','captain',1126);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6171,'Edwin','sailor',1049),
+  (6172,'Derek','admiral',1176),
+  (6173,'Tyler','captain',1024),
+  (6174,'Piper','captain',1049),
+  (6175,'Mila','captain',907),
+  (6176,'Edgar','sailor',836),
+  (6177,'Andy','sailor',827),
+  (6178,'Alice','sailor',1068),
+  (6179,'Anthony','admiral',1191),
+  (6180,'Garrett','captain',961);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6181,'Edgar','captain',1057),
+  (6182,'Carl','admiral',1087),
+  (6183,'Aaron','sailor',884),
+  (6184,'Oscar','captain',1023),
+  (6185,'Nathan','captain',1030),
+  (6186,'Parker','captain',1161),
+  (6187,'Bill','admiral',1192),
+  (6188,'Genesis','sailor',1043),
+  (6189,'Omar','captain',818),
+  (6190,'Austin','captain',997);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6191,'Blake','sailor',1072),
+  (6192,'Zachary','captain',823),
+  (6193,'Donald','admiral',992),
+  (6194,'Billy','admiral',1038),
+  (6195,'Herman','sailor',1132),
+  (6196,'Colin','captain',985),
+  (6197,'Kyle','captain',990),
+  (6198,'Ernest','captain',1030),
+  (6199,'Calvin','captain',995),
+  (6200,'Brian','captain',1126);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6201,'Garry','captain',1070),
+  (6202,'Marc','admiral',963),
+  (6203,'Clayton','admiral',873),
+  (6204,'Derek','sailor',1172),
+  (6205,'Olivia','admiral',1105),
+  (6206,'Ralph','captain',1085),
+  (6207,'Naomi','sailor',890),
+  (6208,'Aaron','captain',1097),
+  (6209,'Omar','sailor',976),
+  (6210,'Donald','captain',841);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6211,'Dan','admiral',1147),
+  (6212,'Edgar','sailor',1188),
+  (6213,'Dave','captain',1009),
+  (6214,'Carl','sailor',956),
+  (6215,'Ralph','sailor',1156),
+  (6216,'Brad','sailor',986),
+  (6217,'Nathaniel','sailor',1135),
+  (6218,'Clinton','sailor',885),
+  (6219,'Ernest','admiral',1143),
+  (6220,'Aaron','admiral',889);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6221,'Darren','sailor',884),
+  (6222,'Clifford','captain',919),
+  (6223,'Jimmy','captain',802),
+  (6224,'Connor','sailor',803),
+  (6225,'Howard','admiral',1000),
+  (6226,'Cody','admiral',842),
+  (6227,'Zoe','sailor',1085),
+  (6228,'Felix','captain',940),
+  (6229,'Jose','sailor',803),
+  (6230,'Alan','admiral',842);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6231,'Alan','admiral',1106),
+  (6232,'Tim','admiral',1181),
+  (6233,'Ralph','admiral',1183),
+  (6234,'Jeff','admiral',857),
+  (6235,'Floyd','sailor',1180),
+  (6236,'Carlos','captain',879),
+  (6237,'Benjamin','captain',1067),
+  (6238,'Dale','sailor',940),
+  (6239,'Ernest','captain',1162),
+  (6240,'Nelson','sailor',1128);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6241,'Maxwell','sailor',1013),
+  (6242,'Adrian','sailor',850),
+  (6243,'Christian','admiral',1179),
+  (6244,'Bryan','sailor',833),
+  (6245,'Roy','admiral',1177),
+  (6246,'Maxwell','sailor',1135),
+  (6247,'Max','captain',1026),
+  (6248,'Greg','captain',1172),
+  (6249,'Trevor','sailor',1053),
+  (6250,'Pedro','captain',1117);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6251,'Philip','admiral',1042),
+  (6252,'Gabriel','sailor',1156),
+  (6253,'Benjamin','captain',1014),
+  (6254,'Naomi','sailor',1007),
+  (6255,'Howard','captain',874),
+  (6256,'Jimmy','captain',979),
+  (6257,'Cameron','captain',1196),
+  (6258,'Adam','admiral',813),
+  (6259,'Lily','sailor',1043),
+  (6260,'Olivia','admiral',993);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6261,'Carter','admiral',1157),
+  (6262,'Ralph','sailor',1063),
+  (6263,'Michael','sailor',876),
+  (6264,'Charlie','captain',985),
+  (6265,'Cory','admiral',971),
+  (6266,'Emma','admiral',913),
+  (6267,'Gabriel','sailor',987),
+  (6268,'Luke','admiral',1053),
+  (6269,'Trevor','captain',829),
+  (6270,'Anthony','captain',1154);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6271,'Anna','admiral',1179),
+  (6272,'Bobby','admiral',955),
+  (6273,'Clarence','admiral',953),
+  (6274,'Ted','captain',841),
+  (6275,'Emma','sailor',1191),
+  (6276,'Malcolm','sailor',860),
+  (6277,'Omar','admiral',852),
+  (6278,'Naomi','captain',804),
+  (6279,'Ernest','captain',848),
+  (6280,'Bernard','sailor',1058);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6281,'Anna','captain',1173),
+  (6282,'Nathaniel','captain',1102),
+  (6283,'Bruce','admiral',1118),
+  (6284,'Dean','admiral',984),
+  (6285,'Ben','captain',939),
+  (6286,'Anthony','captain',922),
+  (6287,'Brian','sailor',1055),
+  (6288,'Ralph','sailor',835),
+  (6289,'Trevor','captain',1093),
+  (6290,'Anna','admiral',915);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6291,'Oscar','sailor',1198),
+  (6292,'Bryan','admiral',817),
+  (6293,'Nick','sailor',864),
+  (6294,'Zoe','captain',882),
+  (6295,'Clark','admiral',1001),
+  (6296,'Edgar','sailor',810),
+  (6297,'Lydia','sailor',1075),
+  (6298,'David','admiral',901),
+  (6299,'Ben','sailor',1085),
+  (6300,'Clyde','sailor',1097);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6301,'Aaron','captain',922),
+  (6302,'Penelope','captain',898),
+  (6303,'Maxwell','captain',978),
+  (6304,'Bruce','sailor',1020),
+  (6305,'Roy','admiral',1076),
+  (6306,'Clyde','captain',946),
+  (6307,'Zach','captain',973),
+  (6308,'Jackson','sailor',1066),
+  (6309,'Olivia','captain',854),
+  (6310,'Clayton','admiral',901);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6311,'Derek','captain',1185),
+  (6312,'Austin','captain',1158),
+  (6313,'Ernest','sailor',915),
+  (6314,'Dale','sailor',1093),
+  (6315,'Herbert','sailor',898),
+  (6316,'Brendan','captain',858),
+  (6317,'Douglas','captain',891),
+  (6318,'Jimmy','admiral',962),
+  (6319,'Cameron','admiral',1098),
+  (6320,'Vernon','captain',1036);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6321,'Parker','admiral',911),
+  (6322,'Donald','admiral',1035),
+  (6323,'Blake','sailor',938),
+  (6324,'Alan','captain',941),
+  (6325,'Nathaniel','admiral',1198),
+  (6326,'Carlos','sailor',966),
+  (6327,'Brad','admiral',895),
+  (6328,'Curtis','sailor',1189),
+  (6329,'Austin','captain',1083),
+  (6330,'Herbert','sailor',1143);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6331,'Jimmy','sailor',1141),
+  (6332,'Patrick','captain',1099),
+  (6333,'Luke','admiral',863),
+  (6334,'David','sailor',1059),
+  (6335,'Xavier','admiral',889),
+  (6336,'Max','captain',1010),
+  (6337,'Donald','captain',1105),
+  (6338,'Cody','sailor',969),
+  (6339,'Adrian','sailor',999),
+  (6340,'Ernest','admiral',964);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6341,'Maya','sailor',1038),
+  (6342,'Dave','captain',1001),
+  (6343,'Ralph','admiral',926),
+  (6344,'Omar','admiral',915),
+  (6345,'Dale','sailor',853),
+  (6346,'Kyle','sailor',853),
+  (6347,'Cameron','admiral',1193),
+  (6348,'Jimmy','sailor',835),
+  (6349,'Dean','admiral',877),
+  (6350,'Adrian','sailor',1188);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6351,'Caleb','sailor',1171),
+  (6352,'Trevor','admiral',818),
+  (6353,'Connor','admiral',928),
+  (6354,'Alice','captain',1048),
+  (6355,'Alan','admiral',1182),
+  (6356,'Alan','captain',890),
+  (6357,'Luke','sailor',927),
+  (6358,'Alfred','admiral',928),
+  (6359,'Bobby','sailor',873),
+  (6360,'Arthur','captain',1022);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6361,'Arthur','admiral',818),
+  (6362,'Asher','captain',808),
+  (6363,'Emma','sailor',994),
+  (6364,'Craig','captain',976),
+  (6365,'Patrick','captain',1119),
+  (6366,'Charlie','captain',911),
+  (6367,'Alice','captain',905),
+  (6368,'Herman','admiral',1141),
+  (6369,'Edwin','captain',1064),
+  (6370,'Aaron','sailor',990);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6371,'Jimmy','admiral',1078),
+  (6372,'Bobby','captain',1187),
+  (6373,'Jackson','captain',1115),
+  (6374,'Aaron','admiral',957),
+  (6375,'Bruce','captain',857),
+  (6376,'Olivia','sailor',1130),
+  (6377,'Ted','captain',806),
+  (6378,'Garrett','sailor',1112),
+  (6379,'Derek','captain',1064),
+  (6380,'Bradley','sailor',953);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6381,'Albert','sailor',878),
+  (6382,'Vernon','sailor',854),
+  (6383,'Pedro','admiral',946),
+  (6384,'Jeff','admiral',1152),
+  (6385,'Julia','admiral',1196),
+  (6386,'Alex','sailor',944),
+  (6387,'Ralph','sailor',890),
+  (6388,'Brad','captain',1161),
+  (6389,'Caleb','admiral',1072),
+  (6390,'Arthur','admiral',1154);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6391,'Manuel','sailor',1041),
+  (6392,'Herbert','sailor',915),
+  (6393,'Derek','sailor',840),
+  (6394,'Julia','sailor',854),
+  (6395,'Omar','captain',942),
+  (6396,'Christopher','sailor',1068),
+  (6397,'Connor','captain',820),
+  (6398,'Luke','admiral',1048),
+  (6399,'Clayton','captain',1003),
+  (6400,'Carl','admiral',1171);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6401,'Alice','captain',996),
+  (6402,'Vernon','admiral',1089),
+  (6403,'Calvin','sailor',1042),
+  (6404,'Patrick','sailor',1144),
+  (6405,'Nathaniel','captain',1094),
+  (6406,'Edwin','captain',1177),
+  (6407,'Kevin','admiral',1194),
+  (6408,'Austin','admiral',1057),
+  (6409,'Ernest','admiral',940),
+  (6410,'Darren','captain',1187);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6411,'Marc','admiral',992),
+  (6412,'Ben','captain',1143),
+  (6413,'Victor','admiral',1110),
+  (6414,'Omar','sailor',831),
+  (6415,'Dean','sailor',1001),
+  (6416,'Eva','sailor',1121),
+  (6417,'Edgar','sailor',961),
+  (6418,'Anna','captain',1111),
+  (6419,'Ernest','captain',1172),
+  (6420,'Patrick','captain',913);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6421,'Alfred','sailor',1005),
+  (6422,'Bobby','sailor',990),
+  (6423,'Piper','sailor',1198),
+  (6424,'Bill','sailor',1104),
+  (6425,'Clarence','sailor',1145),
+  (6426,'Ernest','captain',1055),
+  (6427,'Patrick','captain',1121),
+  (6428,'Bobby','captain',1052),
+  (6429,'Dale','captain',875),
+  (6430,'Nathan','admiral',1056);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6431,'Calvin','admiral',1056),
+  (6432,'Anna','admiral',883),
+  (6433,'Arthur','sailor',1013),
+  (6434,'Kevin','captain',1079),
+  (6435,'Tyler','admiral',1083),
+  (6436,'Omar','sailor',1042),
+  (6437,'Kevin','admiral',1191),
+  (6438,'Stanley','admiral',907),
+  (6439,'Christopher','captain',886),
+  (6440,'Leon','admiral',1112);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6441,'Roy','admiral',970),
+  (6442,'Dustin','captain',899),
+  (6443,'Zoe','admiral',893),
+  (6444,'Bryan','sailor',1147),
+  (6445,'Victor','sailor',1068),
+  (6446,'Frank','sailor',877),
+  (6447,'Cameron','sailor',1019),
+  (6448,'Edgar','captain',1060),
+  (6449,'Jeff','admiral',1046),
+  (6450,'Billy','sailor',1063);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6451,'Victor','sailor',1159),
+  (6452,'Bernard','captain',908),
+  (6453,'Adam','admiral',824),
+  (6454,'Stanley','captain',1051),
+  (6455,'Calvin','admiral',1149),
+  (6456,'Lily','admiral',1113),
+  (6457,'Adam','sailor',1148),
+  (6458,'Michael','captain',1080),
+  (6459,'Clayton','captain',1180),
+  (6460,'Billy','sailor',1066);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6461,'Herman','captain',838),
+  (6462,'Clinton','captain',1186),
+  (6463,'Derek','sailor',1074),
+  (6464,'Bob','admiral',1133),
+  (6465,'Marc','admiral',985),
+  (6466,'Edgar','admiral',1156),
+  (6467,'Christian','admiral',967),
+  (6468,'Luke','admiral',1148),
+  (6469,'Dustin','admiral',1008),
+  (6470,'Shawn','sailor',1026);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6471,'Clayton','sailor',1117),
+  (6472,'Asher','sailor',1149),
+  (6473,'Jeff','admiral',871),
+  (6474,'Elias','captain',1103),
+  (6475,'Alfred','admiral',1069),
+  (6476,'Ernest','sailor',1065),
+  (6477,'Bradley','captain',874),
+  (6478,'Adam','sailor',1012),
+  (6479,'Frederick','captain',1198),
+  (6480,'Chris','admiral',927);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6481,'Billy','admiral',899),
+  (6482,'Clifford','captain',977),
+  (6483,'Elias','admiral',988),
+  (6484,'Dan','captain',967),
+  (6485,'Kevin','sailor',1164),
+  (6486,'Andrew','sailor',1194),
+  (6487,'Andrew','sailor',1107),
+  (6488,'Warren','sailor',823),
+  (6489,'Caleb','captain',1000),
+  (6490,'Christian','sailor',1143);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6491,'Emma','captain',1110),
+  (6492,'Brian','captain',950),
+  (6493,'Ken','sailor',952),
+  (6494,'Jimmy','captain',1129),
+  (6495,'Billy','captain',878),
+  (6496,'Adam','admiral',1167),
+  (6497,'Caleb','admiral',1181),
+  (6498,'Emma','sailor',1152),
+  (6499,'Jimmy','captain',1011),
+  (6500,'Ralph','captain',842);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6501,'Floyd','admiral',825),
+  (6502,'Maxwell','captain',928),
+  (6503,'Bill','captain',1038),
+  (6504,'Marc','sailor',806),
+  (6505,'Bob','captain',926),
+  (6506,'Corey','admiral',809),
+  (6507,'Nathaniel','admiral',1069),
+  (6508,'Frank','captain',1063),
+  (6509,'Mila','captain',1133),
+  (6510,'Austin','admiral',1066);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6511,'Eva','admiral',807),
+  (6512,'Adam','captain',1079),
+  (6513,'Austin','admiral',979),
+  (6514,'Lydia','admiral',826),
+  (6515,'Bryan','sailor',1108),
+  (6516,'Clyde','sailor',1019),
+  (6517,'Trevor','admiral',1108),
+  (6518,'Clifford','sailor',968),
+  (6519,'Donald','sailor',997),
+  (6520,'Brian','sailor',1064);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6521,'Max','captain',1175),
+  (6522,'Frederick','sailor',871),
+  (6523,'Frank','admiral',900),
+  (6524,'Malcolm','sailor',1015),
+  (6525,'Dean','captain',805),
+  (6526,'Philip','admiral',911),
+  (6527,'Olivia','captain',960),
+  (6528,'Cameron','captain',989),
+  (6529,'Christopher','sailor',990),
+  (6530,'Derek','sailor',1197);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6531,'Corey','sailor',936),
+  (6532,'Bob','admiral',896),
+  (6533,'Olivia','admiral',815),
+  (6534,'Bill','captain',1078),
+  (6535,'Penelope','captain',1086),
+  (6536,'Ralph','captain',1170),
+  (6537,'Carlos','admiral',893),
+  (6538,'Carter','admiral',1152),
+  (6539,'Brian','admiral',1176),
+  (6540,'Chris','sailor',995);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6541,'Carter','sailor',1200),
+  (6542,'Ernest','admiral',1040),
+  (6543,'Luke','sailor',825),
+  (6544,'Christian','captain',1061),
+  (6545,'Albert','sailor',908),
+  (6546,'Isaac','sailor',1007),
+  (6547,'Ralph','captain',1030),
+  (6548,'Zoe','sailor',913),
+  (6549,'Leslie','captain',912),
+  (6550,'Carl','captain',965);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6551,'Luke','captain',1103),
+  (6552,'Spencer','captain',937),
+  (6553,'Alice','sailor',890),
+  (6554,'Clyde','admiral',1027),
+  (6555,'Tim','sailor',1099),
+  (6556,'Mila','admiral',1165),
+  (6557,'Clayton','sailor',900),
+  (6558,'Nelson','sailor',1157),
+  (6559,'Clarence','sailor',1145),
+  (6560,'Floyd','sailor',930);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6561,'Bryan','admiral',875),
+  (6562,'Max','admiral',1091),
+  (6563,'Kevin','captain',1024),
+  (6564,'Clifford','captain',983),
+  (6565,'Tyler','sailor',884),
+  (6566,'Benjamin','admiral',1123),
+  (6567,'Cory','captain',1072),
+  (6568,'Edwin','captain',917),
+  (6569,'Felix','captain',1084),
+  (6570,'Alan','captain',1005);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6571,'Jimmy','sailor',1087),
+  (6572,'Carter','admiral',1005),
+  (6573,'Tim','captain',805),
+  (6574,'Dennis','admiral',1087),
+  (6575,'Dennis','sailor',1055),
+  (6576,'Zach','captain',1078),
+  (6577,'Asher','sailor',827),
+  (6578,'Ivan','admiral',924),
+  (6579,'Omar','captain',1089),
+  (6580,'Oscar','admiral',1007);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6581,'Edmund','captain',903),
+  (6582,'Bill','admiral',812),
+  (6583,'Brandon','captain',1090),
+  (6584,'Alexander','admiral',914),
+  (6585,'Tyler','sailor',987),
+  (6586,'Herman','sailor',810),
+  (6587,'David','sailor',957),
+  (6588,'Lydia','admiral',892),
+  (6589,'Anthony','captain',994),
+  (6590,'Clinton','captain',1163);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6591,'Darren','sailor',952),
+  (6592,'Garry','admiral',982),
+  (6593,'Fred','sailor',1014),
+  (6594,'Max','captain',943),
+  (6595,'Clayton','sailor',1102),
+  (6596,'Bob','sailor',933),
+  (6597,'Garrett','sailor',1098),
+  (6598,'Zach','admiral',1192),
+  (6599,'Howard','admiral',874),
+  (6600,'Darren','captain',917);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6601,'Spencer','admiral',1128),
+  (6602,'Bobby','sailor',1170),
+  (6603,'Austin','sailor',1081),
+  (6604,'Corey','captain',1182),
+  (6605,'Pedro','admiral',855),
+  (6606,'Zoe','sailor',1133),
+  (6607,'Fred','sailor',1013),
+  (6608,'Vernon','admiral',1157),
+  (6609,'Isaac','sailor',1087),
+  (6610,'Aidan','sailor',807);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6611,'Austin','captain',1170),
+  (6612,'Asher','admiral',1113),
+  (6613,'Emma','admiral',937),
+  (6614,'Herman','captain',995),
+  (6615,'Howard','captain',1169),
+  (6616,'Dan','admiral',821),
+  (6617,'Connor','captain',964),
+  (6618,'Leon','admiral',954),
+  (6619,'Ken','captain',1126),
+  (6620,'William','captain',1183);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6621,'Caleb','admiral',1135),
+  (6622,'Dale','sailor',1097),
+  (6623,'Arthur','captain',1005),
+  (6624,'Dean','sailor',917),
+  (6625,'Greg','admiral',994),
+  (6626,'Barry','admiral',931),
+  (6627,'Jimmy','admiral',874),
+  (6628,'Bob','captain',1145),
+  (6629,'Benjamin','admiral',1111),
+  (6630,'Piper','sailor',1024);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6631,'Bryan','admiral',1103),
+  (6632,'Chris','sailor',852),
+  (6633,'Donald','admiral',1086),
+  (6634,'Clifford','captain',1119),
+  (6635,'Craig','admiral',805),
+  (6636,'Mila','admiral',884),
+  (6637,'Mila','captain',1090),
+  (6638,'Eva','admiral',1053),
+  (6639,'Clark','captain',836),
+  (6640,'Adrian','admiral',1092);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6641,'Ivan','admiral',970),
+  (6642,'Blake','admiral',1097),
+  (6643,'Bob','admiral',1135),
+  (6644,'Ken','captain',1144),
+  (6645,'Connor','sailor',985),
+  (6646,'Andrew','sailor',839),
+  (6647,'Adrian','captain',842),
+  (6648,'Benjamin','admiral',888),
+  (6649,'Bill','sailor',847),
+  (6650,'Kyle','sailor',963);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6651,'Curtis','admiral',1122),
+  (6652,'Levi','admiral',1046),
+  (6653,'Zoe','admiral',1181),
+  (6654,'Zachary','admiral',1035),
+  (6655,'Garry','sailor',1061),
+  (6656,'Naomi','admiral',1148),
+  (6657,'Piper','sailor',1061),
+  (6658,'Alice','admiral',1064),
+  (6659,'Dale','captain',1193),
+  (6660,'Olivia','sailor',811);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6661,'Herman','sailor',1072),
+  (6662,'Marc','admiral',832),
+  (6663,'Levi','sailor',863),
+  (6664,'Clarence','sailor',896),
+  (6665,'Tyler','sailor',915),
+  (6666,'Alfred','admiral',970),
+  (6667,'Malcolm','captain',967),
+  (6668,'Clyde','admiral',1052),
+  (6669,'Brian','captain',834),
+  (6670,'Dan','admiral',1048);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6671,'Dean','captain',1091),
+  (6672,'Aidan','sailor',1168),
+  (6673,'Penelope','sailor',1196),
+  (6674,'Kevin','admiral',993),
+  (6675,'Herman','admiral',909),
+  (6676,'Dale','sailor',835),
+  (6677,'Clayton','captain',920),
+  (6678,'Warren','sailor',815),
+  (6679,'Darren','sailor',989),
+  (6680,'Colin','captain',838);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6681,'Leon','admiral',1168),
+  (6682,'Frederick','captain',888),
+  (6683,'Connor','captain',1047),
+  (6684,'Douglas','captain',878),
+  (6685,'Barry','captain',1020),
+  (6686,'Maxwell','sailor',1004),
+  (6687,'Pedro','captain',985),
+  (6688,'Herbert','sailor',950),
+  (6689,'Brandon','sailor',874),
+  (6690,'Dale','sailor',1195);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6691,'Alexander','admiral',1167),
+  (6692,'Clifford','admiral',866),
+  (6693,'Christopher','admiral',1037),
+  (6694,'Alfred','captain',842),
+  (6695,'Pedro','admiral',811),
+  (6696,'Colin','captain',1146),
+  (6697,'William','admiral',1116),
+  (6698,'Julia','sailor',1019),
+  (6699,'Levi','sailor',1168),
+  (6700,'Christopher','captain',1010);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6701,'Connor','sailor',1067),
+  (6702,'Roy','sailor',1144),
+  (6703,'Clarence','admiral',976),
+  (6704,'Felix','captain',887),
+  (6705,'Cameron','sailor',873),
+  (6706,'Herman','sailor',1098),
+  (6707,'Fred','sailor',1173),
+  (6708,'Garry','captain',823),
+  (6709,'Derek','admiral',927),
+  (6710,'Derek','sailor',1035);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6711,'Carl','captain',1060),
+  (6712,'Carl','sailor',833),
+  (6713,'Billy','captain',1052),
+  (6714,'Barry','sailor',1033),
+  (6715,'Austin','sailor',1076),
+  (6716,'David','admiral',880),
+  (6717,'Frederick','admiral',1189),
+  (6718,'Frank','captain',1047),
+  (6719,'Bernard','admiral',851),
+  (6720,'Mila','sailor',863);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6721,'Omar','admiral',881),
+  (6722,'Victor','admiral',1145),
+  (6723,'Felix','sailor',894),
+  (6724,'Omar','captain',875),
+  (6725,'Herbert','admiral',929),
+  (6726,'Clifford','sailor',1170),
+  (6727,'Alice','captain',1180),
+  (6728,'Dave','sailor',842),
+  (6729,'Brendan','admiral',1094),
+  (6730,'Calvin','captain',958);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6731,'Jeff','admiral',1101),
+  (6732,'Levi','captain',1001),
+  (6733,'Clark','sailor',826),
+  (6734,'Leon','admiral',1027),
+  (6735,'Anna','admiral',1012),
+  (6736,'Blake','admiral',1035),
+  (6737,'Daniel','admiral',1169),
+  (6738,'Bob','captain',1010),
+  (6739,'Adam','captain',1021),
+  (6740,'Connor','admiral',1110);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6741,'Roy','sailor',1175),
+  (6742,'Dale','sailor',883),
+  (6743,'Douglas','captain',1163),
+  (6744,'Dan','admiral',1127),
+  (6745,'Bob','sailor',935),
+  (6746,'Eva','sailor',803),
+  (6747,'Dustin','sailor',1152),
+  (6748,'Carl','admiral',1103),
+  (6749,'Omar','sailor',822),
+  (6750,'Genesis','sailor',1035);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6751,'Nelson','admiral',948),
+  (6752,'Anna','admiral',1173),
+  (6753,'Anna','admiral',1033),
+  (6754,'Manuel','sailor',1129),
+  (6755,'Darren','sailor',1154),
+  (6756,'Luke','admiral',1183),
+  (6757,'Leslie','captain',1001),
+  (6758,'Donald','captain',821),
+  (6759,'Dave','captain',862),
+  (6760,'Herman','captain',1099);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6761,'Ernest','captain',1079),
+  (6762,'Parker','captain',955),
+  (6763,'Edmund','admiral',1186),
+  (6764,'Adam','sailor',1055),
+  (6765,'Michael','sailor',906),
+  (6766,'Adrian','admiral',1093),
+  (6767,'Carter','admiral',812),
+  (6768,'Malcolm','captain',1062),
+  (6769,'Carlos','captain',958),
+  (6770,'Corey','sailor',1055);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6771,'Caleb','captain',987),
+  (6772,'Zachary','captain',1009),
+  (6773,'Isaac','captain',1082),
+  (6774,'Cody','admiral',1120),
+  (6775,'Olivia','admiral',856),
+  (6776,'Lydia','captain',1045),
+  (6777,'Philip','captain',1123),
+  (6778,'Piper','admiral',995),
+  (6779,'Austin','captain',1145),
+  (6780,'Spencer','admiral',982);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6781,'Ralph','admiral',1139),
+  (6782,'Colin','sailor',815),
+  (6783,'Edmund','admiral',1105),
+  (6784,'Aidan','captain',1112),
+  (6785,'Roy','captain',1052),
+  (6786,'Xavier','admiral',1004),
+  (6787,'Ralph','admiral',804),
+  (6788,'Felix','captain',1085),
+  (6789,'Brian','captain',996),
+  (6790,'Alexander','sailor',983);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6791,'Brian','captain',893),
+  (6792,'Charlie','sailor',857),
+  (6793,'Brian','sailor',868),
+  (6794,'Ivan','captain',874),
+  (6795,'Nathaniel','sailor',1068),
+  (6796,'Dan','captain',1000),
+  (6797,'Ken','captain',1170),
+  (6798,'Tim','sailor',1006),
+  (6799,'Clinton','sailor',1001),
+  (6800,'Leslie','sailor',892);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6801,'Zachary','admiral',1134),
+  (6802,'Clifford','sailor',1158),
+  (6803,'Brian','admiral',825),
+  (6804,'Clyde','captain',1022),
+  (6805,'Clayton','captain',1015),
+  (6806,'Patrick','captain',1036),
+  (6807,'Bill','captain',1018),
+  (6808,'Donald','admiral',979),
+  (6809,'Shawn','captain',1087),
+  (6810,'Ted','admiral',1054);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6811,'Dustin','sailor',1112),
+  (6812,'Nick','captain',1072),
+  (6813,'Cameron','captain',812),
+  (6814,'Bruce','captain',991),
+  (6815,'Calvin','sailor',931),
+  (6816,'Elias','sailor',950),
+  (6817,'Tim','sailor',1013),
+  (6818,'Albert','sailor',1161),
+  (6819,'Greg','admiral',847),
+  (6820,'Craig','captain',1182);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6821,'Tim','sailor',1143),
+  (6822,'Maya','captain',917),
+  (6823,'Felix','sailor',1182),
+  (6824,'Dave','admiral',940),
+  (6825,'Ernest','captain',1149),
+  (6826,'Warren','admiral',897),
+  (6827,'Craig','sailor',970),
+  (6828,'Michael','sailor',806),
+  (6829,'Tyler','admiral',1013),
+  (6830,'Jackson','sailor',999);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6831,'Ken','sailor',868),
+  (6832,'Max','captain',827),
+  (6833,'Carlos','sailor',1170),
+  (6834,'Max','admiral',1162),
+  (6835,'Dean','captain',985),
+  (6836,'Clark','captain',1128),
+  (6837,'Emma','sailor',808),
+  (6838,'Herbert','admiral',820),
+  (6839,'Fred','admiral',835),
+  (6840,'Arthur','sailor',1160);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6841,'Ben','captain',832),
+  (6842,'Colin','admiral',1095),
+  (6843,'Vernon','admiral',836),
+  (6844,'Emma','sailor',928),
+  (6845,'Darren','admiral',1157),
+  (6846,'Jimmy','sailor',1123),
+  (6847,'Ted','admiral',947),
+  (6848,'Anthony','admiral',852),
+  (6849,'Alfred','sailor',824),
+  (6850,'Carlos','sailor',920);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6851,'Bruce','admiral',972),
+  (6852,'Stanley','sailor',1170),
+  (6853,'Andy','captain',980),
+  (6854,'Maxwell','admiral',1197),
+  (6855,'Lydia','admiral',1081),
+  (6856,'Stanley','sailor',1076),
+  (6857,'Nathaniel','sailor',1012),
+  (6858,'Clayton','admiral',893),
+  (6859,'Dale','captain',864),
+  (6860,'Dean','captain',1087);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6861,'Zach','admiral',1066),
+  (6862,'Arthur','admiral',1078),
+  (6863,'Corey','admiral',951),
+  (6864,'Philip','admiral',1151),
+  (6865,'Leslie','captain',1153),
+  (6866,'Edmund','captain',1104),
+  (6867,'Edgar','admiral',1194),
+  (6868,'Bobby','sailor',959),
+  (6869,'Colin','admiral',1096),
+  (6870,'Patrick','sailor',925);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6871,'Cory','sailor',1139),
+  (6872,'Alan','admiral',1177),
+  (6873,'Aidan','captain',1001),
+  (6874,'Brandon','admiral',974),
+  (6875,'Malcolm','sailor',1019),
+  (6876,'Andy','sailor',856),
+  (6877,'Max','admiral',851),
+  (6878,'Carlos','captain',1064),
+  (6879,'Olivia','sailor',822),
+  (6880,'Nathan','admiral',973);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6881,'Eva','admiral',859),
+  (6882,'Charlie','admiral',838),
+  (6883,'Arthur','admiral',1179),
+  (6884,'Chris','admiral',1118),
+  (6885,'Carter','captain',1195),
+  (6886,'Zoe','sailor',1066),
+  (6887,'Warren','captain',982),
+  (6888,'Caleb','captain',1173),
+  (6889,'William','admiral',912),
+  (6890,'Julia','admiral',1129);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6891,'Ken','sailor',1185),
+  (6892,'Eva','admiral',1184),
+  (6893,'Tim','captain',1032),
+  (6894,'Spencer','captain',1163),
+  (6895,'Luke','sailor',1146),
+  (6896,'Pedro','sailor',1075),
+  (6897,'Garry','captain',1046),
+  (6898,'Clinton','admiral',1071),
+  (6899,'Alice','captain',914),
+  (6900,'Nelson','sailor',1048);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6901,'Shawn','sailor',1070),
+  (6902,'Brad','admiral',903),
+  (6903,'Craig','captain',954),
+  (6904,'Clyde','admiral',1039),
+  (6905,'Trevor','captain',1016),
+  (6906,'Elias','admiral',1134),
+  (6907,'Cody','admiral',1135),
+  (6908,'Carlos','captain',1087),
+  (6909,'Dale','sailor',1017),
+  (6910,'Alexander','admiral',1088);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6911,'Olivia','captain',823),
+  (6912,'Douglas','admiral',1164),
+  (6913,'Calvin','admiral',853),
+  (6914,'Felix','captain',1098),
+  (6915,'Anthony','sailor',825),
+  (6916,'Maya','admiral',1118),
+  (6917,'Corey','admiral',990),
+  (6918,'Max','captain',1069),
+  (6919,'Jackson','sailor',1187),
+  (6920,'Darren','captain',990);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6921,'Eva','sailor',1070),
+  (6922,'Darren','sailor',1094),
+  (6923,'Carlos','sailor',1043),
+  (6924,'Brad','captain',1012),
+  (6925,'Tyler','captain',1054),
+  (6926,'Parker','sailor',884),
+  (6927,'Levi','admiral',1044),
+  (6928,'Julia','sailor',963),
+  (6929,'Kyle','sailor',949),
+  (6930,'Frederick','captain',1123);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6931,'Christopher','sailor',882),
+  (6932,'Vernon','admiral',814),
+  (6933,'Maxwell','captain',809),
+  (6934,'Marc','admiral',989),
+  (6935,'Adrian','captain',898),
+  (6936,'Anthony','sailor',1120),
+  (6937,'Maxwell','admiral',1168),
+  (6938,'Blake','captain',1151),
+  (6939,'Clyde','admiral',1169),
+  (6940,'Fred','sailor',871);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6941,'Garry','captain',888),
+  (6942,'Greg','admiral',1108),
+  (6943,'Mila','captain',928),
+  (6944,'Olivia','sailor',1158),
+  (6945,'Benjamin','admiral',856),
+  (6946,'Carl','captain',1047),
+  (6947,'Clifford','sailor',1111),
+  (6948,'Aidan','captain',828),
+  (6949,'Ralph','captain',1023),
+  (6950,'Edgar','captain',898);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6951,'Jose','admiral',1137),
+  (6952,'Dennis','sailor',1146),
+  (6953,'Lydia','admiral',812),
+  (6954,'Greg','sailor',1069),
+  (6955,'Donald','captain',958),
+  (6956,'Calvin','admiral',1079),
+  (6957,'Ivan','sailor',1061),
+  (6958,'Ben','captain',1048),
+  (6959,'Jose','sailor',1068),
+  (6960,'William','sailor',830);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6961,'Isaac','captain',1116),
+  (6962,'Clyde','sailor',839),
+  (6963,'Andrew','sailor',1020),
+  (6964,'Andrew','captain',1083),
+  (6965,'Penelope','captain',917),
+  (6966,'Fred','sailor',1016),
+  (6967,'Edgar','captain',986),
+  (6968,'Brendan','admiral',1128),
+  (6969,'Alice','captain',811),
+  (6970,'Shawn','captain',878);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6971,'Aaron','admiral',839),
+  (6972,'Brendan','captain',1051),
+  (6973,'Dennis','sailor',1010),
+  (6974,'Bryan','admiral',1043),
+  (6975,'Calvin','sailor',1103),
+  (6976,'Oscar','admiral',820),
+  (6977,'Cody','captain',819),
+  (6978,'Frederick','admiral',855),
+  (6979,'Edwin','admiral',1091),
+  (6980,'Brendan','sailor',1079);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6981,'Aaron','sailor',918),
+  (6982,'Edgar','sailor',984),
+  (6983,'Craig','sailor',1161),
+  (6984,'Bernard','admiral',1145),
+  (6985,'Caleb','sailor',870),
+  (6986,'Daniel','captain',973),
+  (6987,'Arthur','sailor',834),
+  (6988,'Clarence','captain',1193),
+  (6989,'Alexander','sailor',1187),
+  (6990,'Colin','admiral',1028);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (6991,'Caroline','captain',1195),
+  (6992,'Anthony','sailor',1178),
+  (6993,'Colin','admiral',869),
+  (6994,'Anthony','captain',967),
+  (6995,'Aidan','captain',1032),
+  (6996,'Violet','sailor',1055),
+  (6997,'Jimmy','admiral',1106),
+  (6998,'Garry','sailor',1064),
+  (6999,'Clark','sailor',835),
+  (7000,'Alex','captain',1142);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7001,'Manuel','captain',1069),
+  (7002,'Jose','admiral',860),
+  (7003,'Ivan','admiral',1082),
+  (7004,'Albert','sailor',1140),
+  (7005,'Dustin','admiral',987),
+  (7006,'Brendan','admiral',1002),
+  (7007,'Jeff','admiral',970),
+  (7008,'Felix','sailor',802),
+  (7009,'Zachary','captain',1022),
+  (7010,'Max','sailor',829);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7011,'Clyde','captain',825),
+  (7012,'Jimmy','sailor',1123),
+  (7013,'Dustin','admiral',966),
+  (7014,'Violet','admiral',944),
+  (7015,'Nick','sailor',915),
+  (7016,'Clyde','captain',979),
+  (7017,'Elias','captain',1089),
+  (7018,'Bob','captain',1074),
+  (7019,'Fred','captain',971),
+  (7020,'Shawn','sailor',1016);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7021,'Julia','captain',1178),
+  (7022,'Austin','sailor',1183),
+  (7023,'Leon','sailor',846),
+  (7024,'Omar','captain',1124),
+  (7025,'Alice','sailor',1047),
+  (7026,'Manuel','captain',1033),
+  (7027,'Bernard','captain',975),
+  (7028,'Jose','sailor',976),
+  (7029,'Elias','sailor',1093),
+  (7030,'Brendan','captain',1015);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7031,'Xavier','admiral',826),
+  (7032,'Clifford','admiral',1082),
+  (7033,'Nathan','admiral',819),
+  (7034,'Jackson','sailor',929),
+  (7035,'Edmund','admiral',806),
+  (7036,'Maya','admiral',826),
+  (7037,'Frederick','sailor',1194),
+  (7038,'Bryan','admiral',1061),
+  (7039,'Omar','captain',1063),
+  (7040,'Cory','captain',872);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7041,'Frederick','captain',985),
+  (7042,'Ernest','sailor',931),
+  (7043,'Maxwell','captain',923),
+  (7044,'Billy','admiral',969),
+  (7045,'Brad','captain',1047),
+  (7046,'Manuel','admiral',894),
+  (7047,'Frederick','captain',1038),
+  (7048,'Zach','captain',1192),
+  (7049,'Alan','sailor',1117),
+  (7050,'Stanley','sailor',1013);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7051,'Brad','captain',811),
+  (7052,'Benjamin','sailor',937),
+  (7053,'Charlie','captain',966),
+  (7054,'Spencer','sailor',1197),
+  (7055,'Spencer','admiral',948),
+  (7056,'Nelson','captain',1099),
+  (7057,'Alice','captain',819),
+  (7058,'Daniel','admiral',872),
+  (7059,'Philip','sailor',855),
+  (7060,'Aaron','captain',1038);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7061,'Zachary','admiral',1132),
+  (7062,'Manuel','captain',906),
+  (7063,'Brad','sailor',887),
+  (7064,'Christopher','sailor',869),
+  (7065,'Fred','admiral',1117),
+  (7066,'Jeff','sailor',1088),
+  (7067,'Calvin','admiral',1103),
+  (7068,'Brandon','admiral',1074),
+  (7069,'Bob','admiral',914),
+  (7070,'Dan','admiral',845);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7071,'Christopher','sailor',1102),
+  (7072,'Clinton','sailor',989),
+  (7073,'Kevin','captain',848),
+  (7074,'Parker','sailor',915),
+  (7075,'Dustin','sailor',933),
+  (7076,'Arthur','captain',810),
+  (7077,'Barry','admiral',840),
+  (7078,'Garry','sailor',1192),
+  (7079,'Bruce','sailor',1056),
+  (7080,'Dennis','admiral',1099);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7081,'Herman','captain',1059),
+  (7082,'Cory','captain',1095),
+  (7083,'Philip','sailor',1124),
+  (7084,'Eva','captain',843),
+  (7085,'Mila','sailor',1123),
+  (7086,'Parker','sailor',1104),
+  (7087,'Genesis','captain',1159),
+  (7088,'Tyler','admiral',1022),
+  (7089,'Connor','captain',1145),
+  (7090,'Clyde','admiral',942);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7091,'Gabriel','captain',1100),
+  (7092,'Kyle','admiral',893),
+  (7093,'Andrew','admiral',1038),
+  (7094,'Howard','captain',1034),
+  (7095,'Alan','captain',1109),
+  (7096,'Bernard','sailor',807),
+  (7097,'Shawn','admiral',1042),
+  (7098,'Edmund','admiral',833),
+  (7099,'Edmund','sailor',1090),
+  (7100,'Jose','captain',900);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7101,'Daniel','sailor',1132),
+  (7102,'Floyd','sailor',879),
+  (7103,'Garrett','admiral',1121),
+  (7104,'Leslie','sailor',1051),
+  (7105,'Ivan','sailor',1099),
+  (7106,'Clayton','sailor',1045),
+  (7107,'Patrick','admiral',948),
+  (7108,'Philip','captain',852),
+  (7109,'Ken','captain',950),
+  (7110,'Garry','sailor',926);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7111,'Manuel','admiral',854),
+  (7112,'Cory','captain',998),
+  (7113,'Nelson','admiral',1180),
+  (7114,'Leon','sailor',1024),
+  (7115,'Bradley','captain',990),
+  (7116,'Andy','sailor',1014),
+  (7117,'Colin','admiral',931),
+  (7118,'Dale','captain',833),
+  (7119,'Emma','admiral',871),
+  (7120,'Shawn','admiral',1047);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7121,'Cody','admiral',1108),
+  (7122,'Austin','captain',1057),
+  (7123,'Bobby','sailor',909),
+  (7124,'Zachary','captain',1040),
+  (7125,'Connor','captain',1059),
+  (7126,'Naomi','sailor',1116),
+  (7127,'Brian','admiral',1149),
+  (7128,'Garry','sailor',987),
+  (7129,'Alice','captain',1041),
+  (7130,'Marc','sailor',1192);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7131,'Shawn','admiral',1094),
+  (7132,'Olivia','sailor',1140),
+  (7133,'Frederick','captain',1147),
+  (7134,'Clinton','captain',844),
+  (7135,'Greg','captain',931),
+  (7136,'Connor','captain',820),
+  (7137,'Clinton','admiral',868),
+  (7138,'Frank','captain',906),
+  (7139,'Shawn','sailor',1097),
+  (7140,'Nathan','sailor',956);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7141,'Alex','captain',921),
+  (7142,'Genesis','captain',882),
+  (7143,'Christopher','captain',805),
+  (7144,'Caroline','admiral',1053),
+  (7145,'Clark','admiral',1162),
+  (7146,'Spencer','admiral',885),
+  (7147,'Brendan','captain',807),
+  (7148,'Frank','sailor',961),
+  (7149,'Jackson','sailor',881),
+  (7150,'Calvin','captain',1102);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7151,'Xavier','sailor',1090),
+  (7152,'Andrew','admiral',1170),
+  (7153,'Albert','sailor',951),
+  (7154,'Douglas','captain',940),
+  (7155,'Dave','admiral',1071),
+  (7156,'Emma','sailor',905),
+  (7157,'Brad','sailor',985),
+  (7158,'Bryan','sailor',1109),
+  (7159,'Manuel','admiral',940),
+  (7160,'Julia','sailor',1003);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7161,'Bill','captain',1006),
+  (7162,'Dean','sailor',1001),
+  (7163,'Fred','captain',1078),
+  (7164,'Corey','sailor',1098),
+  (7165,'Vernon','captain',932),
+  (7166,'Max','admiral',952),
+  (7167,'Floyd','admiral',837),
+  (7168,'Spencer','admiral',971),
+  (7169,'Colin','admiral',818),
+  (7170,'Bruce','admiral',1133);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7171,'Frank','captain',994),
+  (7172,'Floyd','sailor',830),
+  (7173,'Douglas','sailor',1152),
+  (7174,'Brad','admiral',959),
+  (7175,'Adam','admiral',905),
+  (7176,'Connor','sailor',839),
+  (7177,'Edgar','captain',909),
+  (7178,'Clayton','admiral',1010),
+  (7179,'Manuel','sailor',1035),
+  (7180,'Edwin','sailor',1072);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7181,'Edgar','admiral',832),
+  (7182,'Caleb','captain',1088),
+  (7183,'Bill','sailor',1157),
+  (7184,'Cory','captain',1109),
+  (7185,'Ernest','captain',807),
+  (7186,'Dustin','admiral',1046),
+  (7187,'Darren','admiral',846),
+  (7188,'Omar','admiral',1000),
+  (7189,'Zoe','admiral',1168),
+  (7190,'Craig','admiral',1005);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7191,'Ted','captain',892),
+  (7192,'Parker','sailor',1193),
+  (7193,'Brendan','captain',939),
+  (7194,'Anthony','captain',994),
+  (7195,'Malcolm','sailor',1105),
+  (7196,'Clarence','sailor',1192),
+  (7197,'Barry','admiral',1123),
+  (7198,'Maya','captain',1091),
+  (7199,'Clayton','sailor',959),
+  (7200,'Connor','sailor',1040);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7201,'Dennis','sailor',1138),
+  (7202,'Carl','sailor',1007),
+  (7203,'Julia','admiral',892),
+  (7204,'Penelope','captain',841),
+  (7205,'Donald','captain',1020),
+  (7206,'Aidan','admiral',880),
+  (7207,'Clark','captain',1016),
+  (7208,'Mila','captain',1170),
+  (7209,'Isaac','admiral',857),
+  (7210,'Herbert','sailor',814);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7211,'Dustin','sailor',1008),
+  (7212,'Bernard','captain',1127),
+  (7213,'Adam','admiral',1064),
+  (7214,'Philip','admiral',828),
+  (7215,'Caroline','admiral',1125),
+  (7216,'Donald','sailor',1161),
+  (7217,'Clifford','sailor',1036),
+  (7218,'Leon','sailor',1179),
+  (7219,'Clark','admiral',1187),
+  (7220,'Aaron','admiral',1177);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7221,'Warren','captain',1029),
+  (7222,'Edwin','captain',1148),
+  (7223,'Corey','captain',972),
+  (7224,'Piper','sailor',1064),
+  (7225,'Corey','sailor',1128),
+  (7226,'Genesis','sailor',1139),
+  (7227,'Bradley','sailor',876),
+  (7228,'Bob','captain',907),
+  (7229,'Kevin','captain',824),
+  (7230,'Manuel','sailor',901);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7231,'Asher','captain',882),
+  (7232,'Dale','admiral',1110),
+  (7233,'Dustin','admiral',1142),
+  (7234,'Brad','captain',1129),
+  (7235,'Emma','captain',1109),
+  (7236,'Lily','admiral',991),
+  (7237,'Alan','captain',878),
+  (7238,'Alex','admiral',945),
+  (7239,'Garrett','admiral',849),
+  (7240,'Emma','sailor',1174);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7241,'Chris','sailor',1173),
+  (7242,'Edgar','admiral',1011),
+  (7243,'Stanley','captain',1093),
+  (7244,'Clinton','admiral',982),
+  (7245,'Warren','captain',829),
+  (7246,'Jeff','sailor',984),
+  (7247,'Gabriel','admiral',1025),
+  (7248,'Edgar','sailor',834),
+  (7249,'Alfred','sailor',926),
+  (7250,'Philip','sailor',1018);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7251,'Shawn','sailor',1085),
+  (7252,'Pedro','admiral',1141),
+  (7253,'Felix','admiral',1103),
+  (7254,'Alex','admiral',930),
+  (7255,'Brendan','captain',854),
+  (7256,'Malcolm','admiral',886),
+  (7257,'Alex','sailor',1180),
+  (7258,'Zach','admiral',917),
+  (7259,'Ben','admiral',889),
+  (7260,'Jeff','captain',829);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7261,'Nathaniel','captain',1144),
+  (7262,'Blake','admiral',868),
+  (7263,'Calvin','admiral',856),
+  (7264,'Genesis','admiral',1154),
+  (7265,'Nathan','captain',1012),
+  (7266,'Warren','captain',1170),
+  (7267,'Brian','admiral',921),
+  (7268,'Roy','sailor',1172),
+  (7269,'Dean','captain',921),
+  (7270,'Alexander','sailor',843);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7271,'Herbert','admiral',1093),
+  (7272,'Zachary','sailor',856),
+  (7273,'Ralph','sailor',852),
+  (7274,'Clark','sailor',879),
+  (7275,'Stanley','sailor',821),
+  (7276,'Caroline','admiral',1182),
+  (7277,'Clifford','admiral',1137),
+  (7278,'Ken','captain',915),
+  (7279,'Calvin','admiral',1104),
+  (7280,'Tyler','sailor',987);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7281,'Alan','captain',1112),
+  (7282,'Donald','sailor',1136),
+  (7283,'Clinton','admiral',853),
+  (7284,'Frederick','captain',867),
+  (7285,'Dale','sailor',1025),
+  (7286,'Maya','admiral',922),
+  (7287,'Jackson','captain',1162),
+  (7288,'Daniel','captain',1094),
+  (7289,'Chris','sailor',958),
+  (7290,'Dennis','captain',1014);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7291,'Ernest','sailor',953),
+  (7292,'Nelson','sailor',876),
+  (7293,'Edmund','sailor',840),
+  (7294,'Andy','captain',1019),
+  (7295,'Omar','sailor',946),
+  (7296,'Clarence','captain',1027),
+  (7297,'Adrian','captain',1118),
+  (7298,'Andrew','captain',826),
+  (7299,'Nelson','sailor',972),
+  (7300,'Ted','sailor',811);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7301,'Frank','captain',1054),
+  (7302,'Greg','sailor',1093),
+  (7303,'Bill','sailor',861),
+  (7304,'Caroline','admiral',1016),
+  (7305,'Greg','admiral',1185),
+  (7306,'Christopher','sailor',892),
+  (7307,'Bradley','sailor',884),
+  (7308,'Floyd','captain',943),
+  (7309,'Connor','sailor',1188),
+  (7310,'Dale','sailor',1114);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7311,'Stanley','admiral',1002),
+  (7312,'Aaron','admiral',1059),
+  (7313,'Tyler','captain',1180),
+  (7314,'Brian','captain',803),
+  (7315,'David','admiral',817),
+  (7316,'Trevor','captain',821),
+  (7317,'Spencer','captain',976),
+  (7318,'Dustin','admiral',1109),
+  (7319,'Malcolm','admiral',1079),
+  (7320,'Cameron','admiral',940);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7321,'Alfred','sailor',1094),
+  (7322,'Chris','sailor',808),
+  (7323,'Jackson','captain',973),
+  (7324,'Andy','sailor',1046),
+  (7325,'Garrett','sailor',847),
+  (7326,'Kevin','sailor',918),
+  (7327,'Charlie','captain',841),
+  (7328,'Dean','captain',1034),
+  (7329,'Christian','sailor',1104),
+  (7330,'Floyd','captain',1091);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7331,'Jeff','admiral',1096),
+  (7332,'Herbert','admiral',906),
+  (7333,'Lydia','captain',1011),
+  (7334,'Clark','sailor',1004),
+  (7335,'Christian','captain',1198),
+  (7336,'Dennis','sailor',856),
+  (7337,'Edwin','captain',808),
+  (7338,'Anthony','admiral',1083),
+  (7339,'Gabriel','admiral',1065),
+  (7340,'Levi','sailor',950);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7341,'Manuel','admiral',1186),
+  (7342,'Anthony','captain',1095),
+  (7343,'Clark','captain',1126),
+  (7344,'Cory','admiral',980),
+  (7345,'Edwin','admiral',1197),
+  (7346,'Herman','sailor',906),
+  (7347,'Violet','sailor',1051),
+  (7348,'Gabriel','captain',1046),
+  (7349,'Howard','captain',1143),
+  (7350,'Darren','captain',861);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7351,'Maya','sailor',836),
+  (7352,'Ken','sailor',1130),
+  (7353,'Nick','captain',1042),
+  (7354,'Levi','sailor',1017),
+  (7355,'Manuel','captain',944),
+  (7356,'Bill','captain',922),
+  (7357,'Anthony','admiral',837),
+  (7358,'Howard','captain',1100),
+  (7359,'Blake','sailor',1054),
+  (7360,'Ben','captain',1102);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7361,'Genesis','sailor',1040),
+  (7362,'Parker','sailor',853),
+  (7363,'Mila','admiral',1047),
+  (7364,'William','sailor',1158),
+  (7365,'Brad','sailor',924),
+  (7366,'Herman','admiral',993),
+  (7367,'Clarence','admiral',1110),
+  (7368,'Ted','admiral',1197),
+  (7369,'Anthony','captain',1015),
+  (7370,'Brian','admiral',856);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7371,'Max','sailor',1053),
+  (7372,'Adrian','sailor',988),
+  (7373,'Pedro','captain',961),
+  (7374,'Billy','sailor',1112),
+  (7375,'Howard','admiral',1146),
+  (7376,'Omar','captain',972),
+  (7377,'Cody','admiral',1040),
+  (7378,'Patrick','sailor',832),
+  (7379,'Floyd','captain',879),
+  (7380,'Patrick','admiral',908);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7381,'Alexander','sailor',986),
+  (7382,'Connor','sailor',1111),
+  (7383,'Greg','admiral',1167),
+  (7384,'Brandon','sailor',1000),
+  (7385,'Victor','sailor',1136),
+  (7386,'Clinton','captain',934),
+  (7387,'Daniel','sailor',976),
+  (7388,'Carlos','captain',990),
+  (7389,'Jimmy','admiral',873),
+  (7390,'Clinton','captain',1027);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7391,'Lydia','sailor',1055),
+  (7392,'Warren','admiral',841),
+  (7393,'Olivia','admiral',921),
+  (7394,'Christian','sailor',1036),
+  (7395,'Clifford','captain',988),
+  (7396,'Adam','admiral',1161),
+  (7397,'Bernard','admiral',906),
+  (7398,'Nick','sailor',1146),
+  (7399,'Zoe','sailor',963),
+  (7400,'Mila','admiral',1017);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7401,'Calvin','admiral',970),
+  (7402,'Mila','admiral',1070),
+  (7403,'Jimmy','sailor',882),
+  (7404,'Patrick','admiral',1141),
+  (7405,'Ken','admiral',825),
+  (7406,'Garrett','sailor',1152),
+  (7407,'Felix','captain',937),
+  (7408,'Dustin','admiral',1132),
+  (7409,'Bobby','sailor',933),
+  (7410,'Naomi','admiral',939);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7411,'Curtis','captain',1015),
+  (7412,'Caroline','sailor',1045),
+  (7413,'Alan','admiral',1104),
+  (7414,'Isaac','sailor',1024),
+  (7415,'Nathaniel','admiral',886),
+  (7416,'Isaac','admiral',918),
+  (7417,'Anthony','sailor',805),
+  (7418,'Edwin','sailor',992),
+  (7419,'Lydia','captain',958),
+  (7420,'Caleb','captain',860);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7421,'Lily','captain',1087),
+  (7422,'Oscar','admiral',1120),
+  (7423,'Michael','admiral',1099),
+  (7424,'Edmund','admiral',847),
+  (7425,'Garry','admiral',976),
+  (7426,'Ben','sailor',1060),
+  (7427,'Ernest','admiral',1200),
+  (7428,'Clyde','admiral',1060),
+  (7429,'Edwin','captain',936),
+  (7430,'Felix','sailor',988);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7431,'Herman','captain',917),
+  (7432,'Kevin','admiral',1137),
+  (7433,'Frederick','captain',820),
+  (7434,'Brandon','sailor',900),
+  (7435,'Mila','sailor',896),
+  (7436,'Blake','sailor',1051),
+  (7437,'Oscar','captain',1057),
+  (7438,'Levi','admiral',850),
+  (7439,'Dave','captain',1125),
+  (7440,'Herbert','sailor',864);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7441,'Maya','sailor',1056),
+  (7442,'Maya','admiral',906),
+  (7443,'Ralph','captain',1054),
+  (7444,'Dale','captain',945),
+  (7445,'Christian','captain',883),
+  (7446,'Isaac','captain',942),
+  (7447,'Garry','admiral',1124),
+  (7448,'Bernard','admiral',999),
+  (7449,'Herman','admiral',1048),
+  (7450,'Ken','admiral',1004);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7451,'Jeff','sailor',932),
+  (7452,'Isaac','admiral',811),
+  (7453,'Albert','captain',972),
+  (7454,'Patrick','sailor',873),
+  (7455,'Andy','sailor',1104),
+  (7456,'Albert','admiral',1191),
+  (7457,'Carl','captain',1115),
+  (7458,'Tim','sailor',871),
+  (7459,'Austin','captain',839),
+  (7460,'Penelope','captain',1143);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7461,'Bernard','admiral',918),
+  (7462,'Xavier','admiral',1031),
+  (7463,'Frank','admiral',1070),
+  (7464,'Gabriel','admiral',878),
+  (7465,'Benjamin','captain',1091),
+  (7466,'Brendan','sailor',1063),
+  (7467,'Dennis','admiral',1155),
+  (7468,'Maya','captain',946),
+  (7469,'Leon','captain',1128),
+  (7470,'Piper','captain',893);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7471,'Zoe','sailor',956),
+  (7472,'Alan','captain',941),
+  (7473,'Carl','admiral',1018),
+  (7474,'Dustin','admiral',930),
+  (7475,'Dave','sailor',1167),
+  (7476,'Alex','admiral',976),
+  (7477,'Ken','sailor',1100),
+  (7478,'Piper','captain',1165),
+  (7479,'Christopher','sailor',1026),
+  (7480,'Carter','captain',927);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7481,'Bruce','sailor',1031),
+  (7482,'Bobby','captain',980),
+  (7483,'Alex','sailor',1128),
+  (7484,'Bob','sailor',991),
+  (7485,'Billy','admiral',902),
+  (7486,'Frank','captain',899),
+  (7487,'Bobby','sailor',1066),
+  (7488,'Herman','sailor',834),
+  (7489,'Emma','sailor',950),
+  (7490,'Isaac','sailor',966);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7491,'Marc','admiral',1154),
+  (7492,'Shawn','captain',1173),
+  (7493,'Bernard','captain',957),
+  (7494,'Alice','captain',1038),
+  (7495,'Clinton','captain',1080),
+  (7496,'Jimmy','admiral',903),
+  (7497,'Vernon','sailor',1144),
+  (7498,'Leslie','sailor',1194),
+  (7499,'Anthony','admiral',1111),
+  (7500,'Parker','admiral',995);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7501,'Tyler','captain',954),
+  (7502,'Douglas','sailor',1190),
+  (7503,'Edwin','sailor',1155),
+  (7504,'Darren','sailor',1081),
+  (7505,'Edgar','captain',943),
+  (7506,'Violet','captain',1154),
+  (7507,'Garrett','admiral',884),
+  (7508,'Bobby','admiral',857),
+  (7509,'Clinton','admiral',1160),
+  (7510,'Ivan','captain',1200);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7511,'Albert','admiral',1067),
+  (7512,'Kyle','captain',1177),
+  (7513,'Herman','admiral',1091),
+  (7514,'Austin','admiral',900),
+  (7515,'Aaron','admiral',990),
+  (7516,'Carl','sailor',1145),
+  (7517,'Calvin','sailor',914),
+  (7518,'Howard','captain',1194),
+  (7519,'Albert','captain',831),
+  (7520,'Benjamin','admiral',876);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7521,'Nathan','captain',1145),
+  (7522,'Naomi','captain',896),
+  (7523,'Clayton','admiral',1172),
+  (7524,'Bruce','captain',851),
+  (7525,'Clayton','sailor',1158),
+  (7526,'William','sailor',820),
+  (7527,'Pedro','admiral',1179),
+  (7528,'Naomi','captain',1104),
+  (7529,'Genesis','sailor',965),
+  (7530,'Fred','sailor',1062);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7531,'Levi','sailor',1187),
+  (7532,'Asher','sailor',851),
+  (7533,'Penelope','sailor',907),
+  (7534,'Patrick','admiral',1191),
+  (7535,'Emma','captain',1031),
+  (7536,'Genesis','admiral',1185),
+  (7537,'Tim','sailor',1077),
+  (7538,'Charlie','sailor',1047),
+  (7539,'Stanley','captain',835),
+  (7540,'Leon','captain',1103);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7541,'Colin','sailor',1111),
+  (7542,'Frederick','admiral',956),
+  (7543,'Dale','captain',847),
+  (7544,'Maya','captain',1129),
+  (7545,'Daniel','sailor',1079),
+  (7546,'Gabriel','captain',958),
+  (7547,'Brandon','admiral',818),
+  (7548,'Dean','captain',1083),
+  (7549,'Naomi','admiral',947),
+  (7550,'Ivan','sailor',1024);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7551,'Albert','admiral',887),
+  (7552,'Zoe','sailor',875),
+  (7553,'Dean','sailor',1031),
+  (7554,'Aaron','sailor',1155),
+  (7555,'Spencer','admiral',1060),
+  (7556,'Spencer','admiral',872),
+  (7557,'Elias','captain',1045),
+  (7558,'Mila','captain',1122),
+  (7559,'Daniel','captain',923),
+  (7560,'Clyde','sailor',955);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7561,'Frank','sailor',1125),
+  (7562,'Dan','sailor',898),
+  (7563,'Warren','admiral',1023),
+  (7564,'Isaac','captain',1139),
+  (7565,'Austin','admiral',1135),
+  (7566,'Derek','admiral',1113),
+  (7567,'Chris','admiral',1189),
+  (7568,'Christian','admiral',1022),
+  (7569,'Clyde','sailor',1044),
+  (7570,'Dennis','sailor',1111);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7571,'Adrian','captain',825),
+  (7572,'Brandon','admiral',1151),
+  (7573,'Spencer','admiral',1109),
+  (7574,'William','admiral',936),
+  (7575,'Genesis','sailor',986),
+  (7576,'Maxwell','admiral',865),
+  (7577,'Arthur','sailor',810),
+  (7578,'Jose','sailor',1122),
+  (7579,'Lily','sailor',823),
+  (7580,'Alfred','captain',866);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7581,'Edwin','admiral',937),
+  (7582,'Kyle','captain',848),
+  (7583,'Ken','captain',1174),
+  (7584,'Warren','sailor',978),
+  (7585,'Albert','captain',1164),
+  (7586,'Clark','captain',1032),
+  (7587,'Jackson','sailor',1096),
+  (7588,'Jose','sailor',1022),
+  (7589,'Bob','sailor',1086),
+  (7590,'Kevin','sailor',1113);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7591,'Ken','captain',1158),
+  (7592,'Roy','captain',1134),
+  (7593,'Alexander','captain',1064),
+  (7594,'Ivan','captain',865),
+  (7595,'Andrew','sailor',855),
+  (7596,'Chris','admiral',945),
+  (7597,'Austin','sailor',850),
+  (7598,'Ted','captain',961),
+  (7599,'Genesis','admiral',898),
+  (7600,'Clinton','captain',1037);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7601,'Caroline','sailor',896),
+  (7602,'Alfred','captain',860),
+  (7603,'Clyde','sailor',825),
+  (7604,'Carter','sailor',1133),
+  (7605,'Patrick','captain',1134),
+  (7606,'Jeff','captain',1010),
+  (7607,'Jose','sailor',849),
+  (7608,'Oscar','captain',1163),
+  (7609,'Clarence','admiral',1042),
+  (7610,'Barry','captain',1023);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7611,'Dean','captain',1115),
+  (7612,'Jimmy','admiral',971),
+  (7613,'Mila','sailor',1160),
+  (7614,'Warren','admiral',888),
+  (7615,'Dale','captain',858),
+  (7616,'Nathaniel','captain',936),
+  (7617,'Howard','sailor',1117),
+  (7618,'Mila','sailor',984),
+  (7619,'Craig','admiral',1032),
+  (7620,'Omar','captain',919);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7621,'Maxwell','admiral',875),
+  (7622,'David','admiral',838),
+  (7623,'Jeff','admiral',1107),
+  (7624,'Dale','admiral',1100),
+  (7625,'Shawn','sailor',1055),
+  (7626,'Spencer','sailor',1175),
+  (7627,'Clarence','admiral',913),
+  (7628,'Felix','admiral',1145),
+  (7629,'Piper','admiral',901),
+  (7630,'Nathaniel','sailor',930);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7631,'Frederick','captain',1136),
+  (7632,'Cameron','sailor',1005),
+  (7633,'Curtis','admiral',1139),
+  (7634,'Emma','sailor',802),
+  (7635,'Lydia','sailor',999),
+  (7636,'Dennis','sailor',865),
+  (7637,'Leon','sailor',952),
+  (7638,'Clyde','sailor',1165),
+  (7639,'Clark','captain',945),
+  (7640,'Omar','sailor',963);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7641,'Bradley','admiral',1048),
+  (7642,'Jackson','captain',1063),
+  (7643,'Dean','captain',850),
+  (7644,'Kevin','admiral',1129),
+  (7645,'Alexander','captain',1165),
+  (7646,'Bruce','captain',1015),
+  (7647,'Curtis','captain',1060),
+  (7648,'Naomi','sailor',958),
+  (7649,'Ernest','admiral',1198),
+  (7650,'Frank','admiral',1157);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7651,'Maxwell','admiral',1158),
+  (7652,'Benjamin','sailor',1050),
+  (7653,'Greg','sailor',921),
+  (7654,'Nelson','admiral',816),
+  (7655,'Colin','captain',1004),
+  (7656,'Bill','sailor',872),
+  (7657,'Ted','captain',851),
+  (7658,'Carl','captain',914),
+  (7659,'Mila','sailor',1044),
+  (7660,'Warren','sailor',1159);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7661,'Julia','admiral',1108),
+  (7662,'Oscar','admiral',889),
+  (7663,'Dean','admiral',1035),
+  (7664,'Frederick','captain',1013),
+  (7665,'Dave','sailor',1112),
+  (7666,'Cameron','captain',988),
+  (7667,'Dan','captain',1142),
+  (7668,'Julia','sailor',930),
+  (7669,'Andy','sailor',983),
+  (7670,'Ernest','sailor',865);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7671,'Donald','sailor',994),
+  (7672,'Edwin','sailor',1095),
+  (7673,'Edwin','admiral',807),
+  (7674,'Roy','admiral',1134),
+  (7675,'Jeff','captain',1196),
+  (7676,'Spencer','admiral',1069),
+  (7677,'Cody','sailor',1068),
+  (7678,'Billy','admiral',1001),
+  (7679,'Dustin','captain',906),
+  (7680,'William','admiral',851);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7681,'Parker','sailor',979),
+  (7682,'Cody','captain',1025),
+  (7683,'Blake','sailor',850),
+  (7684,'Bobby','admiral',998),
+  (7685,'Andrew','admiral',1064),
+  (7686,'Malcolm','captain',808),
+  (7687,'Clifford','admiral',1043),
+  (7688,'Bryan','admiral',930),
+  (7689,'Curtis','sailor',965),
+  (7690,'Austin','sailor',1111);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7691,'Caleb','sailor',908),
+  (7692,'Brad','sailor',982),
+  (7693,'Tyler','captain',1069),
+  (7694,'Dale','captain',1032),
+  (7695,'Roy','admiral',1062),
+  (7696,'Nathaniel','captain',1079),
+  (7697,'Luke','sailor',845),
+  (7698,'Ivan','admiral',1079),
+  (7699,'Adam','sailor',1071),
+  (7700,'Stanley','admiral',829);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7701,'Benjamin','sailor',823),
+  (7702,'Jose','sailor',863),
+  (7703,'Blake','sailor',841),
+  (7704,'Maya','admiral',916),
+  (7705,'Blake','captain',925),
+  (7706,'Ted','admiral',837),
+  (7707,'Marc','admiral',973),
+  (7708,'Philip','admiral',901),
+  (7709,'William','admiral',811),
+  (7710,'Caleb','captain',1125);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7711,'Dustin','admiral',909),
+  (7712,'Ben','sailor',851),
+  (7713,'Austin','sailor',1140),
+  (7714,'Floyd','sailor',1072),
+  (7715,'Jose','sailor',1133),
+  (7716,'Frank','sailor',1142),
+  (7717,'Olivia','captain',1178),
+  (7718,'Nathan','admiral',1134),
+  (7719,'Caroline','sailor',827),
+  (7720,'Billy','admiral',996);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7721,'Clayton','sailor',917),
+  (7722,'Alan','captain',1123),
+  (7723,'Leslie','sailor',1196),
+  (7724,'Bobby','captain',915),
+  (7725,'Omar','captain',855),
+  (7726,'Gabriel','sailor',995),
+  (7727,'Carl','captain',927),
+  (7728,'Christian','captain',1101),
+  (7729,'Tyler','admiral',986),
+  (7730,'Bryan','admiral',885);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7731,'Calvin','captain',967),
+  (7732,'Clarence','sailor',1113),
+  (7733,'Floyd','captain',1162),
+  (7734,'Anthony','captain',815),
+  (7735,'Clinton','sailor',889),
+  (7736,'Bernard','sailor',1087),
+  (7737,'Parker','captain',1076),
+  (7738,'Bill','admiral',1053),
+  (7739,'Julia','captain',1041),
+  (7740,'Piper','admiral',1106);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7741,'Elias','admiral',881),
+  (7742,'Clayton','sailor',853),
+  (7743,'Brandon','sailor',1178),
+  (7744,'Brendan','captain',1075),
+  (7745,'Anna','sailor',944),
+  (7746,'Tim','captain',1062),
+  (7747,'Naomi','captain',907),
+  (7748,'Clark','sailor',970),
+  (7749,'Garrett','admiral',1107),
+  (7750,'Clayton','sailor',866);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7751,'Albert','captain',863),
+  (7752,'Zoe','captain',1107),
+  (7753,'Bernard','sailor',1120),
+  (7754,'Carl','sailor',1185),
+  (7755,'Edgar','admiral',976),
+  (7756,'Violet','captain',1061),
+  (7757,'Fred','captain',1121),
+  (7758,'Mila','admiral',1057),
+  (7759,'Marc','sailor',805),
+  (7760,'Albert','sailor',857);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7761,'Ted','sailor',968),
+  (7762,'Lily','sailor',804),
+  (7763,'Emma','admiral',1036),
+  (7764,'Kevin','captain',1034),
+  (7765,'Herman','sailor',1035),
+  (7766,'Ted','admiral',991),
+  (7767,'Genesis','admiral',1032),
+  (7768,'Andrew','captain',1193),
+  (7769,'Donald','captain',1116),
+  (7770,'Clayton','sailor',920);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7771,'Zoe','sailor',803),
+  (7772,'Penelope','sailor',904),
+  (7773,'Calvin','captain',891),
+  (7774,'Cody','sailor',948),
+  (7775,'Julia','captain',958),
+  (7776,'Bobby','captain',951),
+  (7777,'Dustin','sailor',1067),
+  (7778,'Dave','captain',832),
+  (7779,'Chris','sailor',1146),
+  (7780,'Chris','sailor',806);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7781,'Greg','captain',922),
+  (7782,'Dale','admiral',1168),
+  (7783,'Mila','sailor',836),
+  (7784,'Maya','admiral',1052),
+  (7785,'Ralph','captain',893),
+  (7786,'Connor','admiral',859),
+  (7787,'Dan','sailor',873),
+  (7788,'Kevin','admiral',926),
+  (7789,'Lydia','admiral',844),
+  (7790,'Patrick','sailor',1141);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7791,'Cameron','captain',998),
+  (7792,'Kyle','admiral',929),
+  (7793,'Dennis','captain',1193),
+  (7794,'Albert','captain',1045),
+  (7795,'Blake','admiral',1129),
+  (7796,'Christopher','captain',1132),
+  (7797,'Donald','admiral',1095),
+  (7798,'Ted','admiral',961),
+  (7799,'Craig','captain',1163),
+  (7800,'Daniel','captain',1153);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7801,'Fred','admiral',956),
+  (7802,'Chris','admiral',890),
+  (7803,'Garrett','sailor',826),
+  (7804,'Lily','sailor',1083),
+  (7805,'Herman','captain',1173),
+  (7806,'Herman','captain',923),
+  (7807,'Alexander','sailor',846),
+  (7808,'Philip','sailor',854),
+  (7809,'Anna','admiral',947),
+  (7810,'Carl','admiral',992);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7811,'Maxwell','admiral',965),
+  (7812,'Clyde','admiral',830),
+  (7813,'Bradley','captain',873),
+  (7814,'Andy','admiral',927),
+  (7815,'Dustin','sailor',1174),
+  (7816,'Garry','admiral',1070),
+  (7817,'Adam','sailor',1195),
+  (7818,'Ernest','sailor',1122),
+  (7819,'Bryan','sailor',1105),
+  (7820,'Ernest','sailor',880);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7821,'Oscar','admiral',986),
+  (7822,'Dan','sailor',990),
+  (7823,'Dustin','captain',1154),
+  (7824,'Andy','admiral',840),
+  (7825,'Bobby','sailor',922),
+  (7826,'Garrett','captain',1119),
+  (7827,'Kyle','sailor',910),
+  (7828,'Floyd','admiral',971),
+  (7829,'Clinton','admiral',1133),
+  (7830,'Alex','sailor',997);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7831,'Olivia','captain',1167),
+  (7832,'Emma','captain',982),
+  (7833,'Austin','sailor',1187),
+  (7834,'Connor','sailor',1194),
+  (7835,'Piper','sailor',969),
+  (7836,'Clayton','admiral',833),
+  (7837,'Greg','admiral',1175),
+  (7838,'Clarence','admiral',937),
+  (7839,'Carter','sailor',970),
+  (7840,'Anthony','captain',1032);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7841,'Garry','sailor',1067),
+  (7842,'Warren','captain',900),
+  (7843,'Isaac','sailor',864),
+  (7844,'Cameron','admiral',950),
+  (7845,'Alice','sailor',866),
+  (7846,'Alexander','admiral',975),
+  (7847,'Warren','sailor',812),
+  (7848,'Clarence','sailor',1146),
+  (7849,'Patrick','admiral',1168),
+  (7850,'Pedro','admiral',1127);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7851,'Cody','captain',1003),
+  (7852,'Gabriel','captain',858),
+  (7853,'Dennis','captain',1042),
+  (7854,'Alex','captain',1147),
+  (7855,'Edmund','captain',1072),
+  (7856,'Maya','sailor',857),
+  (7857,'Lydia','admiral',1058),
+  (7858,'Alice','admiral',993),
+  (7859,'Bruce','captain',868),
+  (7860,'Vernon','captain',827);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7861,'Edgar','sailor',946),
+  (7862,'Malcolm','captain',893),
+  (7863,'Parker','sailor',1155),
+  (7864,'Piper','admiral',971),
+  (7865,'Andrew','sailor',844),
+  (7866,'Bernard','admiral',1019),
+  (7867,'Herbert','sailor',813),
+  (7868,'Derek','captain',991),
+  (7869,'Andrew','captain',1181),
+  (7870,'Herman','captain',970);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7871,'Caleb','captain',868),
+  (7872,'Bradley','captain',845),
+  (7873,'Connor','admiral',951),
+  (7874,'Ernest','admiral',1195),
+  (7875,'Alex','admiral',927),
+  (7876,'Philip','sailor',938),
+  (7877,'Marc','captain',821),
+  (7878,'Edmund','captain',1181),
+  (7879,'Dean','admiral',834),
+  (7880,'Herbert','captain',1015);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7881,'Marc','admiral',1000),
+  (7882,'Floyd','admiral',817),
+  (7883,'Garrett','sailor',929),
+  (7884,'Patrick','admiral',872),
+  (7885,'Nelson','admiral',1022),
+  (7886,'Malcolm','admiral',907),
+  (7887,'Tim','admiral',936),
+  (7888,'Parker','captain',954),
+  (7889,'Calvin','sailor',975),
+  (7890,'Luke','admiral',885);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7891,'Manuel','admiral',860),
+  (7892,'Charlie','sailor',1187),
+  (7893,'Charlie','admiral',899),
+  (7894,'Herman','admiral',1114),
+  (7895,'Brandon','admiral',1131),
+  (7896,'Ernest','captain',910),
+  (7897,'Cameron','sailor',1188),
+  (7898,'Herman','captain',1189),
+  (7899,'Charlie','captain',1191),
+  (7900,'Anna','sailor',1087);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7901,'Nelson','captain',1109),
+  (7902,'Spencer','captain',981),
+  (7903,'Dean','captain',1195),
+  (7904,'Howard','captain',1174),
+  (7905,'Adrian','admiral',873),
+  (7906,'Donald','captain',1093),
+  (7907,'Zachary','admiral',905),
+  (7908,'Alice','captain',1102),
+  (7909,'Alex','captain',1190),
+  (7910,'Christian','captain',907);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7911,'Jose','admiral',883),
+  (7912,'Clark','sailor',955),
+  (7913,'Kevin','sailor',904),
+  (7914,'Brendan','sailor',895),
+  (7915,'Fred','sailor',868),
+  (7916,'Gabriel','sailor',872),
+  (7917,'Anthony','admiral',935),
+  (7918,'Christian','captain',1086),
+  (7919,'Derek','captain',849),
+  (7920,'Alexander','captain',898);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7921,'Trevor','sailor',1162),
+  (7922,'Roy','sailor',998),
+  (7923,'Zoe','admiral',871),
+  (7924,'Clarence','captain',1027),
+  (7925,'Howard','captain',1109),
+  (7926,'Aaron','sailor',1178),
+  (7927,'Ernest','sailor',888),
+  (7928,'Isaac','sailor',1119),
+  (7929,'Corey','admiral',917),
+  (7930,'Jackson','sailor',896);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7931,'Alfred','sailor',1038),
+  (7932,'Frank','sailor',1181),
+  (7933,'David','admiral',1044),
+  (7934,'Greg','sailor',964),
+  (7935,'Lydia','admiral',1008),
+  (7936,'Barry','sailor',1034),
+  (7937,'Nathan','sailor',898),
+  (7938,'Bob','sailor',1060),
+  (7939,'Brendan','captain',1048),
+  (7940,'Carlos','sailor',1020);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7941,'Ken','admiral',844),
+  (7942,'Ivan','sailor',1195),
+  (7943,'Ted','captain',1095),
+  (7944,'Anthony','admiral',1188),
+  (7945,'Olivia','admiral',968),
+  (7946,'Maya','sailor',1158),
+  (7947,'Colin','captain',1002),
+  (7948,'Alexander','sailor',1072),
+  (7949,'Carlos','admiral',973),
+  (7950,'Elias','admiral',851);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7951,'Alan','admiral',1120),
+  (7952,'Ken','sailor',979),
+  (7953,'Barry','captain',934),
+  (7954,'Kyle','sailor',919),
+  (7955,'Zoe','sailor',964),
+  (7956,'Oscar','captain',856),
+  (7957,'Warren','admiral',802),
+  (7958,'Andy','captain',1045),
+  (7959,'Ivan','admiral',1105),
+  (7960,'Victor','captain',1081);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7961,'Dean','captain',943),
+  (7962,'Aidan','sailor',1033),
+  (7963,'Clyde','sailor',819),
+  (7964,'Adrian','captain',837),
+  (7965,'Alexander','sailor',830),
+  (7966,'Roy','sailor',1091),
+  (7967,'Brad','sailor',873),
+  (7968,'Clayton','captain',1161),
+  (7969,'Nathan','sailor',1029),
+  (7970,'Clifford','captain',1052);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7971,'Colin','captain',1035),
+  (7972,'Clifford','captain',960),
+  (7973,'Colin','sailor',823),
+  (7974,'Dale','admiral',1026),
+  (7975,'Fred','admiral',1009),
+  (7976,'Tyler','sailor',1128),
+  (7977,'Ted','admiral',997),
+  (7978,'Lily','admiral',901),
+  (7979,'Levi','sailor',907),
+  (7980,'Adrian','sailor',843);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7981,'Roy','sailor',1165),
+  (7982,'Ralph','admiral',1156),
+  (7983,'Floyd','captain',837),
+  (7984,'Ben','admiral',1111),
+  (7985,'Anthony','admiral',895),
+  (7986,'Cody','admiral',883),
+  (7987,'Christopher','admiral',1055),
+  (7988,'Clark','captain',1018),
+  (7989,'Craig','captain',1053),
+  (7990,'Zoe','admiral',938);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (7991,'Frank','captain',892),
+  (7992,'Trevor','admiral',1116),
+  (7993,'Clifford','admiral',1142),
+  (7994,'Cody','admiral',1112),
+  (7995,'Bill','admiral',1059),
+  (7996,'Leslie','sailor',1094),
+  (7997,'Zach','admiral',1079),
+  (7998,'Dean','sailor',940),
+  (7999,'Anthony','captain',866),
+  (8000,'Garrett','admiral',880);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8001,'Victor','sailor',970),
+  (8002,'Nathan','sailor',1006),
+  (8003,'Andy','sailor',1043),
+  (8004,'Andy','sailor',816),
+  (8005,'Zoe','sailor',934),
+  (8006,'Clark','admiral',894),
+  (8007,'Alan','captain',1104),
+  (8008,'Herbert','admiral',813),
+  (8009,'Cameron','captain',833),
+  (8010,'Maxwell','sailor',1032);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8011,'Clifford','captain',1151),
+  (8012,'Piper','sailor',941),
+  (8013,'Craig','sailor',1132),
+  (8014,'Vernon','captain',977),
+  (8015,'Austin','sailor',1001),
+  (8016,'Clifford','captain',919),
+  (8017,'Andrew','captain',963),
+  (8018,'Bill','admiral',1189),
+  (8019,'Derek','captain',1004),
+  (8020,'Violet','captain',1181);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8021,'Levi','sailor',1001),
+  (8022,'Kyle','captain',857),
+  (8023,'Ben','sailor',1027),
+  (8024,'Carter','admiral',887),
+  (8025,'Austin','sailor',1096),
+  (8026,'Pedro','sailor',890),
+  (8027,'Connor','admiral',1165),
+  (8028,'Alex','captain',1043),
+  (8029,'Ernest','captain',894),
+  (8030,'Elias','admiral',1082);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8031,'Jose','admiral',1042),
+  (8032,'Colin','sailor',1127),
+  (8033,'Ralph','admiral',1147),
+  (8034,'Clayton','admiral',1156),
+  (8035,'Calvin','admiral',962),
+  (8036,'Ernest','captain',965),
+  (8037,'Brendan','sailor',879),
+  (8038,'Nelson','admiral',941),
+  (8039,'Daniel','captain',1121),
+  (8040,'Kevin','captain',1076);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8041,'Ted','admiral',985),
+  (8042,'Benjamin','sailor',1097),
+  (8043,'Herbert','admiral',1031),
+  (8044,'Carl','sailor',1093),
+  (8045,'Jeff','sailor',889),
+  (8046,'Zachary','sailor',1054),
+  (8047,'Clarence','sailor',955),
+  (8048,'Nathan','admiral',1154),
+  (8049,'William','captain',877),
+  (8050,'Jeff','sailor',918);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8051,'Mila','sailor',1005),
+  (8052,'Manuel','captain',900),
+  (8053,'Tyler','captain',983),
+  (8054,'Penelope','captain',957),
+  (8055,'Andy','captain',824),
+  (8056,'Cory','sailor',899),
+  (8057,'Omar','captain',837),
+  (8058,'Alan','admiral',1152),
+  (8059,'Genesis','admiral',1187),
+  (8060,'Naomi','captain',1042);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8061,'Victor','captain',850),
+  (8062,'Gabriel','admiral',852),
+  (8063,'Nick','captain',1004),
+  (8064,'Derek','sailor',1183),
+  (8065,'Anna','admiral',928),
+  (8066,'Edwin','admiral',1192),
+  (8067,'Elias','sailor',803),
+  (8068,'Bobby','admiral',864),
+  (8069,'Charlie','admiral',1122),
+  (8070,'Nelson','admiral',1180);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8071,'Dale','admiral',840),
+  (8072,'Carlos','captain',993),
+  (8073,'Brad','sailor',1010),
+  (8074,'Clyde','sailor',870),
+  (8075,'Adam','admiral',1057),
+  (8076,'Ken','captain',985),
+  (8077,'Alexander','admiral',1118),
+  (8078,'Kevin','sailor',908),
+  (8079,'Max','sailor',815),
+  (8080,'Penelope','sailor',950);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8081,'Luke','admiral',861),
+  (8082,'Darren','sailor',865),
+  (8083,'Edmund','captain',1023),
+  (8084,'Jimmy','sailor',925),
+  (8085,'Albert','admiral',1172),
+  (8086,'Felix','captain',1005),
+  (8087,'Levi','captain',927),
+  (8088,'Clayton','captain',1179),
+  (8089,'Piper','captain',936),
+  (8090,'Penelope','sailor',815);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8091,'Shawn','admiral',927),
+  (8092,'Shawn','admiral',815),
+  (8093,'Vernon','captain',985),
+  (8094,'Nathaniel','admiral',960),
+  (8095,'Ted','captain',1156),
+  (8096,'Emma','sailor',841),
+  (8097,'Zach','captain',954),
+  (8098,'Bill','sailor',932),
+  (8099,'Max','sailor',1170),
+  (8100,'Lydia','sailor',962);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8101,'Max','captain',1165),
+  (8102,'Corey','sailor',810),
+  (8103,'Nick','captain',1128),
+  (8104,'Gabriel','admiral',816),
+  (8105,'Clayton','admiral',893),
+  (8106,'Felix','sailor',869),
+  (8107,'Daniel','sailor',1169),
+  (8108,'Julia','sailor',917),
+  (8109,'Dean','sailor',810),
+  (8110,'Eva','captain',1187);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8111,'Charlie','admiral',866),
+  (8112,'Alfred','captain',981),
+  (8113,'Colin','admiral',857),
+  (8114,'Maxwell','captain',1087),
+  (8115,'Ralph','sailor',1020),
+  (8116,'Tyler','sailor',1096),
+  (8117,'Bruce','sailor',977),
+  (8118,'Levi','sailor',1120),
+  (8119,'Bruce','captain',1174),
+  (8120,'Darren','sailor',1000);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8121,'Max','admiral',967),
+  (8122,'Levi','sailor',911),
+  (8123,'Mila','captain',1198),
+  (8124,'Cory','captain',1077),
+  (8125,'Adam','captain',1080),
+  (8126,'Felix','admiral',1157),
+  (8127,'Xavier','captain',857),
+  (8128,'Nick','sailor',1008),
+  (8129,'Dennis','captain',1195),
+  (8130,'Nathan','captain',968);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8131,'Benjamin','admiral',870),
+  (8132,'Ben','sailor',1101),
+  (8133,'Michael','sailor',1192),
+  (8134,'Penelope','sailor',902),
+  (8135,'Dale','admiral',807),
+  (8136,'Zachary','sailor',1062),
+  (8137,'Zoe','sailor',1187),
+  (8138,'Carlos','sailor',952),
+  (8139,'Bernard','admiral',1179),
+  (8140,'Bernard','sailor',976);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8141,'Austin','captain',817),
+  (8142,'Felix','admiral',951),
+  (8143,'Clayton','sailor',895),
+  (8144,'Bradley','admiral',995),
+  (8145,'Charlie','captain',1105),
+  (8146,'Donald','sailor',993),
+  (8147,'Jackson','admiral',938),
+  (8148,'Billy','sailor',899),
+  (8149,'Andy','captain',1071),
+  (8150,'Kyle','admiral',1025);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8151,'Corey','captain',1063),
+  (8152,'Jimmy','captain',1038),
+  (8153,'Edwin','sailor',1159),
+  (8154,'Dean','sailor',1034),
+  (8155,'Douglas','sailor',1166),
+  (8156,'Zachary','captain',929),
+  (8157,'Alfred','captain',876),
+  (8158,'Jimmy','sailor',899),
+  (8159,'Howard','sailor',1135),
+  (8160,'Andy','admiral',1034);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8161,'Corey','sailor',1124),
+  (8162,'Aidan','captain',1184),
+  (8163,'Alexander','sailor',1054),
+  (8164,'Aidan','admiral',838),
+  (8165,'Warren','admiral',1195),
+  (8166,'Ted','admiral',1098),
+  (8167,'Zachary','admiral',846),
+  (8168,'Warren','captain',1141),
+  (8169,'Dale','admiral',898),
+  (8170,'Donald','sailor',1057);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8171,'Julia','admiral',1021),
+  (8172,'Ralph','sailor',1050),
+  (8173,'Parker','sailor',1122),
+  (8174,'Patrick','captain',948),
+  (8175,'Marc','sailor',929),
+  (8176,'Douglas','sailor',841),
+  (8177,'Tim','captain',1026),
+  (8178,'Alex','admiral',1196),
+  (8179,'Brandon','sailor',943),
+  (8180,'Anna','captain',1049);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8181,'Garrett','sailor',910),
+  (8182,'Dennis','captain',994),
+  (8183,'Alex','captain',1175),
+  (8184,'Oscar','admiral',961),
+  (8185,'Leon','admiral',1027),
+  (8186,'Warren','admiral',1151),
+  (8187,'Bob','captain',876),
+  (8188,'Maya','captain',936),
+  (8189,'Bryan','sailor',1010),
+  (8190,'Dean','admiral',1103);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8191,'Austin','sailor',1195),
+  (8192,'Alice','captain',1131),
+  (8193,'Genesis','captain',1028),
+  (8194,'Caroline','captain',1172),
+  (8195,'Spencer','sailor',1009),
+  (8196,'Maxwell','captain',918),
+  (8197,'Elias','sailor',1189),
+  (8198,'Craig','captain',1005),
+  (8199,'Levi','admiral',928),
+  (8200,'Bradley','captain',966);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8201,'Leon','admiral',823),
+  (8202,'Brian','admiral',815),
+  (8203,'Aaron','sailor',947),
+  (8204,'Asher','captain',856),
+  (8205,'Andrew','admiral',824),
+  (8206,'Kyle','captain',1034),
+  (8207,'Charlie','captain',1087),
+  (8208,'Violet','admiral',1027),
+  (8209,'Manuel','sailor',1190),
+  (8210,'Floyd','captain',968);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8211,'Ben','captain',1014),
+  (8212,'Trevor','admiral',997),
+  (8213,'Herman','captain',1051),
+  (8214,'Leslie','captain',1082),
+  (8215,'Michael','sailor',1001),
+  (8216,'Violet','sailor',1191),
+  (8217,'Charlie','sailor',1197),
+  (8218,'Mila','sailor',1044),
+  (8219,'Anthony','captain',1102),
+  (8220,'Bobby','captain',834);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8221,'Asher','captain',1008),
+  (8222,'Adrian','admiral',809),
+  (8223,'Cameron','admiral',838),
+  (8224,'Colin','sailor',857),
+  (8225,'Maya','admiral',883),
+  (8226,'Victor','captain',1149),
+  (8227,'Garrett','sailor',1162),
+  (8228,'Zoe','captain',1151),
+  (8229,'Leon','sailor',872),
+  (8230,'Bruce','admiral',1184);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8231,'Nick','sailor',979),
+  (8232,'Ben','sailor',1098),
+  (8233,'Derek','admiral',979),
+  (8234,'Edgar','admiral',1057),
+  (8235,'Arthur','admiral',930),
+  (8236,'Pedro','admiral',839),
+  (8237,'Christian','sailor',1104),
+  (8238,'Christian','sailor',813),
+  (8239,'Zach','captain',1009),
+  (8240,'Manuel','admiral',1092);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8241,'Leon','sailor',922),
+  (8242,'Floyd','sailor',985),
+  (8243,'Andy','admiral',1161),
+  (8244,'Gabriel','captain',1145),
+  (8245,'Parker','captain',1108),
+  (8246,'Chris','sailor',1182),
+  (8247,'Levi','admiral',1046),
+  (8248,'Nathan','captain',869),
+  (8249,'Dean','captain',1075),
+  (8250,'Christopher','captain',804);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8251,'Douglas','sailor',1073),
+  (8252,'Andy','sailor',922),
+  (8253,'Bobby','sailor',1118),
+  (8254,'Charlie','admiral',915),
+  (8255,'Alexander','captain',1164),
+  (8256,'Oscar','admiral',1190),
+  (8257,'Luke','sailor',920),
+  (8258,'Zachary','sailor',1131),
+  (8259,'Cody','admiral',1106),
+  (8260,'Elias','admiral',832);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8261,'Calvin','sailor',1199),
+  (8262,'Daniel','sailor',898),
+  (8263,'William','admiral',1113),
+  (8264,'Philip','captain',853),
+  (8265,'Brian','admiral',855),
+  (8266,'Dale','sailor',971),
+  (8267,'Tyler','sailor',1082),
+  (8268,'Roy','sailor',972),
+  (8269,'Ralph','captain',911),
+  (8270,'David','sailor',1013);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8271,'Shawn','captain',1160),
+  (8272,'Corey','captain',1177),
+  (8273,'Garrett','sailor',822),
+  (8274,'Clinton','sailor',1180),
+  (8275,'Parker','sailor',908),
+  (8276,'Charlie','captain',810),
+  (8277,'Aaron','admiral',1158),
+  (8278,'Ernest','admiral',1033),
+  (8279,'Marc','captain',1059),
+  (8280,'Curtis','sailor',999);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8281,'Dean','admiral',933),
+  (8282,'Floyd','admiral',1058),
+  (8283,'Roy','admiral',882),
+  (8284,'Eva','sailor',832),
+  (8285,'Garry','admiral',970),
+  (8286,'Andy','sailor',849),
+  (8287,'Ivan','sailor',1041),
+  (8288,'Alice','admiral',873),
+  (8289,'Vernon','sailor',1077),
+  (8290,'Gabriel','sailor',1124);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8291,'Garry','admiral',960),
+  (8292,'Xavier','captain',897),
+  (8293,'Chris','admiral',1119),
+  (8294,'Julia','admiral',801),
+  (8295,'Zachary','sailor',1169),
+  (8296,'Warren','admiral',944),
+  (8297,'Herbert','admiral',960),
+  (8298,'Jeff','sailor',801),
+  (8299,'Caleb','admiral',1022),
+  (8300,'Bill','captain',1171);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8301,'Clayton','captain',1036),
+  (8302,'Charlie','admiral',1195),
+  (8303,'Carlos','admiral',1128),
+  (8304,'Spencer','admiral',1130),
+  (8305,'Maxwell','sailor',1058),
+  (8306,'Lydia','sailor',1156),
+  (8307,'Dan','sailor',847),
+  (8308,'Adam','admiral',1055),
+  (8309,'Trevor','sailor',1034),
+  (8310,'Trevor','admiral',837);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8311,'Jimmy','sailor',881),
+  (8312,'Warren','admiral',978),
+  (8313,'Corey','admiral',1093),
+  (8314,'Patrick','captain',1148),
+  (8315,'Vernon','admiral',827),
+  (8316,'Garrett','admiral',928),
+  (8317,'Genesis','captain',1110),
+  (8318,'Omar','captain',863),
+  (8319,'Ernest','sailor',1038),
+  (8320,'Ivan','sailor',995);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8321,'Herbert','admiral',874),
+  (8322,'Zach','admiral',1151),
+  (8323,'Andy','admiral',1070),
+  (8324,'Michael','captain',1148),
+  (8325,'Edmund','captain',1004),
+  (8326,'Douglas','captain',1101),
+  (8327,'Elias','captain',954),
+  (8328,'Maxwell','admiral',1172),
+  (8329,'Eva','admiral',883),
+  (8330,'Manuel','sailor',1010);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8331,'Charlie','captain',1074),
+  (8332,'Maya','captain',887),
+  (8333,'Spencer','admiral',911),
+  (8334,'Jackson','sailor',864),
+  (8335,'Caleb','captain',896),
+  (8336,'Alan','captain',945),
+  (8337,'Nathaniel','admiral',956),
+  (8338,'Maxwell','captain',1200),
+  (8339,'Genesis','admiral',959),
+  (8340,'Brendan','captain',1142);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8341,'Zachary','sailor',1187),
+  (8342,'Vernon','captain',880),
+  (8343,'Christopher','sailor',1181),
+  (8344,'Patrick','captain',1105),
+  (8345,'Adam','sailor',976),
+  (8346,'Leon','sailor',810),
+  (8347,'Philip','captain',820),
+  (8348,'Andrew','sailor',860),
+  (8349,'Charlie','captain',1033),
+  (8350,'Anthony','sailor',997);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8351,'Brad','sailor',964),
+  (8352,'Violet','captain',803),
+  (8353,'Julia','captain',835),
+  (8354,'Max','sailor',855),
+  (8355,'Naomi','captain',999),
+  (8356,'Dean','captain',887),
+  (8357,'Vernon','admiral',1147),
+  (8358,'Nathan','sailor',934),
+  (8359,'Jeff','sailor',1156),
+  (8360,'Albert','captain',1106);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8361,'Jeff','admiral',839),
+  (8362,'Patrick','admiral',1033),
+  (8363,'Ralph','admiral',875),
+  (8364,'Darren','admiral',804),
+  (8365,'Michael','admiral',811),
+  (8366,'Philip','captain',985),
+  (8367,'Albert','admiral',863),
+  (8368,'Edmund','admiral',1196),
+  (8369,'Bradley','captain',930),
+  (8370,'Asher','sailor',1042);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8371,'Julia','admiral',1058),
+  (8372,'Mila','captain',1034),
+  (8373,'Connor','admiral',953),
+  (8374,'Dustin','captain',1079),
+  (8375,'Bob','admiral',1143),
+  (8376,'Dean','admiral',1013),
+  (8377,'Spencer','sailor',982),
+  (8378,'Garry','sailor',1127),
+  (8379,'Albert','captain',1026),
+  (8380,'Spencer','captain',1095);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8381,'Charlie','sailor',1099),
+  (8382,'Violet','sailor',1138),
+  (8383,'Frederick','admiral',987),
+  (8384,'Austin','admiral',1069),
+  (8385,'Brian','admiral',1041),
+  (8386,'Blake','admiral',922),
+  (8387,'Caroline','sailor',1088),
+  (8388,'Max','captain',821),
+  (8389,'Ben','sailor',1037),
+  (8390,'Garry','admiral',858);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8391,'Howard','admiral',1181),
+  (8392,'Barry','admiral',983),
+  (8393,'Caleb','admiral',1127),
+  (8394,'Clark','admiral',1176),
+  (8395,'Ben','captain',1099),
+  (8396,'Felix','captain',1195),
+  (8397,'Derek','admiral',914),
+  (8398,'Darren','captain',1134),
+  (8399,'Darren','admiral',993),
+  (8400,'Tyler','sailor',1041);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8401,'Edgar','captain',1120),
+  (8402,'Calvin','sailor',1076),
+  (8403,'Maya','sailor',1147),
+  (8404,'Philip','admiral',1021),
+  (8405,'Greg','admiral',901),
+  (8406,'Nathan','sailor',926),
+  (8407,'Clinton','sailor',912),
+  (8408,'Billy','admiral',1034),
+  (8409,'Austin','sailor',824),
+  (8410,'Cody','sailor',1104);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8411,'Billy','sailor',1089),
+  (8412,'Benjamin','captain',1084),
+  (8413,'Garrett','sailor',807),
+  (8414,'Herman','sailor',938),
+  (8415,'Anna','admiral',1080),
+  (8416,'Max','captain',825),
+  (8417,'Ted','captain',1179),
+  (8418,'Aidan','captain',1151),
+  (8419,'Darren','captain',980),
+  (8420,'Alexander','sailor',1021);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8421,'Charlie','sailor',1188),
+  (8422,'Eva','admiral',812),
+  (8423,'Dennis','sailor',1003),
+  (8424,'Nathan','captain',885),
+  (8425,'Ernest','captain',1067),
+  (8426,'Jeff','admiral',1033),
+  (8427,'Trevor','sailor',1130),
+  (8428,'Tyler','admiral',941),
+  (8429,'Dale','admiral',1056),
+  (8430,'Jimmy','captain',1070);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8431,'Albert','sailor',920),
+  (8432,'Omar','sailor',1083),
+  (8433,'Benjamin','sailor',1064),
+  (8434,'Brendan','captain',810),
+  (8435,'Omar','captain',1138),
+  (8436,'Alfred','captain',1114),
+  (8437,'Jimmy','captain',1136),
+  (8438,'Kevin','admiral',1153),
+  (8439,'Shawn','sailor',1136),
+  (8440,'Xavier','captain',1125);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8441,'Gabriel','sailor',1137),
+  (8442,'Eva','sailor',1096),
+  (8443,'Asher','sailor',1086),
+  (8444,'Piper','sailor',1142),
+  (8445,'Malcolm','sailor',1058),
+  (8446,'Benjamin','admiral',944),
+  (8447,'Clark','admiral',1050),
+  (8448,'Spencer','sailor',845),
+  (8449,'Corey','sailor',977),
+  (8450,'Floyd','captain',1177);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8451,'Ken','captain',913),
+  (8452,'Andrew','captain',813),
+  (8453,'Ralph','sailor',820),
+  (8454,'Brendan','captain',939),
+  (8455,'Ben','admiral',964),
+  (8456,'Brian','sailor',1139),
+  (8457,'Albert','captain',1091),
+  (8458,'Garry','sailor',1042),
+  (8459,'Nelson','sailor',1103),
+  (8460,'Eva','sailor',1159);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8461,'Felix','captain',945),
+  (8462,'Clayton','admiral',982),
+  (8463,'Michael','admiral',1057),
+  (8464,'Isaac','sailor',967),
+  (8465,'Kevin','sailor',1167),
+  (8466,'Darren','captain',1190),
+  (8467,'Shawn','sailor',1189),
+  (8468,'Charlie','sailor',850),
+  (8469,'David','admiral',805),
+  (8470,'Ralph','admiral',1113);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8471,'Clinton','captain',1078),
+  (8472,'Adrian','admiral',862),
+  (8473,'Jimmy','admiral',1001),
+  (8474,'Arthur','sailor',1106),
+  (8475,'Carl','sailor',1198),
+  (8476,'Charlie','sailor',1185),
+  (8477,'Brandon','sailor',849),
+  (8478,'Cory','captain',1104),
+  (8479,'Frank','sailor',1034),
+  (8480,'Alex','sailor',1163);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8481,'Tyler','sailor',875),
+  (8482,'Alexander','captain',902),
+  (8483,'Levi','admiral',1083),
+  (8484,'Alan','sailor',935),
+  (8485,'Maxwell','admiral',1176),
+  (8486,'Craig','admiral',861),
+  (8487,'Zoe','admiral',1153),
+  (8488,'Nelson','captain',809),
+  (8489,'Christian','sailor',1162),
+  (8490,'Victor','sailor',1176);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8491,'Ken','captain',1169),
+  (8492,'Jeff','admiral',1125),
+  (8493,'Blake','sailor',982),
+  (8494,'Pedro','sailor',1086),
+  (8495,'Michael','sailor',1102),
+  (8496,'Parker','captain',864),
+  (8497,'Levi','captain',1086),
+  (8498,'Brad','captain',816),
+  (8499,'Darren','admiral',1076),
+  (8500,'Jimmy','sailor',903);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8501,'Julia','sailor',867),
+  (8502,'Christopher','captain',955),
+  (8503,'Austin','sailor',1127),
+  (8504,'Derek','admiral',810),
+  (8505,'Clinton','captain',945),
+  (8506,'Ben','admiral',1184),
+  (8507,'Maya','sailor',896),
+  (8508,'Herbert','admiral',913),
+  (8509,'Nelson','sailor',925),
+  (8510,'Stanley','captain',988);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8511,'Ivan','admiral',1009),
+  (8512,'Andy','captain',1106),
+  (8513,'Darren','captain',1061),
+  (8514,'Ralph','captain',840),
+  (8515,'Jimmy','admiral',1173),
+  (8516,'Jeff','sailor',862),
+  (8517,'Ken','sailor',1172),
+  (8518,'Patrick','sailor',1066),
+  (8519,'Austin','captain',1200),
+  (8520,'Nathan','admiral',946);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8521,'Donald','captain',1066),
+  (8522,'Alexander','captain',1194),
+  (8523,'Nick','sailor',1044),
+  (8524,'Greg','admiral',804),
+  (8525,'Dan','sailor',919),
+  (8526,'Bruce','admiral',1153),
+  (8527,'Nelson','sailor',1173),
+  (8528,'Jackson','captain',1058),
+  (8529,'Darren','sailor',977),
+  (8530,'Garrett','admiral',1147);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8531,'Bill','admiral',893),
+  (8532,'Violet','captain',1083),
+  (8533,'Naomi','captain',926),
+  (8534,'Omar','admiral',1072),
+  (8535,'Connor','admiral',937),
+  (8536,'Bryan','admiral',1158),
+  (8537,'Nick','admiral',936),
+  (8538,'Isaac','captain',1078),
+  (8539,'Connor','sailor',891),
+  (8540,'Philip','captain',1091);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8541,'Michael','captain',912),
+  (8542,'Alan','sailor',1103),
+  (8543,'Calvin','admiral',1104),
+  (8544,'Clarence','admiral',1164),
+  (8545,'Craig','admiral',827),
+  (8546,'Dan','sailor',1128),
+  (8547,'Edwin','sailor',1032),
+  (8548,'Tyler','sailor',1023),
+  (8549,'Ralph','captain',820),
+  (8550,'Brad','captain',822);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8551,'Alexander','sailor',986),
+  (8552,'Adam','sailor',809),
+  (8553,'Patrick','admiral',1040),
+  (8554,'Asher','captain',882),
+  (8555,'Victor','captain',811),
+  (8556,'Ted','admiral',1001),
+  (8557,'Dan','sailor',860),
+  (8558,'Howard','sailor',997),
+  (8559,'Curtis','sailor',827),
+  (8560,'Adrian','sailor',1163);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8561,'Howard','sailor',884),
+  (8562,'Bruce','captain',876),
+  (8563,'Aidan','captain',887),
+  (8564,'Kevin','captain',1104),
+  (8565,'Barry','captain',1086),
+  (8566,'Ben','admiral',1160),
+  (8567,'Connor','captain',996),
+  (8568,'Jackson','captain',844),
+  (8569,'Clyde','admiral',1013),
+  (8570,'Clinton','admiral',852);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8571,'Garry','captain',873),
+  (8572,'Tim','sailor',998),
+  (8573,'Felix','captain',899),
+  (8574,'Tyler','admiral',1169),
+  (8575,'Maya','admiral',1198),
+  (8576,'Edgar','sailor',1021),
+  (8577,'Ben','sailor',821),
+  (8578,'Levi','admiral',1066),
+  (8579,'Vernon','sailor',1161),
+  (8580,'Douglas','admiral',945);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8581,'Dave','sailor',807),
+  (8582,'Jackson','captain',1017),
+  (8583,'Jimmy','captain',1150),
+  (8584,'Zachary','sailor',866),
+  (8585,'Donald','sailor',1036),
+  (8586,'Arthur','admiral',916),
+  (8587,'Zach','sailor',964),
+  (8588,'Tyler','captain',1059),
+  (8589,'Oscar','admiral',827),
+  (8590,'Vernon','captain',1188);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8591,'Colin','captain',1156),
+  (8592,'Darren','captain',1166),
+  (8593,'William','captain',861),
+  (8594,'Alan','sailor',1079),
+  (8595,'Elias','sailor',1120),
+  (8596,'Caroline','captain',839),
+  (8597,'Darren','captain',887),
+  (8598,'Jose','captain',992),
+  (8599,'Barry','sailor',848),
+  (8600,'Benjamin','sailor',882);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8601,'Floyd','captain',1085),
+  (8602,'Colin','captain',1047),
+  (8603,'Herman','captain',947),
+  (8604,'Mila','admiral',1112),
+  (8605,'Parker','sailor',1025),
+  (8606,'Carl','captain',928),
+  (8607,'Asher','captain',984),
+  (8608,'Alexander','sailor',1077),
+  (8609,'Aidan','sailor',1153),
+  (8610,'Herbert','sailor',964);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8611,'Adrian','sailor',1182),
+  (8612,'Bryan','admiral',931),
+  (8613,'Frederick','captain',956),
+  (8614,'Alice','admiral',1087),
+  (8615,'Herbert','captain',938),
+  (8616,'Garrett','admiral',803),
+  (8617,'Warren','sailor',943),
+  (8618,'Lily','captain',877),
+  (8619,'Clark','captain',979),
+  (8620,'Oscar','captain',861);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8621,'Emma','captain',1101),
+  (8622,'Nick','sailor',1121),
+  (8623,'Alex','sailor',863),
+  (8624,'Zoe','captain',1007),
+  (8625,'Philip','admiral',996),
+  (8626,'Patrick','admiral',1070),
+  (8627,'Lydia','captain',967),
+  (8628,'Ken','sailor',1147),
+  (8629,'Christian','sailor',1171),
+  (8630,'Jeff','admiral',948);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8631,'Garry','admiral',835),
+  (8632,'Zachary','captain',989),
+  (8633,'Herbert','sailor',1171),
+  (8634,'Alice','admiral',945),
+  (8635,'Dan','captain',1086),
+  (8636,'Adrian','sailor',881),
+  (8637,'Ralph','captain',1093),
+  (8638,'Cameron','sailor',1175),
+  (8639,'Edmund','admiral',1158),
+  (8640,'Garry','admiral',1038);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8641,'Charlie','admiral',1103),
+  (8642,'Andy','sailor',917),
+  (8643,'Christopher','sailor',1043),
+  (8644,'Blake','admiral',1178),
+  (8645,'Warren','captain',1155),
+  (8646,'Anthony','captain',893),
+  (8647,'Carter','captain',1110),
+  (8648,'Corey','captain',1140),
+  (8649,'Genesis','sailor',1098),
+  (8650,'Chris','admiral',1156);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8651,'Zachary','captain',1085),
+  (8652,'Gabriel','admiral',841),
+  (8653,'Garry','admiral',1060),
+  (8654,'Piper','admiral',901),
+  (8655,'Ivan','admiral',841),
+  (8656,'Brandon','sailor',821),
+  (8657,'Corey','sailor',907),
+  (8658,'Ben','captain',1153),
+  (8659,'Omar','captain',835),
+  (8660,'Bryan','sailor',1124);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8661,'Gabriel','sailor',1056),
+  (8662,'Victor','sailor',1054),
+  (8663,'Spencer','captain',1166),
+  (8664,'Violet','captain',1129),
+  (8665,'David','captain',1011),
+  (8666,'Julia','captain',1181),
+  (8667,'Xavier','captain',833),
+  (8668,'Oscar','admiral',989),
+  (8669,'Anthony','captain',1000),
+  (8670,'Garry','sailor',804);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8671,'Violet','admiral',864),
+  (8672,'Christian','admiral',1120),
+  (8673,'Olivia','admiral',854),
+  (8674,'Oscar','sailor',1163),
+  (8675,'Clark','admiral',1027),
+  (8676,'Vernon','captain',922),
+  (8677,'Tim','captain',911),
+  (8678,'Ivan','captain',837),
+  (8679,'Dean','captain',997),
+  (8680,'Nick','admiral',832);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8681,'Alice','captain',884),
+  (8682,'Darren','sailor',1005),
+  (8683,'Warren','sailor',1142),
+  (8684,'Warren','captain',990),
+  (8685,'Brandon','admiral',920),
+  (8686,'Vernon','admiral',1161),
+  (8687,'Dale','sailor',1146),
+  (8688,'Dustin','sailor',838),
+  (8689,'Alfred','sailor',890),
+  (8690,'Garrett','sailor',938);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8691,'Manuel','admiral',1035),
+  (8692,'Leslie','captain',986),
+  (8693,'Penelope','admiral',1048),
+  (8694,'Clyde','captain',1009),
+  (8695,'Christopher','admiral',1088),
+  (8696,'Nathan','sailor',925),
+  (8697,'Bryan','sailor',1109),
+  (8698,'Andrew','admiral',1155),
+  (8699,'Cory','admiral',840),
+  (8700,'Brad','sailor',999);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8701,'Calvin','captain',1198),
+  (8702,'Elias','captain',1068),
+  (8703,'Penelope','admiral',1006),
+  (8704,'Bill','captain',845),
+  (8705,'Bradley','sailor',1002),
+  (8706,'Billy','captain',810),
+  (8707,'Dean','admiral',956),
+  (8708,'Ben','sailor',852),
+  (8709,'Marc','admiral',967),
+  (8710,'Kevin','captain',910);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8711,'Spencer','sailor',857),
+  (8712,'Kevin','sailor',1176),
+  (8713,'Edgar','captain',1132),
+  (8714,'Daniel','admiral',809),
+  (8715,'Clinton','admiral',970),
+  (8716,'Max','sailor',830),
+  (8717,'Alexander','sailor',912),
+  (8718,'Piper','captain',984),
+  (8719,'Brendan','sailor',1196),
+  (8720,'Darren','admiral',1170);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8721,'Bill','admiral',923),
+  (8722,'Aidan','admiral',1061),
+  (8723,'Ernest','captain',802),
+  (8724,'Aaron','captain',1115),
+  (8725,'Howard','captain',936),
+  (8726,'Douglas','sailor',937),
+  (8727,'Kyle','sailor',1134),
+  (8728,'Carter','admiral',1188),
+  (8729,'Manuel','sailor',1089),
+  (8730,'Colin','sailor',831);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8731,'Garrett','admiral',953),
+  (8732,'Garrett','admiral',903),
+  (8733,'Brandon','sailor',1065),
+  (8734,'Clayton','sailor',1165),
+  (8735,'Edwin','admiral',928),
+  (8736,'Jeff','sailor',862),
+  (8737,'Vernon','sailor',1138),
+  (8738,'Blake','captain',1189),
+  (8739,'Aidan','admiral',856),
+  (8740,'Bob','admiral',858);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8741,'Eva','captain',1139),
+  (8742,'Alexander','sailor',947),
+  (8743,'Christopher','admiral',859),
+  (8744,'Clifford','admiral',1197),
+  (8745,'Corey','admiral',821),
+  (8746,'Craig','sailor',872),
+  (8747,'Violet','admiral',931),
+  (8748,'Luke','admiral',971),
+  (8749,'Piper','captain',1032),
+  (8750,'Olivia','sailor',1115);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8751,'Patrick','sailor',807),
+  (8752,'Zach','captain',877),
+  (8753,'Austin','captain',818),
+  (8754,'Parker','admiral',1104),
+  (8755,'Clyde','sailor',1089),
+  (8756,'Carter','sailor',957),
+  (8757,'Levi','admiral',1012),
+  (8758,'Edgar','admiral',1047),
+  (8759,'Ted','sailor',1181),
+  (8760,'William','sailor',866);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8761,'Cody','captain',1178),
+  (8762,'Emma','admiral',1189),
+  (8763,'Blake','sailor',1200),
+  (8764,'Malcolm','captain',914),
+  (8765,'Nick','sailor',832),
+  (8766,'Lily','admiral',837),
+  (8767,'Chris','sailor',990),
+  (8768,'Tyler','sailor',918),
+  (8769,'Julia','admiral',831),
+  (8770,'Christian','captain',1142);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8771,'Aidan','admiral',920),
+  (8772,'Leslie','sailor',925),
+  (8773,'Philip','admiral',922),
+  (8774,'Bernard','admiral',1164),
+  (8775,'Alex','admiral',850),
+  (8776,'Daniel','admiral',1183),
+  (8777,'Eva','sailor',824),
+  (8778,'Jeff','sailor',1175),
+  (8779,'Asher','sailor',967),
+  (8780,'Gabriel','sailor',1033);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8781,'Ernest','captain',973),
+  (8782,'Marc','admiral',1028),
+  (8783,'Maxwell','admiral',925),
+  (8784,'Dustin','admiral',817),
+  (8785,'Carlos','admiral',838),
+  (8786,'Jackson','captain',876),
+  (8787,'Billy','admiral',931),
+  (8788,'Aidan','captain',1182),
+  (8789,'Vernon','admiral',949),
+  (8790,'Herman','captain',931);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8791,'Edgar','sailor',867),
+  (8792,'Naomi','admiral',826),
+  (8793,'Carl','captain',886),
+  (8794,'Violet','sailor',1074),
+  (8795,'Alfred','sailor',931),
+  (8796,'Dale','sailor',1192),
+  (8797,'Patrick','captain',1025),
+  (8798,'Brandon','captain',842),
+  (8799,'Felix','admiral',954),
+  (8800,'Dustin','admiral',945);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8801,'Dale','captain',978),
+  (8802,'Ted','sailor',908),
+  (8803,'Violet','admiral',872),
+  (8804,'Ted','admiral',913),
+  (8805,'Alex','sailor',958),
+  (8806,'Clark','admiral',963),
+  (8807,'Clyde','captain',1099),
+  (8808,'Alice','captain',927),
+  (8809,'Colin','admiral',1129),
+  (8810,'Chris','captain',1107);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8811,'Ivan','captain',1146),
+  (8812,'Derek','admiral',1180),
+  (8813,'Pedro','admiral',876),
+  (8814,'Manuel','sailor',1005),
+  (8815,'Violet','captain',1094),
+  (8816,'Maxwell','captain',1099),
+  (8817,'Nelson','captain',801),
+  (8818,'Benjamin','sailor',1200),
+  (8819,'Max','admiral',1107),
+  (8820,'Ralph','sailor',1195);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8821,'Bob','sailor',934),
+  (8822,'Herbert','captain',813),
+  (8823,'Curtis','admiral',876),
+  (8824,'Clyde','admiral',969),
+  (8825,'Parker','captain',1123),
+  (8826,'Pedro','admiral',1026),
+  (8827,'Ivan','captain',839),
+  (8828,'Olivia','captain',868),
+  (8829,'Bradley','sailor',1155),
+  (8830,'Dennis','sailor',897);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8831,'Bradley','captain',1043),
+  (8832,'Alexander','admiral',898),
+  (8833,'Naomi','captain',1086),
+  (8834,'Zoe','admiral',801),
+  (8835,'Billy','captain',1165),
+  (8836,'Bradley','sailor',1196),
+  (8837,'Asher','admiral',1165),
+  (8838,'Bernard','admiral',811),
+  (8839,'Olivia','sailor',1198),
+  (8840,'Edmund','captain',1082);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8841,'Craig','captain',1124),
+  (8842,'Edmund','admiral',1081),
+  (8843,'Dennis','captain',1023),
+  (8844,'Barry','captain',964),
+  (8845,'Arthur','sailor',1016),
+  (8846,'Maya','admiral',967),
+  (8847,'Andy','sailor',1051),
+  (8848,'William','captain',1128),
+  (8849,'Blake','captain',946),
+  (8850,'Clayton','sailor',1037);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8851,'Ken','admiral',857),
+  (8852,'Clayton','captain',816),
+  (8853,'Ivan','sailor',1119),
+  (8854,'Christian','captain',802),
+  (8855,'Leslie','captain',1130),
+  (8856,'Carter','sailor',887),
+  (8857,'Alfred','sailor',1040),
+  (8858,'Nick','admiral',1191),
+  (8859,'Andrew','sailor',1095),
+  (8860,'Malcolm','sailor',1150);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8861,'Clayton','captain',1172),
+  (8862,'Anna','sailor',1039),
+  (8863,'Piper','admiral',1109),
+  (8864,'Dustin','sailor',1165),
+  (8865,'Zoe','captain',977),
+  (8866,'Carter','admiral',885),
+  (8867,'Calvin','captain',1050),
+  (8868,'Lily','admiral',968),
+  (8869,'Barry','sailor',883),
+  (8870,'Colin','admiral',1169);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8871,'Kevin','admiral',1157),
+  (8872,'Max','captain',1091),
+  (8873,'Dennis','sailor',1020),
+  (8874,'Arthur','sailor',1086),
+  (8875,'Lily','sailor',949),
+  (8876,'Maya','sailor',919),
+  (8877,'Cody','captain',812),
+  (8878,'Edwin','admiral',1060),
+  (8879,'Brandon','admiral',1054),
+  (8880,'Felix','sailor',1170);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8881,'Fred','sailor',989),
+  (8882,'Craig','admiral',1157),
+  (8883,'Roy','admiral',994),
+  (8884,'Alice','admiral',889),
+  (8885,'Patrick','sailor',1043),
+  (8886,'Ted','sailor',810),
+  (8887,'Levi','admiral',859),
+  (8888,'Dan','sailor',839),
+  (8889,'Julia','captain',976),
+  (8890,'Cody','sailor',1134);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8891,'Derek','sailor',936),
+  (8892,'Edwin','captain',1001),
+  (8893,'Brad','captain',1056),
+  (8894,'Patrick','sailor',852),
+  (8895,'Brendan','captain',814),
+  (8896,'Derek','sailor',883),
+  (8897,'Herbert','sailor',1001),
+  (8898,'Edgar','admiral',1095),
+  (8899,'Daniel','sailor',1140),
+  (8900,'Bob','captain',872);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8901,'Ivan','captain',920),
+  (8902,'Douglas','sailor',1121),
+  (8903,'Brandon','admiral',1088),
+  (8904,'Connor','sailor',1033),
+  (8905,'Clinton','admiral',1069),
+  (8906,'Edgar','admiral',871),
+  (8907,'Curtis','captain',851),
+  (8908,'Brandon','captain',818),
+  (8909,'Warren','sailor',969),
+  (8910,'Carter','captain',1149);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8911,'Dale','captain',1169),
+  (8912,'Olivia','captain',1197),
+  (8913,'Edgar','captain',980),
+  (8914,'Mila','sailor',968),
+  (8915,'Lily','sailor',1116),
+  (8916,'Leslie','captain',1073),
+  (8917,'Bradley','captain',857),
+  (8918,'Clayton','captain',895),
+  (8919,'Isaac','sailor',972),
+  (8920,'Manuel','admiral',1045);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8921,'Warren','admiral',835),
+  (8922,'Garrett','admiral',1053),
+  (8923,'Tyler','admiral',809),
+  (8924,'Parker','admiral',849),
+  (8925,'Dennis','captain',888),
+  (8926,'Herman','sailor',1119),
+  (8927,'Levi','admiral',1083),
+  (8928,'Bob','admiral',1175),
+  (8929,'Elias','sailor',921),
+  (8930,'Violet','admiral',849);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8931,'Anna','captain',984),
+  (8932,'Penelope','sailor',920),
+  (8933,'Zach','captain',1022),
+  (8934,'Calvin','admiral',829),
+  (8935,'Stanley','admiral',937),
+  (8936,'Edwin','captain',1114),
+  (8937,'Caleb','admiral',807),
+  (8938,'Clarence','captain',977),
+  (8939,'Herman','sailor',1087),
+  (8940,'Max','sailor',1023);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8941,'Carlos','captain',869),
+  (8942,'Andy','captain',907),
+  (8943,'Olivia','sailor',853),
+  (8944,'Naomi','sailor',1083),
+  (8945,'Genesis','captain',852),
+  (8946,'Zach','sailor',1094),
+  (8947,'Floyd','admiral',1116),
+  (8948,'Gabriel','admiral',1186),
+  (8949,'Ted','admiral',917),
+  (8950,'Philip','captain',999);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8951,'Parker','admiral',980),
+  (8952,'Michael','sailor',881),
+  (8953,'Chris','admiral',1146),
+  (8954,'Clifford','captain',1064),
+  (8955,'Warren','captain',1083),
+  (8956,'Brendan','admiral',1024),
+  (8957,'Jose','captain',889),
+  (8958,'Zach','sailor',1071),
+  (8959,'Victor','admiral',1012),
+  (8960,'Dale','captain',1112);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8961,'Curtis','admiral',935),
+  (8962,'Spencer','sailor',1014),
+  (8963,'Bryan','admiral',1013),
+  (8964,'Ernest','admiral',994),
+  (8965,'Tyler','admiral',978),
+  (8966,'David','sailor',861),
+  (8967,'Vernon','admiral',1028),
+  (8968,'Malcolm','admiral',1017),
+  (8969,'Blake','captain',967),
+  (8970,'Maya','sailor',1086);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8971,'Aaron','captain',950),
+  (8972,'Ernest','captain',1195),
+  (8973,'Cory','admiral',1166),
+  (8974,'Penelope','admiral',1196),
+  (8975,'Alfred','sailor',953),
+  (8976,'Levi','captain',801),
+  (8977,'Victor','admiral',964),
+  (8978,'Adam','sailor',1025),
+  (8979,'Kyle','admiral',1015),
+  (8980,'Adam','captain',858);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8981,'Leon','captain',1153),
+  (8982,'Oscar','captain',943),
+  (8983,'Dean','captain',1065),
+  (8984,'Andy','admiral',929),
+  (8985,'Bob','sailor',869),
+  (8986,'Corey','sailor',1185),
+  (8987,'Asher','captain',956),
+  (8988,'Alex','admiral',1096),
+  (8989,'Tim','captain',1118),
+  (8990,'Vernon','sailor',941);
+INSERT INTO Soldier (s_ID,name,rank,c_ID)
+VALUES
+  (8991,'Philip','captain',866),
+  (8992,'Leon','sailor',872),
+  (8993,'Colin','sailor',809),
+  (8994,'Pedro','captain',804),
+  (8995,'Aidan','sailor',989),
+  (8996,'Roy','admiral',966),
+  (8997,'Dale','sailor',1193),
+  (8998,'Arthur','admiral',868),
+  (8999,'Michael','captain',933),
+  (9000,'Bradley','sailor',819);
