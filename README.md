@@ -124,3 +124,7 @@
 - לאחר מכן נבצע Rstore על מנת לראות שהגיבוי עובד:
 
 ![image](https://github.com/user-attachments/assets/926e4af5-654e-420c-b4b8-86a150049768)
+
+
+
+## שלב 2: שאילתות
