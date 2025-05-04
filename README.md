@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-04 at 14 21 23_1df10989](https://github.com/user-attachments/assets/a71aea99-9341-4602-9f71-411bbc7af04d)# מסד נתונים לניהול חיל הים🚢
+ מסד נתונים לניהול חיל הים🚢
 
 אלון ואן גלדר 216258483 ובעז זינגר 215444647
 
