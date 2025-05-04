@@ -172,7 +172,24 @@
 ![WhatsApp Image 2025-05-04 at 07 36 01_7bb90fc1](https://github.com/user-attachments/assets/e45c885c-7ace-4721-9da9-52437746a4dd)
 
 
-- **שאילתות delete** 
+- **שאילתות delete**
+
+שאילתה מס 1:  מחיקת צוללות שצפיפות החמצן שלהם נמוכה מהממוצע של כמות המשגרים בכלי השיט בתוספת 10
+
+![WhatsApp Image 2025-05-04 at 13 46 59_ef9dbbd5](https://github.com/user-attachments/assets/fdd249d3-8e56-4d3f-a7d5-82581488b918)
+
+שאילתה מס 2: מוחק כל כלי שיט שתאריך הבדיקה והתאריך שבו מסתיים החוזה הם באותו חודש ושנה והתאריך שבו מסתיים החוזה מאוחר יותר מתאריך הבדיקה
 
 
+![WhatsApp Image 2025-05-04 at 14 00 48_fa86a4f2](https://github.com/user-attachments/assets/33d2ea1f-8d1e-4393-bec0-875d6192e9a2)
+
+
+שאילתה מס 3:  מחיקת חיילים שמשרתים בצוותים שלא משויכים לאף כלי שיט, ושדרגתם היא סיילור ושלא משתמשים כמפקדים
+
+
+![WhatsApp Image 2025-05-04 at 14 03 33_15eaad73](https://github.com/user-attachments/assets/3f729a84-0adc-4d99-8c53-d2cda1e7b2e9)
+
+
+- **שאילתות update**
+  
 
