@@ -211,3 +211,22 @@
 
 ![WhatsApp Image 2025-05-04 at 14 21 23_1df10989](https://github.com/user-attachments/assets/e4a27b05-b697-4250-9844-1f4b73ad7b84)
 
+
+###  אילוצים:
+אילוץ מס 1: הערך בעמודה max_depth חייב להיות חיובי (גדול מ-0).
+
+![WhatsApp Image 2025-05-04 at 14 28 54_4da9d0f2](https://github.com/user-attachments/assets/1a478504-02b6-4a41-9099-39691a3b2420)
+
+
+אילוץ מס 2:   עמודת lease_expiration_date הפכה לחובה – אי אפשר להשאיר אותה ריקה.
+
+![WhatsApp Image 2025-05-04 at 14 32 12_0bc2913b](https://github.com/user-attachments/assets/631535ab-3fc7-4f63-a8ba-ad9b5c7e6c60)
+
+
+אילוץ מס 3:  אם לא מצוין ערך בעמודת rank, תינתן לו ברירת המחדל "sailor".
+
+![WhatsApp Image 2025-05-04 at 14 34 30_589c806a](https://github.com/user-attachments/assets/a8e843f2-25ba-42b6-aa91-835f3b6df82e)
+
+
+###  RollbackCommit:
+
