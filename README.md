@@ -230,3 +230,29 @@
 
 ###  RollbackCommit:
 
+- **rollback**
+שלב ראשון - begin
+
+![WhatsApp Image 2025-05-04 at 14 47 06_39e721b6](https://github.com/user-attachments/assets/48a53b6a-e02f-4fc9-aa53-0cea0d4abacb)
+
+שלב שני - עדכון הטבלה
+
+![WhatsApp Image 2025-05-04 at 14 47 21_470d7a6c](https://github.com/user-attachments/assets/b298c88d-8fb6-4741-9661-b9e58593308c)
+
+שלב שלישי - הדפסת הטבלה המעודכנת
+
+![WhatsApp Image 2025-05-04 at 14 47 38_fae57fc1](https://github.com/user-attachments/assets/a23f85eb-5e97-464c-8c77-ba97293e3b83)
+
+שלב רביעי - rollback
+
+![WhatsApp Image 2025-05-04 at 14 47 50_417bdf2c](https://github.com/user-attachments/assets/ca340a18-b970-4504-8fda-9f99d2340bde)
+
+
+שלב חמישי - הדפסת הטבלה המקורית
+
+![WhatsApp Image 2025-05-04 at 14 48 28_62e523ee](https://github.com/user-attachments/assets/82ff720f-b5d1-4f39-bb00-b223763661d6)
+
+
+- **commit**
+
+
