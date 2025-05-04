@@ -1,4 +1,4 @@
-# מסד נתונים לניהול חיל הים🚢
+![WhatsApp Image 2025-05-04 at 14 21 23_1df10989](https://github.com/user-attachments/assets/a71aea99-9341-4602-9f71-411bbc7af04d)# מסד נתונים לניהול חיל הים🚢
 
 אלון ואן גלדר 216258483 ובעז זינגר 215444647
 
@@ -13,6 +13,9 @@
   - [גיבוי](#גיבוי)  
 - [שלב 2: שאילתות](#שלב-2-שאילתות)
   - [שאילתות selcect](#בחירה_מטבלאות)
+  - [שאילתות delete](#בחירה_מטבלאות)
+  - [שאילתות update](#בחירה_מטבלאות)
+
 
 
 
@@ -192,7 +195,7 @@
 
 
 - **שאילתות update**
-- 
+
 שאילתה מס 1:  מעדכן את גודל כל צוות לפי מספר החיילים בו ועוד עשירית מסך הקיבולת של כלי השיט המשויכים לו.
 
 ![WhatsApp Image 2025-05-04 at 14 12 25_33804c6e](https://github.com/user-attachments/assets/1547117c-5ea5-48dd-b208-ed02918fe08b)
