@@ -15,8 +15,7 @@
   - [שאילתות](#שאילתות)
   - [אילוצים](#אילוצים)  
   - [גיבוי](#גיבוי-2)
-  - [הכנסת מידע לטבלאות](#הכנסת-מידע-לטבלאות)
-  - [גיבוי](#גיבוי)
+
 
 
 
@@ -182,11 +181,27 @@
 
 ![WhatsApp Image 2025-05-04 at 13 46 59_ef9dbbd5](https://github.com/user-attachments/assets/fdd249d3-8e56-4d3f-a7d5-82581488b918)
 
+לפני:
+
+![image](https://github.com/user-attachments/assets/fc5acc83-b6aa-4dbe-94ff-eb2bd93f5b7e)
+
+אחרי:
+
+![image](https://github.com/user-attachments/assets/11b5af72-51ed-4124-8008-f9ee3ff6f5f9)
+
+
 שאילתה מס 2: השאילתה מוחקת חיילים בדרגת סיילור שלא משמשים כמפקדים וששייכים לצוותים שלהם כלי שיט שנבדק לפני 2015.
 
 
-
 ![WhatsApp Image 2025-05-04 at 14 00 48_fa86a4f2](https://github.com/user-attachments/assets/33d2ea1f-8d1e-4393-bec0-875d6192e9a2)
+
+לפני:
+
+![image](https://github.com/user-attachments/assets/ac23b410-ef7f-4d6c-99ec-f004a89e3ebc)
+
+אחרי:
+
+![image](https://github.com/user-attachments/assets/fe936312-2df7-4b07-87ec-0e04b94ae3ca)
 
 
 שאילתה מס 3:  מחיקת חיילים שמשרתים בצוותים שלא משויכים לאף כלי שיט, ושדרגתם היא סיילור ושלא משתמשים כמפקדים
@@ -194,6 +209,7 @@
 
 ![WhatsApp Image 2025-05-04 at 14 03 33_15eaad73](https://github.com/user-attachments/assets/3f729a84-0adc-4d99-8c53-d2cda1e7b2e9)
 
+נשאר ללא שינוי אחרי השאילתה.
 
 - **שאילתות update**
 
@@ -258,4 +274,42 @@
 
 - **commit**
 
+
+- שלב ראשון - begin
+
+![image](https://github.com/user-attachments/assets/e42f0423-4d4e-4302-8b53-1ef7437d6f7d)
+
+
+- שלב שני - עדכון הטבלה
+
+![image](https://github.com/user-attachments/assets/6e6a4318-fa7c-405f-baca-68e5096af2a5)
+
+
+- שלב שלישי - הדפסת הטבלה המעודכנת
+
+![image](https://github.com/user-attachments/assets/547d9317-6d77-4149-8103-9462bfb27e38)
+
+- שלב רביעי - commit
+
+![image](https://github.com/user-attachments/assets/f1e07131-53eb-4399-803a-c7f1b4a8d37b)
+
+
+- שלב חמישי - הדפסת הטבלה המעודכנת
+
+![image](https://github.com/user-attachments/assets/8e53dfc8-25db-4b54-b600-476d8d0208a0)
+
+
+### גיבוי 2
+
+קבצי גיבוי נשמרים עם התאריך של הגיבוי: [לתיקיית הגיבויים](Stage2/Backup)
+- ניכנס ל Tools -> Backup וניצור קובץ גיבוי עבור המבנה נתונים שלנו.
+
+![image](https://github.com/user-attachments/assets/d06b82b9-370c-4b5c-8861-a621c13339ad)
+
+![image](https://github.com/user-attachments/assets/9177f5dd-ac51-435b-b024-5cf3732d1287)
+
+
+- לאחר מכן נבצע Rstore על מנת לראות שהגיבוי עובד:
+
+![image](https://github.com/user-attachments/assets/926e4af5-654e-420c-b4b8-86a150049768)
 
