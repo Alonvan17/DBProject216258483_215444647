@@ -16,7 +16,7 @@
   - [שאילתות delete](#בחירה_מטבלאות)
   - [שאילתות update](#בחירה_מטבלאות)
   - [אילוצים](#אילוצים)
-  - [פקודות Rollback ו - Commit](#RollbackCommit)
+  - [פקודות](#erd-entity-relationship-diagram)
 
   - 
 
