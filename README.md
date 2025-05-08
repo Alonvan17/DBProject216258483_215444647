@@ -306,7 +306,7 @@
 
 ![image](https://github.com/user-attachments/assets/d06b82b9-370c-4b5c-8861-a621c13339ad)
 
-![image](https://github.com/user-attachments/assets/9177f5dd-ac51-435b-b024-5cf3732d1287)
+![image](https://github.com/user-attachments/assets/d2f73f63-20ef-40bf-8bf2-02d424f01c56)
 
 
 - לאחר מכן נבצע Rstore על מנת לראות שהגיבוי עובד:
