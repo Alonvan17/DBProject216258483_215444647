@@ -1,4 +1,4 @@
- # מסד נתונים לניהול חיל הים🚢
+![image](https://github.com/user-attachments/assets/dea0d891-b515-47e4-8791-0beb8d98d6eb) # מסד נתונים לניהול חיל הים🚢
 
 אלון ואן גלדר 216258483 ובעז זינגר 215444647
 
@@ -217,17 +217,44 @@
 
 ![WhatsApp Image 2025-05-04 at 14 12 25_33804c6e](https://github.com/user-attachments/assets/1547117c-5ea5-48dd-b208-ed02918fe08b)
 
+לפני:
+
+
+![image](https://github.com/user-attachments/assets/5a53110a-b0d0-4848-b176-6b8bc688ca08)
+
+אחרי:
+
+![image](https://github.com/user-attachments/assets/193599f9-e63b-4c1c-99c6-a353137fc9ba)
+
 
 שאילתה מס 2:  השאילתה מעדכנת את תאריך סיום ההשכרה של כלי שיט שנבדקו לפני 2024 ושייכים לבסיסים שיש בהם לפחות שלושה צוותים שונים, על ידי הוספת חודשיים לתאריך.
 
-
 ![WhatsApp Image 2025-05-04 at 14 17 23_2121865f](https://github.com/user-attachments/assets/77fbd5b3-48d4-43c9-8865-5449b08e6caf)
+
+לפני: 
+
+![image](https://github.com/user-attachments/assets/35f5b1f6-4363-4ebb-99c0-b6a07cc73d9e)
+
+
+אחרי:
+
+![image](https://github.com/user-attachments/assets/df0fc20c-1f43-4c40-bfb2-3d7c9f25ae16)
+
 
 
 שאילתה מס 3: השאילתה מעדכנת את שמות החיילים בדרגת קפטן בצוותים שלהם יש כלי שיט שנבדקו לפני שנת 2023 ובעלי קיבולת מצטברת גבוהה מ-1, על ידי הוספת תחילית לשם
 
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/06be3975-9240-4ef3-8b51-cae561b3a127" />
+
+לפני:
+
+
+![image](https://github.com/user-attachments/assets/2c3a1d0c-3c5b-45f3-86f4-49fcfe26994a)
+
+אחרי:
+
+![image](https://github.com/user-attachments/assets/6e6a4fae-746a-440d-9749-4854c4e8ab09)
 
 
 ###  אילוצים:
