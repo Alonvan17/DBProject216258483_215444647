@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dea0d891-b515-47e4-8791-0beb8d98d6eb) # מסד נתונים לניהול חיל הים🚢
+ # מסד נתונים לניהול חיל הים🚢
 
 אלון ואן גלדר 216258483 ובעז זינגר 215444647
 
