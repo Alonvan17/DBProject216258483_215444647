@@ -227,7 +227,7 @@
 שאילתה מס 3: השאילתה מעדכנת את שמות החיילים בדרגת קפטן בצוותים שלהם יש כלי שיט שנבדקו לפני שנת 2023 ובעלי קיבולת מצטברת גבוהה מ-1, על ידי הוספת תחילית לשם
 
 
-![WhatsApp Image 2025-05-04 at 14 21 23_1df10989](https://github.com/user-attachments/assets/e4a27b05-b697-4250-9844-1f4b73ad7b84)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/06be3975-9240-4ef3-8b51-cae561b3a127" />
 
 
 ###  אילוצים:
