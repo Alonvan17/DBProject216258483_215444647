@@ -348,4 +348,26 @@
 
 מתוך קובץ הגיבוי שלהם נבנה תרשים DSD:
 
-![DSD Diagram](Stage3/DSD/DSD1.png)  
+![DSD Diagram](Stbage3/DSD/DSD1.png)  
+
+נבצע reverse engineering:
+![ERD Diagram](Stage3/ERD/ERD1.png)  
+
+לאחר מכן ניצור את הERD  המשותף:
+
+![ERD Diagram](Stage3/ERD/ERD2.png)  
+
+לאחר מחשבה, הבנו שהדרך הנכונה לשלב בין שני תרשימי ה-ERD היא לחבר את סכמת הSoldiers שלנו לסכמת הSoldier של הקבוצה השנייה.
+אותו הדבר נעשה לגבי סכמת הCommander.
+לאחר מכן, החלטנו שהסכמה crew תהיה הסכמה המקשרת בין התרשימים -  אליה פונות הן הסכמות שלנו, כמו סכמת sea_vessel ו commander והן הסכמות של הקבוצה השנייה, כמו סכמת ה tank.
+
+דיאגרמת DSD משותף:
+
+![DSD Diagram](Stbage3/DSD/DSD2.png)  
+
+עדכון בסיס הנתונים:
+
+
+✍🏻 **[`Integration.sql`](Stage3/Integration.sql)**  
+
+
