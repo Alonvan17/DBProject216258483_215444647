@@ -348,7 +348,7 @@
 
 מתוך קובץ הגיבוי שלהם נבנה תרשים DSD:
 
-![DSD Diagram](Stbage3/DSD/DSD1.png)  
+![DSD Diagram](Stage3/DSD/DSD1.png)  
 
 נבצע reverse engineering:
 ![ERD Diagram](Stage3/ERD/ERD1.png)  
@@ -363,7 +363,7 @@
 
 דיאגרמת DSD משותף:
 
-![DSD Diagram](Stbage3/DSD/DSD2.png)  
+![DSD Diagram](Stage3/DSD/DSD2.png)  
 
 עדכון בסיס הנתונים:
 
