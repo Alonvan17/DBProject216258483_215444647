@@ -442,12 +442,16 @@
 שאילתה 2:
 מה היא עושה?
 
+✔ בוחרת רק טנקים שהשתתפו במשימות שהתקיימו לאחר 1 בינואר 2025.
+
+✔ מאפשרת להתמקד במשימות חדשות/עדכניות.
+
 ### גיבוי 3
 
 קבצי גיבוי נשמרים עם התאריך של הגיבוי: [לתיקיית הגיבויים](Stage3/Backup)
 - ניכנס ל Tools -> Backup וניצור קובץ גיבוי עבור המבנה נתונים שלנו.
 
-![image](https://github.com/user-attachments/assets/d06b82b9-370c-4b5c-8861-a621c13339ad)
+![image](https://github.com/user-attachments/assets/a9406fb0-152c-47de-8c3c-df74972785af)
 
 ![image](https://github.com/user-attachments/assets/d2f73f63-20ef-40bf-8bf2-02d424f01c56)
 
@@ -455,7 +459,3 @@
 - לאחר מכן נבצע Rstore על מנת לראות שהגיבוי עובד:
 
 ![image](https://github.com/user-attachments/assets/926e4af5-654e-420c-b4b8-86a150049768)
-✔ בוחרת רק טנקים שהשתתפו במשימות שהתקיימו לאחר 1 בינואר 2025.
-
-✔ מאפשרת להתמקד במשימות חדשות/עדכניות.
-
