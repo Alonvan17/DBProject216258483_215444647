@@ -385,75 +385,82 @@
 ###  מבטים:
 מבט ראשון:
 
-![image](https://github.com/user-attachments/assets/71fdb21a-a57d-4f10-a511-50d4a69c8126)
+![image](https://github.com/user-attachments/assets/1b71ccaa-e02d-4c24-ba46-b2d17ef6e60d)
+![image](https://github.com/user-attachments/assets/0596e042-9c63-4293-be48-1103573c3cb3)
+
 
 מבט מנקודת המבט של חיל הים 
 
 מה המבט מציג?
 
-✔	רשימה של כלי השיט (Sea_vessel)
-
-✔	הצוות שאליו שייך כל כלי שיט (Crew)
-
-✔	מפקד הצוות (Commander), אם יש
-
-✔	שם המפקד מתוך soldiers
-
-
-![image](https://github.com/user-attachments/assets/9c4160e5-6a14-48ab-b37b-dbfaec3db1b6)
-
-
 שאילתה 1:
+
+
+![image](https://github.com/user-attachments/assets/01efba25-a182-416c-912a-4f3a27bf362d)
+
 מה היא עושה?
 
-✔	מביאה את כל כלי השיט ומפקדיהם.
+השאילתה תספור ותחזיר את הכמות של כל סוג של ספינות שקיימות במאגר.
 
-✔	מאפשרת לקבל תמונה מלאה של כל כלי השיט בצי.
+![image](https://github.com/user-attachments/assets/3e3908a9-febb-4f5e-9e95-b4725496e5fe)
+
 
 שאילתה 2:
+
+
+![image](https://github.com/user-attachments/assets/97b7f9df-7960-4258-a88e-fbcc7fe211ba)
+
 מה היא עושה?
+השאילתה תחזיר את כל הבסיסים שמשחתות חונות באותו הבסיס. כאשר מספר המשחתות החונות יחושב ויוצג.
 
-✔ בוחרת רק כלי שיט בעלי קיבולת גדולה מ־100.
+![image](https://github.com/user-attachments/assets/bd6bc67e-2a47-4cb2-8f10-8702386fb8ac)
 
-✔	מראה רק כלי שיט שיש להם מפקד משויך.
 
 
 מבט שני:
 
-![image](https://github.com/user-attachments/assets/6ec70b14-1a80-430d-bef3-dd4e95a2e818)
+![image](https://github.com/user-attachments/assets/754fb8a6-3082-49e6-a08d-ba87474e7c52)
+![image](https://github.com/user-attachments/assets/c5ef8837-9612-40d9-a821-f3bcdf5d7d5e)
+
 
 מבט מנקודת המבט של חיל השריון
 
 מה המבט מציג?
 
-✔	רשימה של טנקים (TANK)
+	רשימה של טנקים (TANK)
+ לאיזו יחידה (UNIT) כל טנק שייך
+	באילו משימות (MISSION) היחידה שלו השתתפה
+	מתי התקיימה כל משימה
 
-✔	לאיזו יחידה (UNIT) כל טנק שייך
+ שאילתה 1:
 
-✔	באילו משימות (MISSION) היחידה שלו השתתפה
+![image](https://github.com/user-attachments/assets/441c8cca-8d53-4cf7-8cd8-685de4cd1cc4)
 
-✔	מתי התקיימה כל משימה
-
-![image](https://github.com/user-attachments/assets/dd85390e-55b9-4f2b-9845-205f03b19e63)
-
-שאילתה 1:
 מה היא עושה?
 
-✔	מביאה את כל הטנקים והמשימות בהן השתתפו.
+	מביאה את כל הטנקים והמשימות בהן השתתפו.
+	מאפשרת לראות מיפוי של כל הטנקים לכל משימה.
+![image](https://github.com/user-attachments/assets/10f61f94-01e0-41b3-8905-1c868c63d59e)
 
-✔	מאפשרת לראות מיפוי של כל הטנקים לכל משימה.
 
 שאילתה 2:
+
+ 
+ ![image](https://github.com/user-attachments/assets/0ba67dfc-a8f4-4600-a188-57ef25eeaf3b)
+![image](https://github.com/user-attachments/assets/61aaa9fd-216e-494a-8051-c45f5c77bb42)
+
 מה היא עושה?
 
-✔ בוחרת רק טנקים שהשתתפו במשימות שהתקיימו לאחר 1 בינואר 2025.
+בוחרת רק טנקים שהשתתפו במשימות שהתקיימו לאחר 1 בינואר 2023.
+מאפשרת להתמקד במשימות חדשות/עדכניות.
 
-✔ מאפשרת להתמקד במשימות חדשות/עדכניות.
+![image](https://github.com/user-attachments/assets/5d6d56d3-9e21-451a-8f3a-338634b77f74)
+
 
 
 נראה בבסיס נתונים את שני המבטים שיצרנו:
 
-![image](https://github.com/user-attachments/assets/b52b8a54-91f6-4139-a6bd-83cc28865922)
+![image](https://github.com/user-attachments/assets/b7d7ad38-7de8-44bd-8cf4-d81ba8c08ea0)
 
 
 ### גיבוי 3
