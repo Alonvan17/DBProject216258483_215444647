@@ -1,13 +1,18 @@
-CREATE OR REPLACE VIEW NAVY_VESSELS_COMMANDERS_VIEW AS
-SELECT
-    sv.sea_ID AS vessel_id,
+CREATE VIEW v_all_ships AS
+SELECT 
+    sv.sea_id,
     sv.nickname,
     sv.capacity,
-    c.c_ID AS crew_id,
-    com.s_ID AS commander_id,
-    s.name AS commander_name
-FROM
-    Sea_vessel sv
-    JOIN Crew c ON sv.c_ID = c.c_ID
-    LEFT JOIN Commander com ON c.c_ID = com.c_ID
-    LEFT JOIN Soldier s ON com.s_ID = s.s_ID;
+    b.location AS base_location,
+    CASE 
+        WHEN d.sea_id IS NOT NULL THEN 'Destroyer'
+        WHEN ms.sea_id IS NOT NULL THEN 'Missile Ship'
+        WHEN sub.sea_id IS NOT NULL THEN 'Submarine'
+        ELSE 'Sea Vessel'
+    END AS ship_type
+FROM sea_vessel sv
+LEFT JOIN base b ON sv.base_id = b.base_id
+LEFT JOIN warship ws ON sv.sea_id = ws.sea_id
+LEFT JOIN destroyer d ON ws.sea_id = d.sea_id
+LEFT JOIN missile_ship ms ON ws.sea_id = ms.sea_id
+LEFT JOIN submarine sub ON sv.sea_id = sub.sea_id;
