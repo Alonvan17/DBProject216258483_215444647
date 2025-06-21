@@ -1,5 +1,8 @@
-SELECT * FROM NAVY_VESSELS_COMMANDERS_VIEW;
+SELECT ship_type, COUNT(*) AS count
+FROM V_ALL_SHIPS
+GROUP BY ship_type;
 
-SELECT vessel_id, nickname, capacity, commander_name
-FROM NAVY_VESSELS_COMMANDERS_VIEW
-WHERE capacity > 100 AND commander_id IS NOT NULL;
+SELECT COUNT(sea_id), base_location
+FROM V_ALL_SHIPS
+where ship_type = 'Destroyer'
+GROUP BY base_location;
