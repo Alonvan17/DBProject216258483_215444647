@@ -16,11 +16,11 @@ BEGIN
         GROUP BY s.s_ID
     LOOP
         IF rec.missions >= 5 THEN
-            UPDATE Soldier SET rank = 'admiral' WHERE s_ID = rec.s_ID;
+            UPDATE Soldiers SET rank = 'admiral' WHERE s_ID = rec.s_ID;
         ELSIF rec.missions >= 3 THEN
-            UPDATE Soldier SET rank = 'captain' WHERE s_ID = rec.s_ID;
+            UPDATE Soldiers SET rank = 'captain' WHERE s_ID = rec.s_ID;
         ELSE
-            UPDATE Soldier SET rank = 'sailor' WHERE s_ID = rec.s_ID;
+            UPDATE Soldiers SET rank = 'sailor' WHERE s_ID = rec.s_ID;
         END IF;
     END LOOP;
 END;
