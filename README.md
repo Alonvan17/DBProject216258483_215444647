@@ -607,6 +607,9 @@
 ✍🏻 **[`main1.sql`](Stage4/Main/main1.sql)** 
 
 
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/4c8986bf-dc20-4c11-bf0d-7a9c900fe12e" />
+
 תוכנית ראשית 2 – שיוך חייל והצגת סיכום
 
 תיאור כללי:
