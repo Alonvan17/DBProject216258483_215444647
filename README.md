@@ -617,3 +617,6 @@
 
 ✍🏻 **[`main2.sql`](Stage4/Main/main2.sql)** 
 
+
+![image](https://github.com/user-attachments/assets/a8ba70fa-d5a5-44c8-b0fa-c909d3164c4b)
+
