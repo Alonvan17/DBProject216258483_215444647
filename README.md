@@ -481,8 +481,9 @@
 ### פונקציות:  
 
 
-פונקציה 1 – ניתוח ביצועי מפקדים ✍🏻 **[`function1.sql`](Stage4/function1.sql)** 
+פונקציה 1 – ניתוח ביצועי מפקדים 
 שם: fn_commander_performance()
+✍🏻 **[`function2.sql`](Stage4/Functions/function1.sql)** 
 
 מטרה: לספק מדד איכות על פי מספר טנקים ומבצעים שכל מפקד היה אחראי עליהם.
 
@@ -494,9 +495,10 @@
 ![WhatsApp Image 2025-06-21 at 22 45 57_c97f2f7b](https://github.com/user-attachments/assets/c79398f7-ea46-4fea-9f03-70343311dac8)
 
 
-פונקציה 2 – סיכום חיילים לפי יחידות ✍🏻 **[`function2.sql`](Stage4/function1.sql)** 
+פונקציה 2 – סיכום חיילים לפי יחידות 
 שם: fn_soldier_unit_summary(commander_id INT)
 
+✍🏻 **[`function2.sql`](Stage4/Functions/function2.sql)** 
 מטרה: להחזיר עבור מפקד מסוים את כל החיילים שתחת פיקודו, כולל היחידה, הטנק והתפקיד שלהם בצוות.
 
 תיאור כללי:
