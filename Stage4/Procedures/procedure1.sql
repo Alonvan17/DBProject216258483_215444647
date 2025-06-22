@@ -8,7 +8,7 @@ BEGIN
         SELECT s.s_ID, COUNT(DISTINCT m.mID) AS missions
         FROM Commander c
         JOIN Crew cr ON c.c_ID = cr.c_ID
-        JOIN Soldier s ON c.s_ID = s.s_ID
+        JOIN Soldiers s ON c.s_ID = s.s_ID
         JOIN Tank t ON t.c_ID = cr.c_ID
         JOIN Unit u ON t.unID = u.unID
         JOIN participates p ON u.unID = p.unID
