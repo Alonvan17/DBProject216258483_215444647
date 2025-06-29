@@ -25,6 +25,7 @@
   - [פרוצדורות](#פרוצדורות)
   - [טריגרים](#טריגרים)
   - [תוכניות](#תוכניות)  
+- [שלב 5: ממשק גרפי](#שלב-5-ממשק-גרפי)
 
 
 
@@ -619,4 +620,23 @@
 
 
 ![image](https://github.com/user-attachments/assets/a8ba70fa-d5a5-44c8-b0fa-c909d3164c4b)
+
+
+## שלב 5: ממשק גרפי
+
+![image](https://github.com/user-attachments/assets/4ac777ad-bcb0-4bae-ba6f-2b4b875a4979)
+
+![image](https://github.com/user-attachments/assets/4bd5d770-af4d-48eb-bc4a-c36b14286ab7)
+
+![image](https://github.com/user-attachments/assets/2fe4b17e-dca2-4d4d-9535-12df7b398d2f)
+
+![image](https://github.com/user-attachments/assets/13d95979-287f-4d40-b249-3091fda1b94f)
+
+![image](https://github.com/user-attachments/assets/d7c9c667-8768-4082-88de-dd52ab838780)
+
+![image](https://github.com/user-attachments/assets/d837ca38-bda4-4f7d-870c-612be5b6b21c)
+
+
+
+
 
